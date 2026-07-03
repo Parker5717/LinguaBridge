@@ -1,0 +1,15 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+app/src/main/assets/content.db
+tools/__pycache__/
+tools/**/__pycache__/
+.pytest_cache/
+*.pyc
+captures/
+.externalNativeBuild/
+.cxx/

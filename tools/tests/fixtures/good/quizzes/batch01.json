@@ -1,0 +1,23 @@
+[
+  {
+    "id": "quiz:vocab:0001",
+    "category": "vocab",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "What does 'landlord' mean?",
+    "options": ["A person who rents a house from the owner", "A person who owns and rents out property", "A person who repairs houses", "A type of apartment"],
+    "answer": "A person who owns and rents out property",
+    "explanation": "A landlord is the owner of a rented property."
+  },
+  {
+    "id": "quiz:listening:0001",
+    "category": "listening",
+    "level": "A2",
+    "type": "typing",
+    "prompt": "Where did Maria go on Saturday morning?",
+    "options": null,
+    "answer": "the market",
+    "explanation": "The passage states she went to the local market.",
+    "passage_id": "pass:a2:01"
+  }
+]

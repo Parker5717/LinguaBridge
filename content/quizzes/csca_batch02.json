@@ -1,0 +1,200 @@
+[
+  {
+    "id": "quiz:csca:0013",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "A car travels 120 km in 1.5 hours. What is its average speed?",
+    "options": ["60 km/h", "80 km/h", "90 km/h", "180 km/h"],
+    "answer": "80 km/h",
+    "explanation": "'Average speed' means distance divided by time: 120 / 1.5 = 80 km/h.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0014",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "The price of a jacket was reduced by 20 percent. If the original price was 50 dollars, what is the new price?",
+    "options": ["10 dollars", "30 dollars", "40 dollars", "45 dollars"],
+    "answer": "40 dollars",
+    "explanation": "'Reduced by 20 percent' means subtract 20% of the price: 50 - (0.20 × 50) = 50 - 10 = 40 dollars.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0015",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "A tank holds a maximum of 200 liters. If it currently contains 150 liters, how many more liters can it hold?",
+    "options": ["30 liters", "50 liters", "150 liters", "200 liters"],
+    "answer": "50 liters",
+    "explanation": "'Maximum' means the largest possible amount. The remaining space is 200 - 150 = 50 liters.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0016",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "An object is dropped from rest and falls for 3 seconds before hitting the ground. What was its initial speed?",
+    "options": ["0 m/s", "3 m/s", "9 m/s", "30 m/s"],
+    "answer": "0 m/s",
+    "explanation": "'Dropped from rest' means the object starts with zero speed, so its initial speed is 0 m/s.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0017",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "The width of a garden is one-third of its length. If the length is 18 meters, what is the width?",
+    "options": ["3 meters", "6 meters", "9 meters", "54 meters"],
+    "answer": "6 meters",
+    "explanation": "'One-third of' means divide by 3. So the width is 18 / 3 = 6 meters.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0018",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Two forces act on an object in opposite directions: 10 newtons and 4 newtons. What is the net force?",
+    "options": ["4 newtons", "6 newtons", "10 newtons", "14 newtons"],
+    "answer": "6 newtons",
+    "explanation": "'In opposite directions' means the forces subtract rather than add. Net force = 10 - 4 = 6 newtons.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0019",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "A number, when doubled and then increased by 3, equals 15. What is the original number?",
+    "options": ["3", "6", "9", "12"],
+    "answer": "6",
+    "explanation": "'Doubled and then increased by 3' means 2x + 3 = 15, so 2x = 12 and x = 6.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0020",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "A runner's speed exceeds a walker's speed by 4 m/s. If the walker moves at 1.5 m/s, what is the runner's speed?",
+    "options": ["1.5 m/s", "2.5 m/s", "4 m/s", "5.5 m/s"],
+    "answer": "5.5 m/s",
+    "explanation": "'Exceeds by 4' means 'is 4 more than'. So the runner's speed is 1.5 + 4 = 5.5 m/s.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0021",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "A block is at rest on a table. It remains stationary because the forces on it are described as what?",
+    "options": ["balanced", "unbalanced", "accelerating", "increasing"],
+    "answer": "balanced",
+    "explanation": "'At rest' and 'remains stationary' means there is no net movement, which happens only when the forces are balanced (equal and opposite).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0022",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "The population of a town doubled every 10 years. If it started at 2,000, what was the population after 20 years?",
+    "options": ["2,000", "4,000", "6,000", "8,000"],
+    "answer": "8,000",
+    "explanation": "'Doubled every 10 years' means multiply by 2 twice over 20 years: 2,000 × 2 × 2 = 8,000.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0023",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "A cyclist's speed is reduced to a quarter of its original value after braking. If the original speed was 20 km/h, what is the new speed?",
+    "options": ["4 km/h", "5 km/h", "15 km/h", "16 km/h"],
+    "answer": "5 km/h",
+    "explanation": "'Reduced to a quarter of' means divide by 4 (not subtract a quarter). So 20 / 4 = 5 km/h.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0024",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "A recipe requires ingredients in the ratio of 2 parts flour to 1 part sugar. If there are 6 cups of flour, how much sugar is needed?",
+    "options": ["2 cups", "3 cups", "6 cups", "12 cups"],
+    "answer": "3 cups",
+    "explanation": "'Ratio of 2 parts flour to 1 part sugar' means sugar is always half the flour amount. So 6 / 2 = 3 cups.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0025",
+    "category": "csca",
+    "level": "NA",
+    "type": "typing",
+    "prompt": "A quantity is inversely proportional to time. If it takes 4 units at 2 seconds, how many units does it take at 4 seconds? (number only)",
+    "options": null,
+    "answer": "2",
+    "explanation": "'Inversely proportional' means their product stays constant: 4 × 2 = 8, so at 4 seconds the quantity is 8 / 4 = 2.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0026",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "An object's velocity changes from 5 m/s to 15 m/s in 5 seconds. What is its acceleration?",
+    "options": ["1 m/s²", "2 m/s²", "5 m/s²", "10 m/s²"],
+    "answer": "2 m/s²",
+    "explanation": "'Acceleration' is the change in velocity divided by time: (15 - 5) / 5 = 10 / 5 = 2 m/s².",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0027",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "A shop's revenue this month is not less than last month's 4,000 dollars. Which of these could be this month's revenue?",
+    "options": ["3,500 dollars", "3,900 dollars", "4,000 dollars", "3,000 dollars"],
+    "answer": "4,000 dollars",
+    "explanation": "'Not less than' means greater than or equal to. Only 4,000 dollars satisfies revenue ≥ 4,000.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0028",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "A wire's length is reduced by half, and then that result is reduced by half again. If the original length was 40 cm, what is the final length?",
+    "options": ["10 cm", "20 cm", "30 cm", "0 cm"],
+    "answer": "10 cm",
+    "explanation": "'Reduced by half' twice means divide by 2 twice: 40 / 2 = 20, then 20 / 2 = 10 cm.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0029",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Two trains depart simultaneously from the same station in opposite directions, each at 60 km/h. How far apart are they after 2 hours?",
+    "options": ["60 km", "120 km", "180 km", "240 km"],
+    "answer": "240 km",
+    "explanation": "'Simultaneously in opposite directions' means their separation speed adds up: 60 + 60 = 120 km/h, so after 2 hours they are 120 × 2 = 240 km apart.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0030",
+    "category": "csca",
+    "level": "NA",
+    "type": "typing",
+    "prompt": "A quantity y varies directly with x. If y is 12 when x is 3, express y in terms of x. (write as 'ax', replacing a with the number)",
+    "options": null,
+    "answer": "4x",
+    "explanation": "'Varies directly with' means y = kx for constant k. Since 12 = k × 3, k = 4, so y = 4x.",
+    "passage_id": null
+  }
+]

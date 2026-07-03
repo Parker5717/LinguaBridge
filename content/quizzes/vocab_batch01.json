@@ -1,0 +1,134 @@
+[
+  {
+    "id": "quiz:vocab:0001",
+    "category": "vocab",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "I need a _____ from the restaurant to show my parents what I paid.",
+    "options": ["receipt", "recipe", "restaurant"],
+    "answer": "receipt",
+    "explanation": "A 'receipt' is proof of payment. A 'recipe' is cooking instructions. These sound similar but have completely different meanings.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0002",
+    "category": "vocab",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "Can I _____ your pen? I'll give it back tomorrow.",
+    "options": ["lend", "borrow", "give"],
+    "answer": "borrow",
+    "explanation": "To 'borrow' means to take something temporarily. To 'lend' means to give something temporarily. If you need the pen, you borrow it; the owner lends it to you.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0003",
+    "category": "vocab",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "The university ___ the lecture hall with modern technology.",
+    "options": ["provided", "equipped", "joined"],
+    "answer": "equipped",
+    "explanation": "To 'equip' means to supply with necessary tools or equipment. 'Equipped' is the past tense form used here. To 'provide' is more general and means to give or supply something.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0004",
+    "category": "vocab",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "She _____ the presentation very well. Everyone understood her explanation.",
+    "options": ["held", "delivered", "made"],
+    "answer": "delivered",
+    "explanation": "To 'deliver' means to present or give (especially a speech or presentation) in front of others. It shows a prepared, formal presentation better than simple 'made' or 'held'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0005",
+    "category": "vocab",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "All students must _____ the final exam in June.",
+    "options": ["assist", "attend", "achieve"],
+    "answer": "attend",
+    "explanation": "To 'attend' means to be present at an event. To 'assist' means to help. Russian 'ассистировать' is a false friend — it does not mean 'attend'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0006",
+    "category": "vocab",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "The _____ problem is that many students lack English skills for university.",
+    "options": ["actual", "current", "real"],
+    "answer": "current",
+    "explanation": "Use 'current' for the present situation. 'Actual' means 'real' or 'in fact'. Russian 'актуальный' (topical, relevant) is NOT the same as English 'actual'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0007",
+    "category": "vocab",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "The teacher will _____ your essay on grammar and vocabulary.",
+    "options": ["estimate", "assess", "count"],
+    "answer": "assess",
+    "explanation": "To 'assess' means to evaluate or judge the quality of something. To 'estimate' means to guess the approximate amount or value. In education, 'assess' is the standard term for grading work.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0008",
+    "category": "vocab",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "You can _____ the university library online to find research materials.",
+    "options": ["access", "assess", "achieve"],
+    "answer": "access",
+    "explanation": "To 'access' means to enter or reach something (a system, place, or information). To 'assess' means to evaluate. Russian 'аксент' (accent) sounds like 'access' but means something different; be careful not to confuse these.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0009",
+    "category": "vocab",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "The economic crisis will _____ employment rates across the country.",
+    "options": ["affect", "effect", "arise"],
+    "answer": "affect",
+    "explanation": "'Affect' (verb) means to influence or change. 'Effect' (noun) means a result or consequence. In this sentence, the crisis influences (affects) employment, creating an effect.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0010",
+    "category": "vocab",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "The company profits will _____ by 20 percent next quarter.",
+    "options": ["raise", "rise", "arise"],
+    "answer": "rise",
+    "explanation": "'Rise' means to go up (intransitive — no object needed). 'Raise' means to lift or increase something (transitive — needs an object). Profits rise; you raise prices. Russian 'рост' relates to 'rise', not 'raise'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0011",
+    "category": "vocab",
+    "level": "B2",
+    "type": "typing",
+    "prompt": "The research shows that regular exercise has a positive ___ on mental health. (Fill in the missing word, singular noun.)",
+    "options": null,
+    "answer": "effect",
+    "explanation": "'Effect' (noun) means the result or consequence of something. 'Affect' is a verb. The positive result of exercise is an 'effect'. Be careful with the spelling — they sound similar.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0012",
+    "category": "vocab",
+    "level": "B2",
+    "type": "typing",
+    "prompt": "You need to ___ your hand when you have a question in class. (Type the infinitive form of the verb.)",
+    "options": null,
+    "answer": "raise",
+    "explanation": "'Raise' means to lift something up. 'Your hand rises' describes the motion; 'you raise your hand' describes your action. Russian 'поднимать рук' translates to 'raise (one's) hand', not 'rise'.",
+    "passage_id": null
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "stem:math:0001",
+    "domain": "math",
+    "term": "numerator",
+    "ru_translation": "числитель",
+    "symbol": null,
+    "en_definition": "the top number in a fraction that shows how many parts are taken",
+    "csca_example": "In the fraction 3/5, the numerator is 3."
+  },
+  {
+    "id": "stem:math:0002",
+    "domain": "math",
+    "term": "denominator",
+    "ru_translation": "знаменатель",
+    "symbol": null,
+    "en_definition": "the bottom number in a fraction that shows the total number of equal parts",
+    "csca_example": "Reduce the fraction to its lowest terms by dividing both numerator and denominator by their GCD."
+  },
+  {
+    "id": "stem:math:0003",
+    "domain": "math",
+    "term": "fraction",
+    "ru_translation": "дробь",
+    "symbol": null,
+    "en_definition": "a number that represents part of a whole, written as one number over another",
+    "csca_example": "Express 0.25 as a simple fraction in lowest terms."
+  },
+  {
+    "id": "stem:math:0004",
+    "domain": "math",
+    "term": "decimal",
+    "ru_translation": "десятичная дробь",
+    "symbol": null,
+    "en_definition": "a number system based on the powers of ten, using a decimal point",
+    "csca_example": "Convert the fraction 7/8 to a decimal."
+  },
+  {
+    "id": "stem:math:0005",
+    "domain": "math",
+    "term": "percentage",
+    "ru_translation": "процент",
+    "symbol": "%",
+    "en_definition": "a number or ratio expressed as a fraction of 100",
+    "csca_example": "Calculate what percentage of 200 is equal to 50."
+  },
+  {
+    "id": "stem:math:0006",
+    "domain": "math",
+    "term": "prime number",
+    "ru_translation": "простое число",
+    "symbol": null,
+    "en_definition": "a natural number greater than 1 that has no positive divisors other than 1 and itself",
+    "csca_example": "List all prime numbers between 10 and 30."
+  },
+  {
+    "id": "stem:math:0007",
+    "domain": "math",
+    "term": "even number",
+    "ru_translation": "чётное число",
+    "symbol": null,
+    "en_definition": "a whole number that is divisible by 2 without remainder",
+    "csca_example": "Identify which of these numbers is even: 17, 24, 35, 42."
+  },
+  {
+    "id": "stem:math:0008",
+    "domain": "math",
+    "term": "odd number",
+    "ru_translation": "нечётное число",
+    "symbol": null,
+    "en_definition": "a whole number that is not divisible by 2 without remainder",
+    "csca_example": "The sum of two odd numbers is always an even number."
+  },
+  {
+    "id": "stem:math:0009",
+    "domain": "math",
+    "term": "integer",
+    "ru_translation": "целое число",
+    "symbol": "ℤ",
+    "en_definition": "a whole number, positive, negative, or zero, with no fractional part",
+    "csca_example": "Which of the following values are integers? 5, 3.5, -2, 0, π."
+  },
+  {
+    "id": "stem:math:0010",
+    "domain": "math",
+    "term": "rational number",
+    "ru_translation": "рациональное число",
+    "symbol": "ℚ",
+    "en_definition": "a number that can be expressed as a ratio of two integers",
+    "csca_example": "Prove that 0.75 is a rational number by expressing it as a fraction."
+  },
+  {
+    "id": "stem:math:0011",
+    "domain": "math",
+    "term": "irrational number",
+    "ru_translation": "иррациональное число",
+    "symbol": null,
+    "en_definition": "a real number that cannot be expressed as a ratio of two integers",
+    "csca_example": "Show that π and the square root of 2 are irrational numbers."
+  },
+  {
+    "id": "stem:math:0012",
+    "domain": "math",
+    "term": "real number",
+    "ru_translation": "действительное число",
+    "symbol": "ℝ",
+    "en_definition": "any number that can be placed on a number line, including rational and irrational numbers",
+    "csca_example": "The set of real numbers includes all integers, fractions, and decimals."
+  },
+  {
+    "id": "stem:math:0013",
+    "domain": "math",
+    "term": "absolute value",
+    "ru_translation": "абсолютная величина",
+    "symbol": "| |",
+    "en_definition": "the distance of a number from zero on a number line, always non-negative",
+    "csca_example": "Calculate the absolute value of -15 and 15."
+  },
+  {
+    "id": "stem:math:0014",
+    "domain": "math",
+    "term": "reciprocal",
+    "ru_translation": "обратное число",
+    "symbol": null,
+    "en_definition": "for a number a, the reciprocal is 1/a; two numbers whose product is 1",
+    "csca_example": "Find the reciprocal of 4/7."
+  },
+  {
+    "id": "stem:math:0015",
+    "domain": "math",
+    "term": "round to the nearest",
+    "ru_translation": "округлить до",
+    "symbol": null,
+    "en_definition": "to approximate a number to a specified place value or number of decimal places",
+    "csca_example": "Round 3.647 to the nearest tenth."
+  },
+  {
+    "id": "stem:math:0016",
+    "domain": "math",
+    "term": "equation",
+    "ru_translation": "уравнение",
+    "symbol": "=",
+    "en_definition": "a mathematical statement that two expressions are equal",
+    "csca_example": "Solve the equation 2x + 5 = 13 for x."
+  },
+  {
+    "id": "stem:math:0017",
+    "domain": "math",
+    "term": "linear equation",
+    "ru_translation": "линейное уравнение",
+    "symbol": null,
+    "en_definition": "an equation in which the variable has a power of 1, forming a straight line when graphed",
+    "csca_example": "The equation y = 3x - 2 is a linear equation with slope 3."
+  },
+  {
+    "id": "stem:math:0018",
+    "domain": "math",
+    "term": "quadratic equation",
+    "ru_translation": "квадратное уравнение",
+    "symbol": null,
+    "en_definition": "a polynomial equation of degree 2 with the form ax² + bx + c = 0",
+    "csca_example": "Solve the quadratic equation x² - 5x + 6 = 0 using factorization."
+  },
+  {
+    "id": "stem:math:0019",
+    "domain": "math",
+    "term": "variable",
+    "ru_translation": "переменная",
+    "symbol": "x, y, z",
+    "en_definition": "a symbol (usually a letter) that represents an unknown or changeable number",
+    "csca_example": "In the expression 3x + 2, x is the variable."
+  },
+  {
+    "id": "stem:math:0020",
+    "domain": "math",
+    "term": "constant",
+    "ru_translation": "константа",
+    "symbol": null,
+    "en_definition": "a fixed value that does not change, represented by a number or special symbol",
+    "csca_example": "In the equation y = 2x + 5, the number 5 is a constant."
+  },
+  {
+    "id": "stem:math:0021",
+    "domain": "math",
+    "term": "coefficient",
+    "ru_translation": "коэффициент",
+    "symbol": null,
+    "en_definition": "a numerical factor that multiplies a variable in an algebraic expression",
+    "csca_example": "In the term 7x², the coefficient is 7."
+  },
+  {
+    "id": "stem:math:0022",
+    "domain": "math",
+    "term": "expression",
+    "ru_translation": "выражение",
+    "symbol": null,
+    "en_definition": "a combination of numbers, variables, and operations without an equal sign",
+    "csca_example": "Simplify the expression 3(x + 2) - 4x."
+  },
+  {
+    "id": "stem:math:0023",
+    "domain": "math",
+    "term": "simplify",
+    "ru_translation": "упростить",
+    "symbol": null,
+    "en_definition": "to reduce an expression to its most basic or simplest form",
+    "csca_example": "Simplify the expression and reduce the fraction to its lowest terms."
+  },
+  {
+    "id": "stem:math:0024",
+    "domain": "math",
+    "term": "solve for",
+    "ru_translation": "решить относительно",
+    "symbol": null,
+    "en_definition": "to find the value of a variable that makes an equation true",
+    "csca_example": "Solve for y in the equation 3y + 6 = 15."
+  },
+  {
+    "id": "stem:math:0025",
+    "domain": "math",
+    "term": "root",
+    "ru_translation": "корень",
+    "symbol": "√",
+    "en_definition": "a value that, when raised to a certain power, gives the original number",
+    "csca_example": "Find the square root of 144."
+  },
+  {
+    "id": "stem:math:0026",
+    "domain": "math",
+    "term": "square root",
+    "ru_translation": "квадратный корень",
+    "symbol": "√",
+    "en_definition": "a number that, when multiplied by itself, gives the original number",
+    "csca_example": "Calculate the square root of 25."
+  },
+  {
+    "id": "stem:math:0027",
+    "domain": "math",
+    "term": "power",
+    "ru_translation": "степень",
+    "symbol": "^",
+    "en_definition": "the result of multiplying a base number by itself a specified number of times",
+    "csca_example": "Express 2 to the power of 5 as a single number."
+  },
+  {
+    "id": "stem:math:0028",
+    "domain": "math",
+    "term": "to the power of",
+    "ru_translation": "в степени",
+    "symbol": "^",
+    "en_definition": "raised to an exponent; indicates repeated multiplication of a base number",
+    "csca_example": "Calculate 3 to the power of 4."
+  },
+  {
+    "id": "stem:math:0029",
+    "domain": "math",
+    "term": "exponent",
+    "ru_translation": "показатель степени",
+    "symbol": null,
+    "en_definition": "a number that indicates how many times a base is multiplied by itself",
+    "csca_example": "In the expression 5³, the exponent is 3."
+  },
+  {
+    "id": "stem:math:0030",
+    "domain": "math",
+    "term": "base",
+    "ru_translation": "основание",
+    "symbol": null,
+    "en_definition": "the number being multiplied by itself a number of times, as indicated by an exponent",
+    "csca_example": "In the expression 2^6, the base is 2."
+  },
+  {
+    "id": "stem:math:0031",
+    "domain": "math",
+    "term": "inequality",
+    "ru_translation": "неравенство",
+    "symbol": "<, >, ≤, ≥",
+    "en_definition": "a mathematical statement showing that two values are not equal, using symbols like < or >",
+    "csca_example": "Solve the inequality 2x + 3 > 7."
+  },
+  {
+    "id": "stem:math:0032",
+    "domain": "math",
+    "term": "greater than",
+    "ru_translation": "больше чем",
+    "symbol": ">",
+    "en_definition": "indicates that one value is larger than another",
+    "csca_example": "Is 15 greater than 10?"
+  },
+  {
+    "id": "stem:math:0033",
+    "domain": "math",
+    "term": "less than",
+    "ru_translation": "меньше чем",
+    "symbol": "<",
+    "en_definition": "indicates that one value is smaller than another",
+    "csca_example": "Determine which value is less than the others: 5, 8, 3."
+  },
+  {
+    "id": "stem:math:0034",
+    "domain": "math",
+    "term": "greater than or equal to",
+    "ru_translation": "больше или равно",
+    "symbol": "≥",
+    "en_definition": "indicates that one value is larger than or the same as another",
+    "csca_example": "The inequality x ≥ 5 means x is greater than or equal to 5."
+  },
+  {
+    "id": "stem:math:0035",
+    "domain": "math",
+    "term": "less than or equal to",
+    "ru_translation": "меньше или равно",
+    "symbol": "≤",
+    "en_definition": "indicates that one value is smaller than or the same as another",
+    "csca_example": "Find all values of y where y ≤ 10."
+  },
+  {
+    "id": "stem:math:0036",
+    "domain": "math",
+    "term": "function",
+    "ru_translation": "функция",
+    "symbol": "f(x)",
+    "en_definition": "a relationship between inputs and outputs where each input has exactly one output",
+    "csca_example": "Given the function f(x) = 2x + 1, find f(3)."
+  },
+  {
+    "id": "stem:math:0037",
+    "domain": "math",
+    "term": "domain",
+    "ru_translation": "область определения",
+    "symbol": null,
+    "en_definition": "the set of all possible input values (x-values) for which a function is defined",
+    "csca_example": "Find the domain of the function f(x) = 1/(x-2)."
+  },
+  {
+    "id": "stem:math:0038",
+    "domain": "math",
+    "term": "range",
+    "ru_translation": "область значений",
+    "symbol": null,
+    "en_definition": "the set of all possible output values (y-values) of a function",
+    "csca_example": "Determine the range of the function f(x) = x² for x ≥ 0."
+  },
+  {
+    "id": "stem:math:0039",
+    "domain": "math",
+    "term": "graph",
+    "ru_translation": "график",
+    "symbol": null,
+    "en_definition": "a visual representation of a function or data set on a coordinate plane",
+    "csca_example": "Sketch the graph of the function y = 2x - 3."
+  },
+  {
+    "id": "stem:math:0040",
+    "domain": "math",
+    "term": "slope",
+    "ru_translation": "угловой коэффициент",
+    "symbol": "m",
+    "en_definition": "the measure of how steep a line is, calculated as rise over run",
+    "csca_example": "Find the slope of the line passing through points (2, 3) and (5, 9)."
+  },
+  {
+    "id": "stem:math:0041",
+    "domain": "math",
+    "term": "intercept",
+    "ru_translation": "пересечение",
+    "symbol": null,
+    "en_definition": "the point where a line or curve crosses the x-axis or y-axis",
+    "csca_example": "Find the y-intercept of the line y = 3x + 2."
+  },
+  {
+    "id": "stem:math:0042",
+    "domain": "math",
+    "term": "y-intercept",
+    "ru_translation": "пересечение с осью y",
+    "symbol": "b",
+    "en_definition": "the y-coordinate of the point where a line crosses the y-axis",
+    "csca_example": "In the equation y = 2x + 5, the y-intercept is 5."
+  },
+  {
+    "id": "stem:math:0043",
+    "domain": "math",
+    "term": "x-intercept",
+    "ru_translation": "пересечение с осью x",
+    "symbol": null,
+    "en_definition": "the x-coordinate of the point where a line crosses the x-axis",
+    "csca_example": "Find the x-intercept of the equation 3x - 6 = 0."
+  },
+  {
+    "id": "stem:math:0044",
+    "domain": "math",
+    "term": "parallel",
+    "ru_translation": "параллельный",
+    "symbol": "||",
+    "en_definition": "lines or planes that never intersect and maintain constant distance apart",
+    "csca_example": "Determine if the lines y = 2x + 1 and y = 2x - 3 are parallel."
+  },
+  {
+    "id": "stem:math:0045",
+    "domain": "math",
+    "term": "perpendicular",
+    "ru_translation": "перпендикулярный",
+    "symbol": "⊥",
+    "en_definition": "lines or planes that intersect at right angles (90 degrees)",
+    "csca_example": "Show that the lines y = 2x and y = -0.5x are perpendicular."
+  },
+  {
+    "id": "stem:math:0046",
+    "domain": "math",
+    "term": "angle",
+    "ru_translation": "угол",
+    "symbol": "∠",
+    "en_definition": "the measure of the opening between two lines or rays that meet at a point",
+    "csca_example": "Calculate the measure of angle ABC in the triangle."
+  },
+  {
+    "id": "stem:math:0047",
+    "domain": "math",
+    "term": "right angle",
+    "ru_translation": "прямой угол",
+    "symbol": "90°",
+    "en_definition": "an angle that measures exactly 90 degrees",
+    "csca_example": "A right angle is formed where two perpendicular lines meet."
+  },
+  {
+    "id": "stem:math:0048",
+    "domain": "math",
+    "term": "acute angle",
+    "ru_translation": "острый угол",
+    "symbol": null,
+    "en_definition": "an angle that measures less than 90 degrees",
+    "csca_example": "Identify which angle is acute: 45°, 90°, or 120°."
+  },
+  {
+    "id": "stem:math:0049",
+    "domain": "math",
+    "term": "obtuse angle",
+    "ru_translation": "тупой угол",
+    "symbol": null,
+    "en_definition": "an angle that measures more than 90 degrees but less than 180 degrees",
+    "csca_example": "An obtuse angle is larger than a right angle."
+  },
+  {
+    "id": "stem:math:0050",
+    "domain": "math",
+    "term": "triangle",
+    "ru_translation": "треугольник",
+    "symbol": "△",
+    "en_definition": "a polygon with three sides, three angles, and three vertices",
+    "csca_example": "Calculate the area of the triangle with base 6 and height 4."
+  },
+  {
+    "id": "stem:math:0051",
+    "domain": "math",
+    "term": "right triangle",
+    "ru_translation": "прямоугольный треугольник",
+    "symbol": null,
+    "en_definition": "a triangle with one angle measuring exactly 90 degrees",
+    "csca_example": "In a right triangle, find the length of the hypotenuse using the Pythagorean theorem."
+  },
+  {
+    "id": "stem:math:0052",
+    "domain": "math",
+    "term": "hypotenuse",
+    "ru_translation": "гипотенуза",
+    "symbol": "c",
+    "en_definition": "the longest side of a right triangle, opposite to the right angle",
+    "csca_example": "Calculate the hypotenuse of a right triangle with legs of length 3 and 4."
+  },
+  {
+    "id": "stem:math:0053",
+    "domain": "math",
+    "term": "Pythagorean theorem",
+    "ru_translation": "теорема Пифагора",
+    "symbol": "a² + b² = c²",
+    "en_definition": "in a right triangle, the square of the hypotenuse equals the sum of squares of the other two sides",
+    "csca_example": "Apply the Pythagorean theorem to find the missing side length."
+  },
+  {
+    "id": "stem:math:0054",
+    "domain": "math",
+    "term": "quadrilateral",
+    "ru_translation": "четырёхугольник",
+    "symbol": null,
+    "en_definition": "a polygon with four sides, four angles, and four vertices",
+    "csca_example": "Calculate the perimeter of the quadrilateral ABCD."
+  },
+  {
+    "id": "stem:math:0055",
+    "domain": "math",
+    "term": "rectangle",
+    "ru_translation": "прямоугольник",
+    "symbol": null,
+    "en_definition": "a quadrilateral with four right angles and opposite sides that are equal",
+    "csca_example": "Find the area of the rectangle with length 8 and width 5."
+  },
+  {
+    "id": "stem:math:0056",
+    "domain": "math",
+    "term": "square",
+    "ru_translation": "квадрат",
+    "symbol": null,
+    "en_definition": "a quadrilateral with four equal sides and four right angles",
+    "csca_example": "The area of the square is 36 square units. Find its side length."
+  },
+  {
+    "id": "stem:math:0057",
+    "domain": "math",
+    "term": "circle",
+    "ru_translation": "круг",
+    "symbol": "○",
+    "en_definition": "a set of all points in a plane that are equidistant from a fixed center point",
+    "csca_example": "Find the area and circumference of a circle with radius 7."
+  },
+  {
+    "id": "stem:math:0058",
+    "domain": "math",
+    "term": "radius",
+    "ru_translation": "радиус",
+    "symbol": "r",
+    "en_definition": "the distance from the center of a circle to any point on the circle",
+    "csca_example": "If the diameter of the circle is 10, what is the radius?"
+  },
+  {
+    "id": "stem:math:0059",
+    "domain": "math",
+    "term": "diameter",
+    "ru_translation": "диаметр",
+    "symbol": "d",
+    "en_definition": "a line segment that passes through the center of a circle, connecting two points on the circle",
+    "csca_example": "The radius is 5 cm. Calculate the diameter."
+  },
+  {
+    "id": "stem:math:0060",
+    "domain": "math",
+    "term": "circumference",
+    "ru_translation": "длина окружности",
+    "symbol": "C = 2πr",
+    "en_definition": "the distance around a circle, calculated as 2πr or πd",
+    "csca_example": "Find the circumference of a circle with radius 3 cm."
+  },
+  {
+    "id": "stem:math:0061",
+    "domain": "math",
+    "term": "area",
+    "ru_translation": "площадь",
+    "symbol": "A",
+    "en_definition": "the amount of space inside a two-dimensional shape, measured in square units",
+    "csca_example": "Calculate the area of the circle with radius 4 metres."
+  },
+  {
+    "id": "stem:math:0062",
+    "domain": "math",
+    "term": "perimeter",
+    "ru_translation": "периметр",
+    "symbol": "P",
+    "en_definition": "the total distance around the outside of a two-dimensional shape",
+    "csca_example": "Find the perimeter of the rectangle with dimensions 6 by 9."
+  },
+  {
+    "id": "stem:math:0063",
+    "domain": "math",
+    "term": "volume",
+    "ru_translation": "объём",
+    "symbol": "V",
+    "en_definition": "the amount of space inside a three-dimensional object, measured in cubic units",
+    "csca_example": "Calculate the volume of a cube with side length 5 cm."
+  },
+  {
+    "id": "stem:math:0064",
+    "domain": "math",
+    "term": "sine",
+    "ru_translation": "синус",
+    "symbol": "sin",
+    "en_definition": "in a right triangle, the ratio of the opposite side to the hypotenuse",
+    "csca_example": "Find sin(30°) in the right triangle."
+  },
+  {
+    "id": "stem:math:0065",
+    "domain": "math",
+    "term": "cosine",
+    "ru_translation": "косинус",
+    "symbol": "cos",
+    "en_definition": "in a right triangle, the ratio of the adjacent side to the hypotenuse",
+    "csca_example": "Calculate cos(60°)."
+  },
+  {
+    "id": "stem:math:0066",
+    "domain": "math",
+    "term": "tangent",
+    "ru_translation": "тангенс",
+    "symbol": "tan",
+    "en_definition": "in a right triangle, the ratio of the opposite side to the adjacent side",
+    "csca_example": "Find the value of tan(45°)."
+  },
+  {
+    "id": "stem:math:0067",
+    "domain": "math",
+    "term": "radian",
+    "ru_translation": "радиан",
+    "symbol": "rad",
+    "en_definition": "a unit of angle measurement where one radian equals the angle subtended by an arc equal to the radius",
+    "csca_example": "Convert 180 degrees to radians."
+  },
+  {
+    "id": "stem:math:0068",
+    "domain": "math",
+    "term": "degree",
+    "ru_translation": "градус",
+    "symbol": "°",
+    "en_definition": "a unit of angle measurement where 360 degrees make a complete circle",
+    "csca_example": "Express 3π/2 radians in degrees."
+  },
+  {
+    "id": "stem:math:0069",
+    "domain": "math",
+    "term": "sequence",
+    "ru_translation": "последовательность",
+    "symbol": null,
+    "en_definition": "an ordered list of numbers following a specific pattern or rule",
+    "csca_example": "Find the next three terms in the arithmetic sequence 2, 5, 8, 11, ..."
+  },
+  {
+    "id": "stem:math:0070",
+    "domain": "math",
+    "term": "arithmetic sequence",
+    "ru_translation": "арифметическая прогрессия",
+    "symbol": null,
+    "en_definition": "a sequence where the difference between consecutive terms is constant",
+    "csca_example": "Determine the common difference in the arithmetic sequence 3, 7, 11, 15."
+  },
+  {
+    "id": "stem:math:0071",
+    "domain": "math",
+    "term": "geometric sequence",
+    "ru_translation": "геометрическая прогрессия",
+    "symbol": null,
+    "en_definition": "a sequence where the ratio between consecutive terms is constant",
+    "csca_example": "Find the common ratio of the geometric sequence 2, 6, 18, 54."
+  },
+  {
+    "id": "stem:math:0072",
+    "domain": "math",
+    "term": "limit",
+    "ru_translation": "предел",
+    "symbol": "lim",
+    "en_definition": "the value that a function or sequence approaches as the input or index approaches some value",
+    "csca_example": "Find the limit of the function f(x) = 1/x as x approaches infinity."
+  },
+  {
+    "id": "stem:math:0073",
+    "domain": "math",
+    "term": "derivative",
+    "ru_translation": "производная",
+    "symbol": "f'(x), df/dx",
+    "en_definition": "the rate of change of a function with respect to a variable",
+    "csca_example": "Find the derivative of the function f(x) = 3x² + 2x."
+  },
+  {
+    "id": "stem:math:0074",
+    "domain": "math",
+    "term": "integral",
+    "ru_translation": "интеграл",
+    "symbol": "∫",
+    "en_definition": "the reverse operation of differentiation; represents the accumulation of quantities",
+    "csca_example": "Evaluate the integral of f(x) = 2x from 0 to 5."
+  },
+  {
+    "id": "stem:math:0075",
+    "domain": "math",
+    "term": "set",
+    "ru_translation": "множество",
+    "symbol": "{ }",
+    "en_definition": "a collection of distinct objects or numbers grouped together",
+    "csca_example": "List the elements of the set {x | x is a prime number less than 10}."
+  },
+  {
+    "id": "stem:math:0076",
+    "domain": "math",
+    "term": "subset",
+    "ru_translation": "подмножество",
+    "symbol": "⊆",
+    "en_definition": "a set whose elements are all contained within another set",
+    "csca_example": "Is the set {1, 2} a subset of {1, 2, 3, 4}?"
+  },
+  {
+    "id": "stem:math:0077",
+    "domain": "math",
+    "term": "union",
+    "ru_translation": "объединение",
+    "symbol": "∪",
+    "en_definition": "the set containing all elements that belong to at least one of the given sets",
+    "csca_example": "Find the union of set A = {1, 2, 3} and set B = {3, 4, 5}."
+  },
+  {
+    "id": "stem:math:0078",
+    "domain": "math",
+    "term": "intersection",
+    "ru_translation": "пересечение",
+    "symbol": "∩",
+    "en_definition": "the set containing only the elements that belong to all of the given sets",
+    "csca_example": "Find the intersection of set A = {1, 2, 3} and set B = {2, 3, 4}."
+  },
+  {
+    "id": "stem:math:0079",
+    "domain": "math",
+    "term": "probability",
+    "ru_translation": "вероятность",
+    "symbol": "P(A)",
+    "en_definition": "the measure of how likely an event is to occur, ranging from 0 to 1",
+    "csca_example": "If a fair die is rolled, what is the probability of getting a 6?"
+  },
+  {
+    "id": "stem:math:0080",
+    "domain": "math",
+    "term": "mean",
+    "ru_translation": "среднее арифметическое",
+    "symbol": "μ, x̄",
+    "en_definition": "the sum of all values in a dataset divided by the number of values",
+    "csca_example": "Calculate the mean of the dataset: 4, 8, 6, 2, 10."
+  },
+  {
+    "id": "stem:math:0081",
+    "domain": "math",
+    "term": "median",
+    "ru_translation": "медиана",
+    "symbol": null,
+    "en_definition": "the middle value in a sorted dataset; the value that separates the higher and lower halves",
+    "csca_example": "Find the median of the numbers: 3, 7, 2, 9, 5."
+  },
+  {
+    "id": "stem:math:0082",
+    "domain": "math",
+    "term": "mode",
+    "ru_translation": "мода",
+    "symbol": null,
+    "en_definition": "the value that appears most frequently in a dataset",
+    "csca_example": "Identify the mode in the dataset: 1, 2, 2, 3, 3, 3, 4."
+  },
+  {
+    "id": "stem:math:0083",
+    "domain": "math",
+    "term": "standard deviation",
+    "ru_translation": "стандартное отклонение",
+    "symbol": "σ",
+    "en_definition": "a measure of how spread out the values in a dataset are from the mean",
+    "csca_example": "Calculate the standard deviation of the dataset."
+  },
+  {
+    "id": "stem:math:0084",
+    "domain": "math",
+    "term": "variance",
+    "ru_translation": "дисперсия",
+    "symbol": "σ², s²",
+    "en_definition": "the square of the standard deviation; a measure of data spread",
+    "csca_example": "Find the variance of the following values: 2, 4, 6, 8."
+  },
+  {
+    "id": "stem:math:0085",
+    "domain": "math",
+    "term": "express in terms of",
+    "ru_translation": "выразить через",
+    "symbol": null,
+    "en_definition": "to write a quantity or formula using specific variables or parameters",
+    "csca_example": "Express the volume of the cylinder in terms of its radius and height."
+  },
+  {
+    "id": "stem:math:0086",
+    "domain": "math",
+    "term": "it follows that",
+    "ru_translation": "следует, что",
+    "symbol": null,
+    "en_definition": "therefore; a phrase introducing a logical consequence or conclusion",
+    "csca_example": "If a = 5 and b = 3, it follows that a + b = 8."
+  },
+  {
+    "id": "stem:math:0087",
+    "domain": "math",
+    "term": "given that",
+    "ru_translation": "при условии, что",
+    "symbol": null,
+    "en_definition": "assuming; introducing an assumption or known condition in a problem",
+    "csca_example": "Given that x = 2, find the value of 3x + 1."
+  },
+  {
+    "id": "stem:math:0088",
+    "domain": "math",
+    "term": "such that",
+    "ru_translation": "такой, что",
+    "symbol": null,
+    "en_definition": "with the condition or property that; used to specify constraints in mathematics",
+    "csca_example": "Find all values of x such that x² = 16."
+  },
+  {
+    "id": "stem:math:0089",
+    "domain": "math",
+    "term": "factor",
+    "ru_translation": "множитель",
+    "symbol": null,
+    "en_definition": "a number or expression that divides evenly into another number or expression",
+    "csca_example": "Find all factors of 24."
+  },
+  {
+    "id": "stem:math:0090",
+    "domain": "math",
+    "term": "greatest common divisor",
+    "ru_translation": "наибольший общий делитель",
+    "symbol": "GCD",
+    "en_definition": "the largest number that divides evenly into two or more numbers",
+    "csca_example": "Find the GCD of 36 and 48."
+  },
+  {
+    "id": "stem:math:0091",
+    "domain": "math",
+    "term": "least common multiple",
+    "ru_translation": "наименьшее общее кратное",
+    "symbol": "LCM",
+    "en_definition": "the smallest number that is a multiple of two or more given numbers",
+    "csca_example": "Find the LCM of 12 and 18."
+  },
+  {
+    "id": "stem:math:0092",
+    "domain": "math",
+    "term": "proportion",
+    "ru_translation": "пропорция",
+    "symbol": "=",
+    "en_definition": "a statement that two ratios or fractions are equal",
+    "csca_example": "Solve the proportion: 3/4 = x/8."
+  },
+  {
+    "id": "stem:math:0093",
+    "domain": "math",
+    "term": "ratio",
+    "ru_translation": "отношение",
+    "symbol": ":",
+    "en_definition": "a comparison of two quantities expressed as a quotient or using the symbol ':'",
+    "csca_example": "Express the ratio of 5 to 15 in simplest form."
+  },
+  {
+    "id": "stem:math:0094",
+    "domain": "math",
+    "term": "pi",
+    "ru_translation": "пи",
+    "symbol": "π",
+    "en_definition": "the mathematical constant approximately equal to 3.14159, representing the ratio of circumference to diameter",
+    "csca_example": "Use the value of π to calculate the area of the circle."
+  },
+  {
+    "id": "stem:math:0095",
+    "domain": "math",
+    "term": "polynomial",
+    "ru_translation": "многочлен",
+    "symbol": null,
+    "en_definition": "an algebraic expression with two or more terms containing variables and coefficients",
+    "csca_example": "Factor the polynomial 2x² + 5x + 3."
+  },
+  {
+    "id": "stem:math:0096",
+    "domain": "math",
+    "term": "matrix",
+    "ru_translation": "матрица",
+    "symbol": null,
+    "en_definition": "a rectangular array of numbers or symbols arranged in rows and columns",
+    "csca_example": "Add the two matrices of the same dimensions."
+  },
+  {
+    "id": "stem:math:0097",
+    "domain": "math",
+    "term": "determinant",
+    "ru_translation": "определитель",
+    "symbol": "det(A), |A|",
+    "en_definition": "a scalar value calculated from the elements of a square matrix",
+    "csca_example": "Calculate the determinant of the 2x2 matrix."
+  },
+  {
+    "id": "stem:math:0098",
+    "domain": "math",
+    "term": "logarithm",
+    "ru_translation": "логарифм",
+    "symbol": "log",
+    "en_definition": "the power to which a base number must be raised to equal a given value",
+    "csca_example": "Solve the equation: log₂(x) = 3."
+  },
+  {
+    "id": "stem:math:0099",
+    "domain": "math",
+    "term": "natural logarithm",
+    "ru_translation": "натуральный логарифм",
+    "symbol": "ln",
+    "en_definition": "the logarithm with base e, the mathematical constant approximately equal to 2.71828",
+    "csca_example": "Evaluate ln(e²)."
+  },
+  {
+    "id": "stem:math:0100",
+    "domain": "math",
+    "term": "exponential function",
+    "ru_translation": "показательная функция",
+    "symbol": "e^x",
+    "en_definition": "a function where the variable appears in the exponent, typically of the form f(x) = a^x or f(x) = e^x",
+    "csca_example": "Graph the exponential function y = 2^x."
+  }
+]

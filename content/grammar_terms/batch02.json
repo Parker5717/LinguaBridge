@@ -1,0 +1,542 @@
+[
+  {
+    "id": "gram:0061",
+    "term": "potential complement",
+    "en_explanation": "A verb ending inserted between a verb and a result or direction complement to show whether an action can or cannot happen. Adding 得 or 不 before the complement changes the meaning to 'can' or 'cannot'.",
+    "ru_translation": "потенциальный комплемент",
+    "zh_example": "我看得懂中文。",
+    "zh_example_pinyin": "Wǒ kàndedǒng Zhōngwén.",
+    "zh_example_en": "I can understand Chinese (by reading)."
+  },
+  {
+    "id": "gram:0062",
+    "term": "complement of degree",
+    "en_explanation": "A phrase after a verb or adjective that describes how well or to what extent something is done, usually introduced by 得.",
+    "ru_translation": "комплемент степени",
+    "zh_example": "他跑得很快。",
+    "zh_example_pinyin": "Tā pǎo de hěn kuài.",
+    "zh_example_en": "He runs very fast."
+  },
+  {
+    "id": "gram:0063",
+    "term": "directional complement",
+    "en_explanation": "A verb placed after another verb to show the direction of the action, such as coming in, going out, or coming up.",
+    "ru_translation": "директивный комплемент",
+    "zh_example": "他走进来了。",
+    "zh_example_pinyin": "Tā zǒu jìnlái le.",
+    "zh_example_en": "He walked in."
+  },
+  {
+    "id": "gram:0064",
+    "term": "compound directional complement",
+    "en_explanation": "Two direction words combined after a verb to show a more precise direction, such as 'up' plus 'come' to mean coming up towards the speaker.",
+    "ru_translation": "составной директивный комплемент",
+    "zh_example": "她拿出来了一本书。",
+    "zh_example_pinyin": "Tā ná chūlái le yì běn shū.",
+    "zh_example_en": "She took out a book."
+  },
+  {
+    "id": "gram:0065",
+    "term": "complement of quantity",
+    "en_explanation": "A phrase after a verb that tells how long an action lasted or how many times it happened.",
+    "ru_translation": "комплемент количества",
+    "zh_example": "我等了三个小时。",
+    "zh_example_pinyin": "Wǒ děng le sān ge xiǎoshí.",
+    "zh_example_en": "I waited for three hours."
+  },
+  {
+    "id": "gram:0066",
+    "term": "duration complement",
+    "en_explanation": "A time phrase placed after a verb to show how long an action continues or continued, answering the question 'for how long.'",
+    "ru_translation": "комплемент длительности",
+    "zh_example": "他学了两年中文。",
+    "zh_example_pinyin": "Tā xué le liǎng nián Zhōngwén.",
+    "zh_example_en": "He studied Chinese for two years."
+  },
+  {
+    "id": "gram:0067",
+    "term": "frequency complement",
+    "en_explanation": "A phrase after a verb that shows how many times an action happens or happened.",
+    "ru_translation": "комплемент кратности",
+    "zh_example": "我去过三次北京。",
+    "zh_example_pinyin": "Wǒ qùguo sān cì Běijīng.",
+    "zh_example_en": "I have been to Beijing three times."
+  },
+  {
+    "id": "gram:0068",
+    "term": "verb reduplication",
+    "en_explanation": "Repeating a verb, sometimes with 一 in between, to make an action sound short, light, or casual, similar to saying 'take a little look.'",
+    "ru_translation": "редупликация глагола",
+    "zh_example": "你尝尝这个菜。",
+    "zh_example_pinyin": "Nǐ chángchang zhège cài.",
+    "zh_example_en": "Try this dish (just a little taste)."
+  },
+  {
+    "id": "gram:0069",
+    "term": "adjective reduplication",
+    "en_explanation": "Repeating an adjective to make its meaning more vivid or emphatic, often used in descriptive speech or writing.",
+    "ru_translation": "редупликация прилагательного",
+    "zh_example": "她的眼睛大大的。",
+    "zh_example_pinyin": "Tā de yǎnjing dàdà de.",
+    "zh_example_en": "Her eyes are big (and round)."
+  },
+  {
+    "id": "gram:0070",
+    "term": "separable verb",
+    "en_explanation": "A two-syllable verb in Chinese that can be split apart, with other words such as time expressions or complements inserted between its two parts.",
+    "ru_translation": "разделяемый глагол",
+    "zh_example": "我们见过一次面。",
+    "zh_example_pinyin": "Wǒmen jiànguo yí cì miàn.",
+    "zh_example_en": "We have met once."
+  },
+  {
+    "id": "gram:0071",
+    "term": "verb-object compound",
+    "en_explanation": "A word made of a verb plus a built-in object, such as 'sleep-sleep' for the verb 'to sleep,' which cannot take a second direct object.",
+    "ru_translation": "глагольно-объектное сочетание",
+    "zh_example": "他每天都跑步。",
+    "zh_example_pinyin": "Tā měitiān dōu pǎobù.",
+    "zh_example_en": "He jogs every day."
+  },
+  {
+    "id": "gram:0072",
+    "term": "bǎ construction",
+    "en_explanation": "A sentence pattern that moves the object before the verb using the word 把, used to emphasize what happens to a specific thing as a result of an action.",
+    "ru_translation": "конструкция с 把",
+    "zh_example": "请把门关上。",
+    "zh_example_pinyin": "Qǐng bǎ mén guānshàng.",
+    "zh_example_en": "Please close the door."
+  },
+  {
+    "id": "gram:0073",
+    "term": "bèi construction",
+    "en_explanation": "The passive voice pattern in Chinese, formed with 被 before the verb, used to show that the subject receives the action rather than performs it.",
+    "ru_translation": "конструкция с 被 (страдательный залог)",
+    "zh_example": "杯子被打破了。",
+    "zh_example_pinyin": "Bēizi bèi dǎpò le.",
+    "zh_example_en": "The cup was broken."
+  },
+  {
+    "id": "gram:0074",
+    "term": "passive voice",
+    "en_explanation": "A grammatical form in which the subject of the sentence receives the action instead of doing it, often expressed with 'be' plus a past participle in English, or with 被 in Chinese.",
+    "ru_translation": "страдательный залог",
+    "zh_example": "这本书是他写的。",
+    "zh_example_pinyin": "Zhè běn shū shì tā xiě de.",
+    "zh_example_en": "This book was written by him."
+  },
+  {
+    "id": "gram:0075",
+    "term": "disposal construction",
+    "en_explanation": "Another name for the 把 sentence pattern, so called because it shows how a specific object is 'disposed of' or handled by an action.",
+    "ru_translation": "конструкция диспозиции (把)",
+    "zh_example": "他把作业做完了。",
+    "zh_example_pinyin": "Tā bǎ zuòyè zuòwán le.",
+    "zh_example_en": "He finished doing his homework."
+  },
+  {
+    "id": "gram:0076",
+    "term": "comparative construction with bǐ",
+    "en_explanation": "A sentence pattern using 比 to compare two things directly, meaning 'compared to' or 'than.'",
+    "ru_translation": "сравнительная конструкция с 比",
+    "zh_example": "今天比昨天冷。",
+    "zh_example_pinyin": "Jīntiān bǐ zuótiān lěng.",
+    "zh_example_en": "Today is colder than yesterday."
+  },
+  {
+    "id": "gram:0077",
+    "term": "equal comparison",
+    "en_explanation": "A structure used to say that two things are the same or equal in some quality, often formed with 跟...一样 meaning 'the same as.'",
+    "ru_translation": "конструкция равенства",
+    "zh_example": "他跟我一样高。",
+    "zh_example_pinyin": "Tā gēn wǒ yíyàng gāo.",
+    "zh_example_en": "He is as tall as me."
+  },
+  {
+    "id": "gram:0078",
+    "term": "superlative",
+    "en_explanation": "The grammatical form used to say that something has the highest or lowest degree of a quality compared to everything else in a group, such as 'the most' or 'the best.'",
+    "ru_translation": "превосходная степень",
+    "zh_example": "他是我们班最高的学生。",
+    "zh_example_pinyin": "Tā shì wǒmen bān zuì gāo de xuésheng.",
+    "zh_example_en": "He is the tallest student in our class."
+  },
+  {
+    "id": "gram:0079",
+    "term": "comparative degree",
+    "en_explanation": "The grammatical form used to compare two things, showing that one has more or less of a quality than the other, such as 'taller' or 'more interesting.'",
+    "ru_translation": "сравнительная степень",
+    "zh_example": "这本书比那本书有意思。",
+    "zh_example_pinyin": "Zhè běn shū bǐ nà běn shū yǒu yìsi.",
+    "zh_example_en": "This book is more interesting than that one."
+  },
+  {
+    "id": "gram:0080",
+    "term": "yes-no question",
+    "en_explanation": "A question that can be answered with 'yes' or 'no,' often formed in Chinese by adding 吗 to the end of a statement.",
+    "ru_translation": "общий вопрос",
+    "zh_example": "你是学生吗？",
+    "zh_example_pinyin": "Nǐ shì xuésheng ma?",
+    "zh_example_en": "Are you a student?"
+  },
+  {
+    "id": "gram:0081",
+    "term": "affirmative-negative question",
+    "en_explanation": "A question formed by placing the affirmative and negative forms of a verb or adjective next to each other, such as 'is-not-is,' to ask a yes-no question without using 吗.",
+    "ru_translation": "утвердительно-отрицательный вопрос",
+    "zh_example": "你去不去？",
+    "zh_example_pinyin": "Nǐ qù bu qù?",
+    "zh_example_en": "Are you going or not?"
+  },
+  {
+    "id": "gram:0082",
+    "term": "alternative question",
+    "en_explanation": "A question that offers the listener a choice between two or more options, usually linked by 还是 meaning 'or.'",
+    "ru_translation": "альтернативный вопрос",
+    "zh_example": "你要咖啡还是茶？",
+    "zh_example_pinyin": "Nǐ yào kāfēi háishi chá?",
+    "zh_example_en": "Do you want coffee or tea?"
+  },
+  {
+    "id": "gram:0083",
+    "term": "wh-question",
+    "en_explanation": "A question that asks for specific information using a question word such as 'what,' 'who,' 'where,' or 'when,' rather than expecting a yes-no answer.",
+    "ru_translation": "специальный вопрос (wh-вопрос)",
+    "zh_example": "你叫什么名字？",
+    "zh_example_pinyin": "Nǐ jiào shénme míngzi?",
+    "zh_example_en": "What is your name?"
+  },
+  {
+    "id": "gram:0084",
+    "term": "rhetorical question",
+    "en_explanation": "A question asked for effect rather than to get an answer, since the speaker already expects the listener to agree with the implied answer.",
+    "ru_translation": "риторический вопрос",
+    "zh_example": "谁不喜欢好吃的东西呢？",
+    "zh_example_pinyin": "Shéi bù xǐhuan hǎochī de dōngxi ne?",
+    "zh_example_en": "Who doesn't like delicious food?"
+  },
+  {
+    "id": "gram:0085",
+    "term": "tag question",
+    "en_explanation": "A short question added to the end of a statement to check agreement or confirm information, such as 'isn't it?' or 对不对 in Chinese.",
+    "ru_translation": "разделительный вопрос",
+    "zh_example": "你是老师，对不对？",
+    "zh_example_pinyin": "Nǐ shì lǎoshī, duì bu duì?",
+    "zh_example_en": "You are a teacher, aren't you?"
+  },
+  {
+    "id": "gram:0086",
+    "term": "correlative conjunction",
+    "en_explanation": "A pair of linking words that work together to connect two parts of a sentence, such as 'not only...but also' or 不但...而且 in Chinese.",
+    "ru_translation": "парный союз",
+    "zh_example": "他不但聪明，而且努力。",
+    "zh_example_pinyin": "Tā búdàn cōngming, érqiě nǔlì.",
+    "zh_example_en": "He is not only smart but also hardworking."
+  },
+  {
+    "id": "gram:0087",
+    "term": "conditional conjunction",
+    "en_explanation": "A linking word used to introduce a condition, such as 'if' in English or 如果 in Chinese, showing that one event depends on another.",
+    "ru_translation": "условный союз",
+    "zh_example": "如果明天下雨，我们就不去了。",
+    "zh_example_pinyin": "Rúguǒ míngtiān xiàyǔ, wǒmen jiù bú qù le.",
+    "zh_example_en": "If it rains tomorrow, we won't go."
+  },
+  {
+    "id": "gram:0088",
+    "term": "causal conjunction",
+    "en_explanation": "A linking word used to show a reason or cause, such as 'because' in English or 因为 in Chinese.",
+    "ru_translation": "причинный союз",
+    "zh_example": "因为下雨，所以我们没去公园。",
+    "zh_example_pinyin": "Yīnwèi xiàyǔ, suǒyǐ wǒmen méi qù gōngyuán.",
+    "zh_example_en": "Because it rained, we didn't go to the park."
+  },
+  {
+    "id": "gram:0089",
+    "term": "concessive conjunction",
+    "en_explanation": "A linking word that introduces a contrast despite an expected outcome, such as 'although' in English or 虽然 in Chinese.",
+    "ru_translation": "уступительный союз",
+    "zh_example": "虽然很累，但是他还在工作。",
+    "zh_example_pinyin": "Suīrán hěn lèi, dànshì tā hái zài gōngzuò.",
+    "zh_example_en": "Although he is very tired, he is still working."
+  },
+  {
+    "id": "gram:0090",
+    "term": "sequential conjunction",
+    "en_explanation": "A linking word used to show that one action happens after another in a series, such as 'then' in English or 然后 in Chinese.",
+    "ru_translation": "союз последовательности",
+    "zh_example": "我先吃饭，然后写作业。",
+    "zh_example_pinyin": "Wǒ xiān chīfàn, ránhòu xiě zuòyè.",
+    "zh_example_en": "I will eat first, then do my homework."
+  },
+  {
+    "id": "gram:0091",
+    "term": "aspect",
+    "en_explanation": "A grammatical feature that shows whether an action is completed, ongoing, or experienced, rather than showing when it happened in time.",
+    "ru_translation": "вид (грамматическая категория)",
+    "zh_example": "他吃完饭了。",
+    "zh_example_pinyin": "Tā chīwán fàn le.",
+    "zh_example_en": "He has finished eating."
+  },
+  {
+    "id": "gram:0092",
+    "term": "tense",
+    "en_explanation": "A grammatical feature in many languages that shows when an action happens, such as past, present, or future. Chinese does not use verb tense; it uses aspect markers and time words instead.",
+    "ru_translation": "время (грамматическая категория)",
+    "zh_example": "我昨天去了图书馆。",
+    "zh_example_pinyin": "Wǒ zuótiān qù le túshūguǎn.",
+    "zh_example_en": "I went to the library yesterday."
+  },
+  {
+    "id": "gram:0093",
+    "term": "perfective aspect",
+    "en_explanation": "A grammatical marker, usually 了 in Chinese, that shows an action is viewed as a completed whole.",
+    "ru_translation": "перфективный вид",
+    "zh_example": "他买了一本书。",
+    "zh_example_pinyin": "Tā mǎi le yì běn shū.",
+    "zh_example_en": "He bought a book."
+  },
+  {
+    "id": "gram:0094",
+    "term": "durative aspect",
+    "en_explanation": "A grammatical marker showing that a state or action continues over a period of time, often expressed with 着 in Chinese.",
+    "ru_translation": "дуративный вид",
+    "zh_example": "门开着呢。",
+    "zh_example_pinyin": "Mén kāizhe ne.",
+    "zh_example_en": "The door is open."
+  },
+  {
+    "id": "gram:0095",
+    "term": "habitual aspect",
+    "en_explanation": "A grammatical meaning showing that an action happens regularly or as a habit, usually expressed with time words rather than a special marker in Chinese.",
+    "ru_translation": "хабитуальный (обычный) вид",
+    "zh_example": "他每天都跑步。",
+    "zh_example_pinyin": "Tā měitiān dōu pǎobù.",
+    "zh_example_en": "He jogs every day (as a habit)."
+  },
+  {
+    "id": "gram:0096",
+    "term": "topic",
+    "en_explanation": "The part of a sentence that names what the rest of the sentence is about, often placed at the very beginning in Chinese even if it is not the grammatical subject.",
+    "ru_translation": "топик (тема высказывания)",
+    "zh_example": "这本书我看过了。",
+    "zh_example_pinyin": "Zhè běn shū wǒ kànguo le.",
+    "zh_example_en": "This book, I have read (it)."
+  },
+  {
+    "id": "gram:0097",
+    "term": "comment",
+    "en_explanation": "The part of a sentence that gives new information about the topic, usually following it.",
+    "ru_translation": "комментарий (рема высказывания)",
+    "zh_example": "这本书我看过了。",
+    "zh_example_pinyin": "Zhè běn shū wǒ kànguo le.",
+    "zh_example_en": "This book, I have read (it)."
+  },
+  {
+    "id": "gram:0098",
+    "term": "SVO word order",
+    "en_explanation": "The typical sentence pattern in which the subject comes first, followed by the verb, and then the object, as in both English and most Chinese sentences.",
+    "ru_translation": "порядок слов подлежащее-сказуемое-дополнение",
+    "zh_example": "我喜欢猫。",
+    "zh_example_pinyin": "Wǒ xǐhuan māo.",
+    "zh_example_en": "I like cats."
+  },
+  {
+    "id": "gram:0099",
+    "term": "time-place order",
+    "en_explanation": "The rule in Chinese that time expressions and place expressions usually come before the verb, in the order time then place, unlike in English.",
+    "ru_translation": "порядок время-место",
+    "zh_example": "我明天在图书馆学习。",
+    "zh_example_pinyin": "Wǒ míngtiān zài túshūguǎn xuéxí.",
+    "zh_example_en": "I will study at the library tomorrow."
+  },
+  {
+    "id": "gram:0100",
+    "term": "adverbial placement",
+    "en_explanation": "The rule that adverbs and adverbial phrases in Chinese are usually placed before the verb they describe, rather than after it as often happens in English.",
+    "ru_translation": "позиция обстоятельства",
+    "zh_example": "他很快地跑了。",
+    "zh_example_pinyin": "Tā hěn kuài de pǎo le.",
+    "zh_example_en": "He ran very quickly."
+  },
+  {
+    "id": "gram:0101",
+    "term": "subordinate clause",
+    "en_explanation": "A clause that cannot stand alone as a complete sentence and depends on a main clause for its full meaning.",
+    "ru_translation": "придаточное предложение",
+    "zh_example": "如果你有时间，请给我打电话。",
+    "zh_example_pinyin": "Rúguǒ nǐ yǒu shíjiān, qǐng gěi wǒ dǎ diànhuà.",
+    "zh_example_en": "If you have time, please call me."
+  },
+  {
+    "id": "gram:0102",
+    "term": "main clause",
+    "en_explanation": "A clause that can stand alone as a complete sentence because it contains a full subject and predicate.",
+    "ru_translation": "главное предложение",
+    "zh_example": "我很忙，所以我不能去。",
+    "zh_example_pinyin": "Wǒ hěn máng, suǒyǐ wǒ bù néng qù.",
+    "zh_example_en": "I am busy, so I cannot go."
+  },
+  {
+    "id": "gram:0103",
+    "term": "relative pronoun",
+    "en_explanation": "A word such as 'who,' 'which,' or 'that' used to introduce a clause that describes a noun. Chinese does not use a separate relative pronoun; it uses 的 instead.",
+    "ru_translation": "относительное местоимение",
+    "zh_example": "那个正在唱歌的人是我哥哥。",
+    "zh_example_pinyin": "Nàge zhèngzài chànggē de rén shì wǒ gēge.",
+    "zh_example_en": "The person who is singing is my brother."
+  },
+  {
+    "id": "gram:0104",
+    "term": "relative clause",
+    "en_explanation": "A clause that gives more information about a noun, usually introduced by a relative pronoun in English, or marked by 的 before the noun in Chinese.",
+    "ru_translation": "относительное придаточное предложение",
+    "zh_example": "我买的书很有意思。",
+    "zh_example_pinyin": "Wǒ mǎi de shū hěn yǒu yìsi.",
+    "zh_example_en": "The book that I bought is very interesting."
+  },
+  {
+    "id": "gram:0105",
+    "term": "gerund",
+    "en_explanation": "A verb form ending in '-ing' that functions as a noun in a sentence, such as 'swimming' in 'swimming is fun.'",
+    "ru_translation": "герундий",
+    "zh_example": "游泳对健康很好。",
+    "zh_example_pinyin": "Yóuyǒng duì jiànkāng hěn hǎo.",
+    "zh_example_en": "Swimming is good for health."
+  },
+  {
+    "id": "gram:0106",
+    "term": "infinitive",
+    "en_explanation": "The base form of a verb, often preceded by 'to' in English, used to express purpose or as the subject or object of another verb.",
+    "ru_translation": "инфинитив",
+    "zh_example": "我想去中国旅行。",
+    "zh_example_pinyin": "Wǒ xiǎng qù Zhōngguó lǚxíng.",
+    "zh_example_en": "I want to travel to China."
+  },
+  {
+    "id": "gram:0107",
+    "term": "conditional sentence",
+    "en_explanation": "A sentence that expresses what happens if a certain condition is true, usually formed with 'if' in English and 如果 in Chinese.",
+    "ru_translation": "условное предложение",
+    "zh_example": "如果我有钱，我就买那辆车。",
+    "zh_example_pinyin": "Rúguǒ wǒ yǒu qián, wǒ jiù mǎi nà liàng chē.",
+    "zh_example_en": "If I had money, I would buy that car."
+  },
+  {
+    "id": "gram:0108",
+    "term": "countable noun",
+    "en_explanation": "A noun that refers to something that can be counted individually and has both a singular and a plural form, such as 'book' and 'books.'",
+    "ru_translation": "исчисляемое существительное",
+    "zh_example": "桌子上有三本书。",
+    "zh_example_pinyin": "Zhuōzi shàng yǒu sān běn shū.",
+    "zh_example_en": "There are three books on the table."
+  },
+  {
+    "id": "gram:0109",
+    "term": "uncountable noun",
+    "en_explanation": "A noun that refers to something that cannot be counted individually, such as 'water' or 'information,' and has no plural form.",
+    "ru_translation": "неисчисляемое существительное",
+    "zh_example": "我需要一些水。",
+    "zh_example_pinyin": "Wǒ xūyào yìxiē shuǐ.",
+    "zh_example_en": "I need some water."
+  },
+  {
+    "id": "gram:0110",
+    "term": "article usage",
+    "en_explanation": "The rules governing when to use 'a,' 'an,' or 'the' before a noun in English. Chinese has no equivalent word, so learners must learn these rules separately.",
+    "ru_translation": "употребление артиклей",
+    "zh_example": "他是一个老师。",
+    "zh_example_pinyin": "Tā shì yí ge lǎoshī.",
+    "zh_example_en": "He is a teacher."
+  },
+  {
+    "id": "gram:0111",
+    "term": "definite article",
+    "en_explanation": "The word 'the' in English, used before a noun to show that the speaker and listener both know exactly which thing is being referred to.",
+    "ru_translation": "определённый артикль",
+    "zh_example": "请把那本书给我。",
+    "zh_example_pinyin": "Qǐng bǎ nà běn shū gěi wǒ.",
+    "zh_example_en": "Please give me the book."
+  },
+  {
+    "id": "gram:0112",
+    "term": "modal verb",
+    "en_explanation": "A helping verb such as 'can,' 'must,' or 'should' that expresses ability, permission, obligation, or possibility, placed before the main verb.",
+    "ru_translation": "модальный глагол",
+    "zh_example": "你应该多休息。",
+    "zh_example_pinyin": "Nǐ yīnggāi duō xiūxi.",
+    "zh_example_en": "You should rest more."
+  },
+  {
+    "id": "gram:0113",
+    "term": "auxiliary verb do-support",
+    "en_explanation": "The use of the helping verb 'do' in English to form questions and negative sentences with ordinary verbs, such as 'do you like' or 'I do not like.'",
+    "ru_translation": "вспомогательный глагол do",
+    "zh_example": "你喜欢中国菜吗？",
+    "zh_example_pinyin": "Nǐ xǐhuan Zhōngguó cài ma?",
+    "zh_example_en": "Do you like Chinese food?"
+  },
+  {
+    "id": "gram:0114",
+    "term": "subject-verb agreement",
+    "en_explanation": "The grammar rule in English requiring the verb to match the subject in number, such as adding '-s' for a singular subject in the present tense. Chinese verbs never change form for agreement.",
+    "ru_translation": "согласование подлежащего и сказуемого",
+    "zh_example": "他每天学习中文。",
+    "zh_example_pinyin": "Tā měitiān xuéxí Zhōngwén.",
+    "zh_example_en": "He studies Chinese every day."
+  },
+  {
+    "id": "gram:0115",
+    "term": "direct speech",
+    "en_explanation": "A way of reporting what someone said by repeating their exact words, usually placed inside quotation marks.",
+    "ru_translation": "прямая речь",
+    "zh_example": "他说：“我很忙。”",
+    "zh_example_pinyin": "Tā shuō: “Wǒ hěn máng.”",
+    "zh_example_en": "He said, \"I am very busy.\""
+  },
+  {
+    "id": "gram:0116",
+    "term": "reported speech",
+    "en_explanation": "A way of reporting what someone said without quoting their exact words, often changing pronouns and verb forms to fit the new context.",
+    "ru_translation": "косвенная речь",
+    "zh_example": "他说他很忙。",
+    "zh_example_pinyin": "Tā shuō tā hěn máng.",
+    "zh_example_en": "He said that he was very busy."
+  },
+  {
+    "id": "gram:0117",
+    "term": "prepositional phrase",
+    "en_explanation": "A group of words beginning with a preposition, such as 'in the room' or 在房间里, that describes location, time, or manner.",
+    "ru_translation": "предложная группа",
+    "zh_example": "书在桌子上。",
+    "zh_example_pinyin": "Shū zài zhuōzi shàng.",
+    "zh_example_en": "The book is on the table."
+  },
+  {
+    "id": "gram:0118",
+    "term": "coordinating conjunction",
+    "en_explanation": "A word such as 'and,' 'but,' or 'or' that joins two words, phrases, or clauses of equal grammatical importance.",
+    "ru_translation": "сочинительный союз",
+    "zh_example": "我喜欢猫和狗。",
+    "zh_example_pinyin": "Wǒ xǐhuan māo hé gǒu.",
+    "zh_example_en": "I like cats and dogs."
+  },
+  {
+    "id": "gram:0119",
+    "term": "existential sentence",
+    "en_explanation": "A sentence pattern used to say that something exists or is located somewhere, formed in Chinese with 有 after a place word.",
+    "ru_translation": "экзистенциальное предложение",
+    "zh_example": "桌子上有一本书。",
+    "zh_example_pinyin": "Zhuōzi shàng yǒu yì běn shū.",
+    "zh_example_en": "There is a book on the table."
+  },
+  {
+    "id": "gram:0120",
+    "term": "double object construction",
+    "en_explanation": "A sentence pattern in which a verb such as 'give' takes two objects, an indirect object (the receiver) and a direct object (the thing given).",
+    "ru_translation": "конструкция с двумя дополнениями",
+    "zh_example": "他给了我一本书。",
+    "zh_example_pinyin": "Tā gěi le wǒ yì běn shū.",
+    "zh_example_en": "He gave me a book."
+  }
+]

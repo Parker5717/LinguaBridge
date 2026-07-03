@@ -1,0 +1,134 @@
+[
+  {
+    "id": "quiz:gramterm:0001",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "In '三本书', what is 本?",
+    "options": ["a measure word", "an aspect particle", "a modal verb", "a complement"],
+    "answer": "a measure word",
+    "explanation": "The character 本 is a measure word (or classifier) used to count books and other bound objects in Chinese. It bridges the number and the noun.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0002",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Which particle marks a completed action?",
+    "options": ["了", "吗", "的", "呢"],
+    "answer": "了",
+    "explanation": "The particle 了 indicates that an action has been completed or a situation has changed. It is the most common marker of perfective aspect in Chinese.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0003",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What does 'topic-comment structure' mean?",
+    "options": ["placing the object before the verb", "starting a sentence with the topic and adding comments about it", "using a comment to modify the subject", "separating adjectives from nouns"],
+    "answer": "starting a sentence with the topic and adding comments about it",
+    "explanation": "Topic-comment structure is a basic word order pattern in Chinese where the topic is introduced first, followed by a comment or predicate that provides information about it.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0004",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "The change of nǐ hǎo from two third tones is called…",
+    "options": ["tone sandhi", "tone variation", "tone reduction", "tone assimilation"],
+    "answer": "tone sandhi",
+    "explanation": "Tone sandhi refers to the phenomenon where one of two adjacent third tones changes to a second tone. This is an important phonological rule in Mandarin Chinese.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0005",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "In Chinese grammar, what is an 'aspect marker'?",
+    "options": ["a word showing when an action happens", "a particle showing how an action is viewed or completed", "a suffix changing word meaning", "a tone mark on a syllable"],
+    "answer": "a particle showing how an action is viewed or completed",
+    "explanation": "Aspect markers like 了, 过, and 着 show the phase or perspective of an action, distinct from tense which marks time.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0006",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is a 'resultative complement'?",
+    "options": ["an adverb modifying a verb", "a word showing the result or outcome of an action", "a noun phrase following a verb", "a conjunction linking two clauses"],
+    "answer": "a word showing the result or outcome of an action",
+    "explanation": "A resultative complement follows a verb to describe the result of the action. For example, in 看到 (see), 到 is a resultative complement indicating successful completion.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0007",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Which particle turns a statement into a yes-or-no question?",
+    "options": ["的", "吗", "呢", "了"],
+    "answer": "吗",
+    "explanation": "The particle 吗 is added to the end of a statement to turn it into a yes-or-no question. It is the most straightforward way to form questions in Chinese.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0008",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "In grammar, what does 'verb serialization' mean?",
+    "options": ["verbs appearing in a series with commas", "multiple verbs in sequence in one clause without a conjunction", "listing verbs in a dictionary", "repeating the same verb twice"],
+    "answer": "multiple verbs in sequence in one clause without a conjunction",
+    "explanation": "Verb serialization is a feature of Chinese where two or more verbs appear in sequence without a connecting word, as in 去买菜 (go buy vegetables).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0009",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the 'question particle' 呢 used for?",
+    "options": ["asking about a completed action", "seeking clarification or expressing contrast", "marking the perfective aspect", "forming comparative sentences"],
+    "answer": "seeking clarification or expressing contrast",
+    "explanation": "The particle 呢 can seek clarification (like 'and you?' or 'what about…?') or express a contrasting tone without indicating yes-or-no questions.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0010",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Which term describes how 的 modifies nouns?",
+    "options": ["predicate modification", "adjectival modification or possession", "verbal modification", "adverbial modification"],
+    "answer": "adjectival modification or possession",
+    "explanation": "The particle 的 marks possession or allows adjectives and other modifiers to precede nouns. It shows the relationship between a modifier and the modified noun.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0011",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What does 'subject-verb agreement' mean in English grammar?",
+    "options": ["the subject and verb must be in the same tense", "the subject and verb must match in number and person", "the subject must come before the verb", "the verb must be an action word"],
+    "answer": "the subject and verb must match in number and person",
+    "explanation": "Subject-verb agreement requires that a singular subject takes a singular verb, and a plural subject takes a plural verb. For example, 'he runs' not 'he run'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0012",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "In English, what is the 'imperative mood'?",
+    "options": ["a verb form expressing wishes", "a verb form giving commands or requests", "a verb form describing past events", "a verb form showing possibility"],
+    "answer": "a verb form giving commands or requests",
+    "explanation": "The imperative mood is used to give commands, make requests, or give instructions. Examples: 'Sit down!' or 'Please help me.'",
+    "passage_id": null
+  }
+]

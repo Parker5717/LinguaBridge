@@ -1,0 +1,755 @@
+[
+  {
+    "id": "dlg:01",
+    "title": "Teacher explains 了",
+    "scenario": "classroom",
+    "level": "B1",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Today we're looking at 了 — le. It's an aspect particle, not a tense marker. English doesn't really have this, so don't translate it word for word."
+      },
+      {
+        "ord": 2,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Wait, it's not the past tense? I always thought 了 just means 'did something.'"
+      },
+      {
+        "ord": 3,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Close, but not quite. 了 marks a completed action or a change of state. It can appear in the present or future too, as long as something is finished by that point.",
+        "ru_note": "aspect particle — частица вида (показывает завершённость, а не время)"
+      },
+      {
+        "ord": 4,
+        "speaker": "Teacher",
+        "lang": "zh",
+        "text": "我吃了午饭。",
+        "pinyin": "Wǒ chī le wǔfàn.",
+        "ru_note": "'Я поел обед' — действие завершено"
+      },
+      {
+        "ord": 5,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "See? 'I ate lunch.' The action of eating is completed. That's the first use — completed action."
+      },
+      {
+        "ord": 6,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "OK, I see. So what's the second use?"
+      },
+      {
+        "ord": 7,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Change of state. It tells you something is different now compared to before."
+      },
+      {
+        "ord": 8,
+        "speaker": "Teacher",
+        "lang": "zh",
+        "text": "天气冷了。",
+        "pinyin": "Tiānqì lěng le."
+      },
+      {
+        "ord": 9,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "'The weather has gotten cold.' It wasn't cold before, and now it is. That 了 at the end of the sentence signals the change."
+      },
+      {
+        "ord": 10,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "So there are two kinds of 了? One after the verb, one at the end of the sentence?"
+      },
+      {
+        "ord": 11,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Exactly. Verb + 了 usually marks completion of that specific action. Sentence-final 了 marks a change of state or a new situation. Sometimes they overlap."
+      },
+      {
+        "ord": 12,
+        "speaker": "Teacher",
+        "lang": "zh",
+        "text": "我学了三年汉语了。",
+        "pinyin": "Wǒ xué le sān nián Hànyǔ le."
+      },
+      {
+        "ord": 13,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Here we have both. 'I have studied Chinese for three years.' The action started in the past and continues — that's why we use two 了 in this pattern."
+      },
+      {
+        "ord": 14,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "That's confusing. How do I know when NOT to use 了?"
+      },
+      {
+        "ord": 15,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Good question. You don't use it for habitual or ongoing actions with no clear finish. 'I go to school every day' — no 了, because nothing is completed, it just repeats."
+      },
+      {
+        "ord": 16,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Right, so it's really about the result or the change, not just 'past.' I think I get it now."
+      },
+      {
+        "ord": 17,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Exactly. Think 'completed' or 'changed,' not 'past tense,' and you'll use it correctly most of the time."
+      }
+    ]
+  },
+  {
+    "id": "dlg:02",
+    "title": "Asking about homework",
+    "scenario": "classroom",
+    "level": "A2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Excuse me, teacher, can I ask about the homework?"
+      },
+      {
+        "ord": 2,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Sure, go ahead."
+      },
+      {
+        "ord": 3,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "What exactly do we need to do?"
+      },
+      {
+        "ord": 4,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Write ten sentences using 了, and read the dialogue on page twelve."
+      },
+      {
+        "ord": 5,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Got it. And when is it due?"
+      },
+      {
+        "ord": 6,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "By Friday morning, before class starts."
+      },
+      {
+        "ord": 7,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Should I write it by hand or type it?"
+      },
+      {
+        "ord": 8,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "By hand, please. It helps you remember the characters better."
+      },
+      {
+        "ord": 9,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "OK. And where do I hand it in?"
+      },
+      {
+        "ord": 10,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Just leave it on my desk, or give it to the class monitor."
+      },
+      {
+        "ord": 11,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "One more thing — is it OK if I'm a bit late? I have another class right before this one.",
+        "ru_note": "hand it in — сдать (работу)"
+      },
+      {
+        "ord": 12,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "That's fine, just don't be later than ten minutes. Anything else?"
+      },
+      {
+        "ord": 13,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "No, that's all. Thank you!"
+      },
+      {
+        "ord": 14,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "No problem. See you Friday."
+      }
+    ]
+  },
+  {
+    "id": "dlg:03",
+    "title": "Dorm registration",
+    "scenario": "campus",
+    "level": "A2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Receptionist",
+        "lang": "en",
+        "text": "Hi, welcome. Are you here to check in?"
+      },
+      {
+        "ord": 2,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Yes, I'm a new student. My name is Anna."
+      },
+      {
+        "ord": 3,
+        "speaker": "Receptionist",
+        "lang": "en",
+        "text": "Great, can I see your passport, please?"
+      },
+      {
+        "ord": 4,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Sure, here you go."
+      },
+      {
+        "ord": 5,
+        "speaker": "Receptionist",
+        "lang": "en",
+        "text": "Thanks. You're in Building 3, room 405. It's a double room."
+      },
+      {
+        "ord": 6,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "OK. Do I need to pay a deposit?"
+      },
+      {
+        "ord": 7,
+        "speaker": "Receptionist",
+        "lang": "en",
+        "text": "Yes, five hundred yuan. You'll get it back when you check out, as long as nothing is damaged.",
+        "ru_note": "deposit — залог"
+      },
+      {
+        "ord": 8,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Understood. Can I pay by card?"
+      },
+      {
+        "ord": 9,
+        "speaker": "Receptionist",
+        "lang": "en",
+        "text": "Card or phone payment, both work."
+      },
+      {
+        "ord": 10,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Perfect. What about the room key?"
+      },
+      {
+        "ord": 11,
+        "speaker": "Receptionist",
+        "lang": "en",
+        "text": "Here's your key card. It also opens the front door of the building."
+      },
+      {
+        "ord": 12,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Thanks. Are there any rules I should know about?"
+      },
+      {
+        "ord": 13,
+        "speaker": "Receptionist",
+        "lang": "en",
+        "text": "No smoking, no cooking in the room, and quiet hours are after eleven at night."
+      },
+      {
+        "ord": 14,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Got it. Thank you so much for your help."
+      },
+      {
+        "ord": 15,
+        "speaker": "Receptionist",
+        "lang": "en",
+        "text": "You're welcome. Welcome to the dorm!"
+      }
+    ]
+  },
+  {
+    "id": "dlg:04",
+    "title": "Measure words practice",
+    "scenario": "classroom",
+    "level": "B1",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Let's practice measure words. In Chinese, you can't just put a number before a noun — you need a measure word in between."
+      },
+      {
+        "ord": 2,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Like 'a piece of' in English?"
+      },
+      {
+        "ord": 3,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Exactly that idea, but Chinese uses one for almost every noun. Let's start with 个 — ge. It's the general, all-purpose one."
+      },
+      {
+        "ord": 4,
+        "speaker": "Teacher",
+        "lang": "zh",
+        "text": "一个学生",
+        "pinyin": "yí ge xuéshēng"
+      },
+      {
+        "ord": 5,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "'One student.' If you're not sure which measure word to use, 个 is usually a safe guess, though not always correct."
+      },
+      {
+        "ord": 6,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "What about books? I keep hearing 本."
+      },
+      {
+        "ord": 7,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Right, 本 — běn — is for bound things, like books or notebooks."
+      },
+      {
+        "ord": 8,
+        "speaker": "Teacher",
+        "lang": "zh",
+        "text": "两本书",
+        "pinyin": "liǎng běn shū",
+        "ru_note": "两 используется вместо 二 перед счётным словом"
+      },
+      {
+        "ord": 9,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "'Two books.' Got it. And 张? I saw it on a sign."
+      },
+      {
+        "ord": 10,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "张 — zhāng — is for flat things: paper, tickets, tables, photos."
+      },
+      {
+        "ord": 11,
+        "speaker": "Teacher",
+        "lang": "zh",
+        "text": "三张纸",
+        "pinyin": "sān zhāng zhǐ"
+      },
+      {
+        "ord": 12,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "'Three sheets of paper.' Makes sense, paper is flat."
+      },
+      {
+        "ord": 13,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Last one for today: 杯 — bēi — for cups of a drink."
+      },
+      {
+        "ord": 14,
+        "speaker": "Teacher",
+        "lang": "zh",
+        "text": "一杯水",
+        "pinyin": "yì bēi shuǐ"
+      },
+      {
+        "ord": 15,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "'A cup of water.' So the measure word tells you the shape or type of the object?"
+      },
+      {
+        "ord": 16,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Pretty much — shape, category, or how it's packaged. There's no shortcut, you just have to learn them with the noun."
+      },
+      {
+        "ord": 17,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "That's a lot to memorize, but the pattern helps."
+      }
+    ]
+  },
+  {
+    "id": "dlg:05",
+    "title": "At the canteen",
+    "scenario": "daily",
+    "level": "A2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Anna",
+        "lang": "zh",
+        "text": "你好！",
+        "pinyin": "Nǐ hǎo!"
+      },
+      {
+        "ord": 2,
+        "speaker": "Server",
+        "lang": "en",
+        "text": "Hi there, what would you like?"
+      },
+      {
+        "ord": 3,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Um, what's this dish? It smells amazing."
+      },
+      {
+        "ord": 4,
+        "speaker": "Server",
+        "lang": "en",
+        "text": "That's mapo tofu. It's tofu with minced meat in a spicy sauce."
+      },
+      {
+        "ord": 5,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Is it very spicy?"
+      },
+      {
+        "ord": 6,
+        "speaker": "Server",
+        "lang": "en",
+        "text": "Medium spicy. We can make it milder if you want."
+      },
+      {
+        "ord": 7,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "OK, I'll try it. And some rice, please."
+      },
+      {
+        "ord": 8,
+        "speaker": "Server",
+        "lang": "en",
+        "text": "Sure. Anything to drink?"
+      },
+      {
+        "ord": 9,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Just water is fine, thanks."
+      },
+      {
+        "ord": 10,
+        "speaker": "Server",
+        "lang": "en",
+        "text": "Got it. That'll be eighteen yuan."
+      },
+      {
+        "ord": 11,
+        "speaker": "Anna",
+        "lang": "zh",
+        "text": "多少钱？",
+        "pinyin": "Duōshao qián?",
+        "ru_note": "'Сколько стоит?' — здесь для подтверждения суммы"
+      },
+      {
+        "ord": 12,
+        "speaker": "Server",
+        "lang": "en",
+        "text": "Eighteen yuan. You can scan the code here to pay."
+      },
+      {
+        "ord": 13,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Can I pay by phone?"
+      },
+      {
+        "ord": 14,
+        "speaker": "Server",
+        "lang": "en",
+        "text": "Yes, just scan this QR code with your payment app."
+      },
+      {
+        "ord": 15,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Done. Here's the confirmation."
+      },
+      {
+        "ord": 16,
+        "speaker": "Server",
+        "lang": "en",
+        "text": "Perfect, thank you. Enjoy your meal!"
+      },
+      {
+        "ord": 17,
+        "speaker": "Anna",
+        "lang": "zh",
+        "text": "谢谢！",
+        "pinyin": "Xièxie!"
+      }
+    ]
+  },
+  {
+    "id": "dlg:06",
+    "title": "Library and student card",
+    "scenario": "campus",
+    "level": "B1",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Hi, I just got my student card. Do I need to activate it here for the library?"
+      },
+      {
+        "ord": 2,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "Yes, let me link it to our system. Can I see your card and your ID, please?"
+      },
+      {
+        "ord": 3,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Here you go."
+      },
+      {
+        "ord": 4,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "Great, it's activated now. You can borrow up to five books at a time."
+      },
+      {
+        "ord": 5,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "How long can I keep them?"
+      },
+      {
+        "ord": 6,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "Thirty days. You can renew online twice if no one else has reserved the book."
+      },
+      {
+        "ord": 7,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "What happens if I return a book late?",
+        "ru_note": "renew — продлить (срок)"
+      },
+      {
+        "ord": 8,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "There's a small fine, about half a yuan per day, per book."
+      },
+      {
+        "ord": 9,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "I see. And what are the opening hours?"
+      },
+      {
+        "ord": 10,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "We're open from eight in the morning to ten at night, every day except public holidays."
+      },
+      {
+        "ord": 11,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "That's convenient. Is there a quiet study area?"
+      },
+      {
+        "ord": 12,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "Yes, the third floor is silent study only. No phone calls, no talking."
+      },
+      {
+        "ord": 13,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Perfect, that's exactly what I need before exams."
+      },
+      {
+        "ord": 14,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "Just remember to bring your card every time — no card, no entry to the study floors."
+      },
+      {
+        "ord": 15,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Understood. Thanks for explaining everything."
+      },
+      {
+        "ord": 16,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "Anytime. Enjoy the library."
+      }
+    ]
+  },
+  {
+    "id": "dlg:07",
+    "title": "Math class: solving an equation",
+    "scenario": "classroom",
+    "level": "B2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Let's solve this quadratic equation together: x squared minus five x plus six equals zero."
+      },
+      {
+        "ord": 2,
+        "speaker": "Li Wei",
+        "lang": "en",
+        "text": "Can we factor it, or do we need the formula?"
+      },
+      {
+        "ord": 3,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Let's try factoring first. We need two numbers that multiply to six and add up to negative five."
+      },
+      {
+        "ord": 4,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Negative two and negative three?"
+      },
+      {
+        "ord": 5,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Exactly. So we can rewrite it as x minus two, times x minus three, equals zero."
+      },
+      {
+        "ord": 6,
+        "speaker": "Li Wei",
+        "lang": "en",
+        "text": "Sorry, what do you mean by 'move the term'? I heard that phrase in the textbook.",
+        "ru_note": "move the term — перенести член (уравнения) на другую сторону"
+      },
+      {
+        "ord": 7,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Good question. It means you take a part of the equation and put it on the other side of the equals sign, changing its sign. We'll need that for a harder example in a moment."
+      },
+      {
+        "ord": 8,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "So for this one, x equals two or x equals three?"
+      },
+      {
+        "ord": 9,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Correct, because if either bracket equals zero, the whole equation equals zero."
+      },
+      {
+        "ord": 10,
+        "speaker": "Li Wei",
+        "lang": "en",
+        "text": "What if it doesn't factor nicely? Like with weird numbers?"
+      },
+      {
+        "ord": 11,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Then we use the quadratic formula. First we move the term so the equation equals zero, then divide both sides by the leading coefficient if it isn't one."
+      },
+      {
+        "ord": 12,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "And that part under the square root, what's it called again?"
+      },
+      {
+        "ord": 13,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "That's the discriminant. It tells you how many real solutions the equation has.",
+        "ru_note": "discriminant — дискриминант"
+      },
+      {
+        "ord": 14,
+        "speaker": "Li Wei",
+        "lang": "en",
+        "text": "If the discriminant is negative, there's no real solution, right?"
+      },
+      {
+        "ord": 15,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Right, in that case the roots are complex. We'll cover that next week."
+      },
+      {
+        "ord": 16,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "OK, I think I understand the process now. Factor first, formula if it doesn't work."
+      },
+      {
+        "ord": 17,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "That's the right approach. Let's try one more example together."
+      }
+    ]
+  }
+]

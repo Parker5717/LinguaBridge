@@ -1,0 +1,152 @@
+[
+  {
+    "id": "hskg:0001",
+    "title": "Basic SVO word order",
+    "pattern": "Subject + Verb + Object",
+    "en_explanation": "Chinese follows a Subject-Verb-Object word order, similar to English. The subject performs the action, the verb is the action, and the object receives the action. This is the fundamental sentence structure in Chinese that you must master from the beginning.",
+    "example_zh": "我喝茶。",
+    "example_pinyin": "Wǒ hē chá.",
+    "example_en": "I drink tea.",
+    "ru_note": "В русском языке порядок слов более гибкий, но в китайском SVO строгий и не должен изменяться."
+  },
+  {
+    "id": "hskg:0002",
+    "title": "The copula 是 for identity and classification",
+    "pattern": "Subject + 是 + Noun/Adjective",
+    "en_explanation": "The verb 是 means 'to be' and connects the subject to a noun or adjective. It tells us what something is or what category it belongs to. Note that 是 is different from other verbs—it always requires a noun or adjective after it, not an object.",
+    "example_zh": "我是学生。",
+    "example_pinyin": "Wǒ shì xuésheng.",
+    "example_en": "I am a student.",
+    "ru_note": "Глагол 是 похож на русский 'быть', но используется только с существительными, не с прилагательными в значении описания."
+  },
+  {
+    "id": "hskg:0003",
+    "title": "Yes-no questions with the particle 吗",
+    "pattern": "Statement + 吗?",
+    "en_explanation": "To turn a statement into a yes-no question, simply add 吗 at the end and change your intonation to rising. The word order stays exactly the same as the statement. This is the easiest way to form questions in Chinese.",
+    "example_zh": "你是学生吗？",
+    "example_pinyin": "Nǐ shì xuésheng ma?",
+    "example_en": "Are you a student?",
+    "ru_note": "Частица 吗 просто добавляется в конец предложения—русскому ученику может быть странно, что порядок слов не меняется."
+  },
+  {
+    "id": "hskg:0004",
+    "title": "Question words: 什么, 谁, 哪儿",
+    "pattern": "Subject + Verb + Question Word? OR Question Word + Verb + Object?",
+    "en_explanation": "In Chinese, question words like 什么 (what), 谁 (who), and 哪儿 (where) go in the same position where the answer would appear in the answer sentence. Unlike English, the question word does not move to the front—it stays in its natural position.",
+    "example_zh": "你要什么？",
+    "example_pinyin": "Nǐ yào shénme?",
+    "example_en": "What do you want?",
+    "ru_note": "Вопросительные слова не движутся в начало как в русском языке; они остаются на месте объекта или обстоятельства."
+  },
+  {
+    "id": "hskg:0005",
+    "title": "Measure words: 个, 本, 口",
+    "pattern": "Number + Measure Word + Noun",
+    "en_explanation": "Measure words are required between numbers and nouns in Chinese. Different nouns require different measure words. 个 is the most common general measure word, 本 is used for books, and 口 is used for people in a family. You must use a measure word every time you count nouns.",
+    "example_zh": "我有三本书。",
+    "example_pinyin": "Wǒ yǒu sān běn shū.",
+    "example_en": "I have three books.",
+    "ru_note": "В русском языке нет ничего подобного—это система счётных суффиксов, которую русским ученикам нужно выучить специально."
+  },
+  {
+    "id": "hskg:0006",
+    "title": "The possessive particle 的",
+    "pattern": "Possessor + 的 + Noun",
+    "en_explanation": "The particle 的 shows possession or relationship between two nouns, similar to the English apostrophe 's' or the preposition 'of'. When the possessor is a personal pronoun or close family, 的 can be omitted, but it is always correct to include it.",
+    "example_zh": "我的书",
+    "example_pinyin": "Wǒ de shū",
+    "example_en": "my book / the book of mine",
+    "ru_note": "粒子 的 похожа на русский родительный падеж, но она более универсальна и используется консистентно для всех типов владения."
+  },
+  {
+    "id": "hskg:0007",
+    "title": "Negation: 不 vs 没",
+    "pattern": "Subject + 不/没 + Verb + Object",
+    "en_explanation": "Use 不 to negate present or future actions, and use 没 to negate past completed actions. This distinction is crucial in Chinese. 不 negates general habits or states, while 没 specifically means 'did not' or 'have not' for something that already happened.",
+    "example_zh": "我不喝茶。我没有喝茶。",
+    "example_pinyin": "Wǒ bù hē chá. Wǒ méiyǒu hē chá.",
+    "example_en": "I don't drink tea. I didn't drink tea.",
+    "ru_note": "Русский язык использует одну форму отрицания для всех времён, но в китайском нужно различать 不 и 没 в зависимости от аспекта действия."
+  },
+  {
+    "id": "hskg:0008",
+    "title": "The aspect particle 了 for completed actions",
+    "pattern": "Subject + Verb + 了 + Object",
+    "en_explanation": "The particle 了 indicates that an action is completed or finished. It is an aspect marker, not a past tense marker. 了 appears after the verb and shows that something has happened or is now done. It can be used with past, present, or future time references.",
+    "example_zh": "我喝了茶。",
+    "example_pinyin": "Wǒ hēle chá.",
+    "example_en": "I drank tea. / I have drunk tea.",
+    "ru_note": "Частица 了 обозначает вид (completed), а не прошедшее время—это сложно для русских, которые привыкли к глагольному виду и времени вместе."
+  },
+  {
+    "id": "hskg:0009",
+    "title": "The preposition 在 for location and progressive action",
+    "pattern": "Subject + 在 + Location + Verb OR Subject + 在 + Verb + Object",
+    "en_explanation": "The preposition 在 serves two functions: it shows location ('at' or 'in') when placed before the location, and it indicates an ongoing action (the progressive) when placed before the verb. Context tells you which meaning is intended.",
+    "example_zh": "我在学校。我在学中文。",
+    "example_pinyin": "Wǒ zài xuéxiào. Wǒ zài xué Zhōngwén.",
+    "example_en": "I am at school. I am studying Chinese.",
+    "ru_note": "Предлог 在 имеет двойную функцию—это может запутать русского ученика, привыкшего к более простым предлогам."
+  },
+  {
+    "id": "hskg:0010",
+    "title": "The verb 有 for possession and existence",
+    "pattern": "Subject + 有 + Object",
+    "en_explanation": "The verb 有 means 'to have' for possession or 'there is/are' for existence. It is different from 是—use 有 when showing ownership or the presence of something, and use 是 when stating identity. 有 cannot be negated with 不, but with 没.",
+    "example_zh": "我有一个书包。",
+    "example_pinyin": "Wǒ yǒu yī ge shūbāo.",
+    "example_en": "I have a backpack.",
+    "ru_note": "Глагол 有 используется для обладания в отличие от 是; русские часто путают эти два глагола при выражении владения."
+  },
+  {
+    "id": "hskg:0011",
+    "title": "Time words: position and function",
+    "pattern": "Subject + Time Word + Verb + Object",
+    "en_explanation": "In Chinese, time words come after the subject but before the verb. They specify when the action occurs: 今天 (today), 昨天 (yesterday), 明天 (tomorrow). The time expression always stays between the subject and the verb, never at the end of the sentence like in English.",
+    "example_zh": "我今天学中文。",
+    "example_pinyin": "Wǒ jīntiān xué Zhōngwén.",
+    "example_en": "I study Chinese today.",
+    "ru_note": "Временные слова ставятся после подлежащего и перед глаголом—русский ученик может поставить их в конец, как в английском."
+  },
+  {
+    "id": "hskg:0012",
+    "title": "Expressing wants with 想 and 要",
+    "pattern": "Subject + 想/要 + Verb + Object",
+    "en_explanation": "Both 想 and 要 express desire or intention. 想 means 'want to' or 'would like to', suggesting a softer preference. 要 means 'want to' or 'need to', often more direct or emphatic. 要 can also mean 'will' when expressing future intentions. Use 想 for polite requests or preferences.",
+    "example_zh": "我想喝茶。",
+    "example_pinyin": "Wǒ xiǎng hē chá.",
+    "example_en": "I want to drink tea. / I would like to drink tea.",
+    "ru_note": "И 想, и 要 означают 'хотеть', но 想 мягче; русскому ученику нужно помнить эту разницу в вежливости и прямоте."
+  },
+  {
+    "id": "hskg:0013",
+    "title": "Ability and permission: 会, 能, 可以",
+    "pattern": "Subject + 会/能/可以 + Verb + Object",
+    "en_explanation": "These three verbs all relate to ability or permission. 会 indicates learned skill or future possibility ('can' as in 'know how to'). 能 means general ability or physical capability. 可以 means 'may' or 'is permitted'—it seeks or grants permission. All three come before the main verb.",
+    "example_zh": "我会说中文。",
+    "example_pinyin": "Wǒ huì shuō Zhōngwén.",
+    "example_en": "I can speak Chinese. / I know how to speak Chinese.",
+    "ru_note": "Три глагола для способности/разрешения—в русском языке это часто выражается одним словом, так что эти различия могут быть сложными."
+  },
+  {
+    "id": "hskg:0014",
+    "title": "Comparison with 比",
+    "pattern": "A + 比 + B + Adjective",
+    "en_explanation": "The comparative structure uses 比 to mean 'compared to' or 'than'. The formula is: Subject A 比 Subject B + Adjective. This is the standard way to compare two things. The adjective always comes after 比 and the second noun.",
+    "example_zh": "他比我高。",
+    "example_pinyin": "Tā bǐ wǒ gāo.",
+    "example_en": "He is taller than me. / He is tall compared to me.",
+    "ru_note": "Структура сравнения с 比 совершенно отличается от русской—русский язык использует творительный падеж, но китайский использует эту частицу."
+  },
+  {
+    "id": "hskg:0015",
+    "title": "Past experience with 过",
+    "pattern": "Subject + Verb + 过 + Object",
+    "en_explanation": "The aspect particle 过 marks past experience, meaning 'have (ever) done' something. It indicates that you have experienced an action at some point in the past, without specifying when exactly. 过 differs from 了—use 过 for general experience, and 了 for completed actions.",
+    "example_zh": "我去过中国。",
+    "example_pinyin": "Wǒ qù guo Zhōngguó.",
+    "example_en": "I have been to China (before). / I have traveled to China.",
+    "ru_note": "Частица 过 показывает опыт, а не просто завершённое действие—это тонкое различие между 了 и 过, которое нужно выучить хорошо."
+  }
+]

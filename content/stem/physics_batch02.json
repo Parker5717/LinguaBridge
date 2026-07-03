@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "stem:phys:0071",
+    "domain": "physics",
+    "term": "speed",
+    "ru_translation": "скорость (путь/время)",
+    "symbol": "v",
+    "en_definition": "the distance an object travels per unit of time, without regard to direction",
+    "csca_example": "Calculate the speed of a car that travels 150 km in 2 hours."
+  },
+  {
+    "id": "stem:phys:0072",
+    "domain": "physics",
+    "term": "average speed",
+    "ru_translation": "средняя скорость",
+    "symbol": "v̄",
+    "en_definition": "the total distance travelled divided by the total time taken",
+    "csca_example": "Find the average speed of a runner who covers 400 m in 50 seconds."
+  },
+  {
+    "id": "stem:phys:0073",
+    "domain": "physics",
+    "term": "instantaneous velocity",
+    "ru_translation": "мгновенная скорость",
+    "symbol": null,
+    "en_definition": "the velocity of an object at a single specific moment in time",
+    "csca_example": "Use the gradient of the tangent on a distance-time graph to find the instantaneous velocity at t = 3 s."
+  },
+  {
+    "id": "stem:phys:0074",
+    "domain": "physics",
+    "term": "resultant velocity",
+    "ru_translation": "результирующая скорость",
+    "symbol": null,
+    "en_definition": "the single velocity that results from combining two or more velocities acting on an object",
+    "csca_example": "Find the resultant velocity of a boat crossing a river with a current of 2 m/s."
+  },
+  {
+    "id": "stem:phys:0075",
+    "domain": "physics",
+    "term": "terminal velocity",
+    "ru_translation": "предельная скорость",
+    "symbol": null,
+    "en_definition": "the maximum constant velocity reached by an object falling through a fluid when air resistance balances weight",
+    "csca_example": "Explain why a skydiver eventually reaches terminal velocity."
+  },
+  {
+    "id": "stem:phys:0076",
+    "domain": "physics",
+    "term": "deceleration",
+    "ru_translation": "замедление",
+    "symbol": null,
+    "en_definition": "a decrease in speed over time, often called negative acceleration",
+    "csca_example": "Calculate the deceleration of a car that slows from 20 m/s to rest in 4 seconds."
+  },
+  {
+    "id": "stem:phys:0077",
+    "domain": "physics",
+    "term": "distance-time graph",
+    "ru_translation": "график зависимости пути от времени",
+    "symbol": null,
+    "en_definition": "a graph that shows how the distance travelled by an object changes over time",
+    "csca_example": "Use a distance-time graph to determine when the object was stationary."
+  },
+  {
+    "id": "stem:phys:0078",
+    "domain": "physics",
+    "term": "velocity-time graph",
+    "ru_translation": "график зависимости скорости от времени",
+    "symbol": null,
+    "en_definition": "a graph that shows how the velocity of an object changes over time",
+    "csca_example": "Use a velocity-time graph to calculate the distance travelled between t = 0 and t = 5 s."
+  },
+  {
+    "id": "stem:phys:0079",
+    "domain": "physics",
+    "term": "equations of motion",
+    "ru_translation": "уравнения движения",
+    "symbol": "v = u + at",
+    "en_definition": "a set of formulas relating displacement, velocity, acceleration, and time for uniformly accelerated motion",
+    "csca_example": "Use the equations of motion to find the final velocity of an object accelerating at 3 m/s² from rest for 5 seconds."
+  },
+  {
+    "id": "stem:phys:0080",
+    "domain": "physics",
+    "term": "range (projectile)",
+    "ru_translation": "дальность полёта (снаряда)",
+    "symbol": null,
+    "en_definition": "the horizontal distance travelled by a projectile before it lands",
+    "csca_example": "Calculate the range of a projectile launched at 30° with an initial speed of 20 m/s."
+  },
+  {
+    "id": "stem:phys:0081",
+    "domain": "physics",
+    "term": "time of flight",
+    "ru_translation": "время полёта",
+    "symbol": null,
+    "en_definition": "the total time a projectile remains in the air before landing",
+    "csca_example": "Find the time of flight of a ball thrown vertically upward at 15 m/s."
+  },
+  {
+    "id": "stem:phys:0082",
+    "domain": "physics",
+    "term": "maximum height",
+    "ru_translation": "максимальная высота",
+    "symbol": null,
+    "en_definition": "the greatest vertical height reached by a projectile during its flight",
+    "csca_example": "Calculate the maximum height reached by a projectile launched at 25 m/s at an angle of 45°."
+  },
+  {
+    "id": "stem:phys:0083",
+    "domain": "physics",
+    "term": "scalar quantity",
+    "ru_translation": "скалярная величина",
+    "symbol": null,
+    "en_definition": "a physical quantity that has magnitude only, with no direction",
+    "csca_example": "State whether temperature is a scalar quantity or a vector quantity."
+  },
+  {
+    "id": "stem:phys:0084",
+    "domain": "physics",
+    "term": "vector quantity",
+    "ru_translation": "векторная величина",
+    "symbol": null,
+    "en_definition": "a physical quantity that has both magnitude and direction",
+    "csca_example": "Explain why displacement is a vector quantity while distance is not."
+  },
+  {
+    "id": "stem:phys:0085",
+    "domain": "physics",
+    "term": "resultant force",
+    "ru_translation": "равнодействующая сила",
+    "symbol": "F_net",
+    "en_definition": "the single force equivalent to the combined effect of all forces acting on an object",
+    "csca_example": "Calculate the resultant force acting on an object pulled by 10 N east and 4 N west."
+  },
+  {
+    "id": "stem:phys:0086",
+    "domain": "physics",
+    "term": "net force",
+    "ru_translation": "суммарная сила",
+    "symbol": "ΣF",
+    "en_definition": "the overall force acting on an object after all individual forces have been combined",
+    "csca_example": "Find the net force on a 5 kg object accelerating at 2 m/s²."
+  },
+  {
+    "id": "stem:phys:0087",
+    "domain": "physics",
+    "term": "equilibrium (forces)",
+    "ru_translation": "равновесие (сил)",
+    "symbol": null,
+    "en_definition": "a state in which the resultant force acting on an object is zero",
+    "csca_example": "Show that the object is in equilibrium by checking that the forces sum to zero."
+  },
+  {
+    "id": "stem:phys:0088",
+    "domain": "physics",
+    "term": "inertia",
+    "ru_translation": "инерция",
+    "symbol": null,
+    "en_definition": "the tendency of an object to resist a change in its state of motion",
+    "csca_example": "Explain why passengers lurch forward due to inertia when a car brakes suddenly."
+  },
+  {
+    "id": "stem:phys:0089",
+    "domain": "physics",
+    "term": "free body diagram",
+    "ru_translation": "диаграмма свободного тела",
+    "symbol": null,
+    "en_definition": "a diagram showing all the forces acting on a single object, drawn as arrows",
+    "csca_example": "Draw a free body diagram for a box resting on an inclined plane."
+  },
+  {
+    "id": "stem:phys:0090",
+    "domain": "physics",
+    "term": "air resistance",
+    "ru_translation": "сопротивление воздуха",
+    "symbol": null,
+    "en_definition": "the frictional force exerted by air on an object moving through it",
+    "csca_example": "Explain how air resistance affects the motion of a falling parachutist."
+  },
+  {
+    "id": "stem:phys:0091",
+    "domain": "physics",
+    "term": "drag force",
+    "ru_translation": "сила сопротивления среды",
+    "symbol": null,
+    "en_definition": "the resistive force exerted on an object as it moves through a fluid such as air or water",
+    "csca_example": "Explain how drag force increases with speed for an object moving through air."
+  },
+  {
+    "id": "stem:phys:0092",
+    "domain": "physics",
+    "term": "coefficient of friction",
+    "ru_translation": "коэффициент трения",
+    "symbol": "μ",
+    "en_definition": "a number representing the ratio of the friction force between two surfaces to the normal force pressing them together",
+    "csca_example": "Calculate the coefficient of friction between a block and a surface given a friction force of 8 N and a normal force of 20 N."
+  },
+  {
+    "id": "stem:phys:0093",
+    "domain": "physics",
+    "term": "static friction",
+    "ru_translation": "сила трения покоя",
+    "symbol": null,
+    "en_definition": "the friction force that prevents an object from starting to move",
+    "csca_example": "Explain why static friction must be overcome before a box begins to slide."
+  },
+  {
+    "id": "stem:phys:0094",
+    "domain": "physics",
+    "term": "kinetic friction",
+    "ru_translation": "сила трения скольжения",
+    "symbol": null,
+    "en_definition": "the friction force that acts on an object already in motion",
+    "csca_example": "Calculate the kinetic friction acting on a sliding block with a coefficient of friction of 0.3."
+  },
+  {
+    "id": "stem:phys:0095",
+    "domain": "physics",
+    "term": "tension force",
+    "ru_translation": "сила натяжения",
+    "symbol": "T",
+    "en_definition": "the pulling force transmitted through a string, rope, or cable",
+    "csca_example": "Calculate the tension force in a rope supporting a hanging 5 kg mass."
+  },
+  {
+    "id": "stem:phys:0096",
+    "domain": "physics",
+    "term": "normal reaction force",
+    "ru_translation": "сила нормальной реакции опоры",
+    "symbol": "N",
+    "en_definition": "the force a surface exerts perpendicular to an object resting on it",
+    "csca_example": "Calculate the normal reaction force on a 10 kg box resting on a horizontal table."
+  },
+  {
+    "id": "stem:phys:0097",
+    "domain": "physics",
+    "term": "applied force",
+    "ru_translation": "приложенная сила",
+    "symbol": null,
+    "en_definition": "a force that is directly exerted on an object by a person or another object",
+    "csca_example": "Determine the applied force needed to push a 20 kg crate across the floor at constant velocity."
+  },
+  {
+    "id": "stem:phys:0098",
+    "domain": "physics",
+    "term": "Newton's law of gravitation",
+    "ru_translation": "закон всемирного тяготения Ньютона",
+    "symbol": "F = Gm₁m₂/r²",
+    "en_definition": "a law stating that every mass attracts every other mass with a force proportional to their masses and inversely proportional to the square of the distance between them",
+    "csca_example": "Use Newton's law of gravitation to calculate the gravitational force between two 1000 kg masses 2 m apart."
+  },
+  {
+    "id": "stem:phys:0099",
+    "domain": "physics",
+    "term": "gravitational field strength",
+    "ru_translation": "напряжённость гравитационного поля",
+    "symbol": "g",
+    "en_definition": "the force per unit mass experienced by an object in a gravitational field",
+    "csca_example": "State the gravitational field strength near the surface of the Earth."
+  },
+  {
+    "id": "stem:phys:0100",
+    "domain": "physics",
+    "term": "moment (force)",
+    "ru_translation": "момент силы",
+    "symbol": "M = Fd",
+    "en_definition": "the turning effect of a force about a pivot point, calculated as force multiplied by perpendicular distance",
+    "csca_example": "Calculate the moment of a 20 N force applied 0.5 m from a pivot."
+  },
+  {
+    "id": "stem:phys:0101",
+    "domain": "physics",
+    "term": "torque",
+    "ru_translation": "крутящий момент",
+    "symbol": "τ",
+    "en_definition": "the rotational equivalent of force, causing an object to rotate about an axis",
+    "csca_example": "Calculate the torque produced by a 15 N force applied at a perpendicular distance of 0.3 m from the axis."
+  },
+  {
+    "id": "stem:phys:0102",
+    "domain": "physics",
+    "term": "principle of moments",
+    "ru_translation": "принцип моментов",
+    "symbol": null,
+    "en_definition": "a rule stating that for a body in equilibrium, the sum of clockwise moments equals the sum of anticlockwise moments",
+    "csca_example": "Use the principle of moments to find the unknown weight on a balanced seesaw."
+  },
+  {
+    "id": "stem:phys:0103",
+    "domain": "physics",
+    "term": "elastic limit",
+    "ru_translation": "предел упругости",
+    "symbol": null,
+    "en_definition": "the maximum extension a material can undergo and still return to its original shape when the force is removed",
+    "csca_example": "Explain what happens to a spring when it is stretched beyond its elastic limit."
+  },
+  {
+    "id": "stem:phys:0104",
+    "domain": "physics",
+    "term": "Hooke's law",
+    "ru_translation": "закон Гука",
+    "symbol": "F = kx",
+    "en_definition": "a law stating that the extension of a spring is directly proportional to the force applied, up to its elastic limit",
+    "csca_example": "Use Hooke's law to calculate the force needed to extend a spring by 0.05 m with a spring constant of 200 N/m."
+  },
+  {
+    "id": "stem:phys:0105",
+    "domain": "physics",
+    "term": "spring constant",
+    "ru_translation": "жёсткость пружины",
+    "symbol": "k",
+    "en_definition": "a measure of the stiffness of a spring, equal to the force needed to produce a unit extension",
+    "csca_example": "Calculate the spring constant of a spring that extends 0.1 m under a force of 25 N."
+  },
+  {
+    "id": "stem:phys:0106",
+    "domain": "physics",
+    "term": "work done",
+    "ru_translation": "совершённая работа",
+    "symbol": "W = Fd",
+    "en_definition": "the energy transferred when a force moves an object through a distance",
+    "csca_example": "Calculate the work done when a 50 N force moves an object 4 m in the direction of the force."
+  },
+  {
+    "id": "stem:phys:0107",
+    "domain": "physics",
+    "term": "mechanical energy",
+    "ru_translation": "механическая энергия",
+    "symbol": null,
+    "en_definition": "the sum of the kinetic and potential energy of an object",
+    "csca_example": "Calculate the total mechanical energy of a ball at a height of 10 m moving at 3 m/s."
+  },
+  {
+    "id": "stem:phys:0108",
+    "domain": "physics",
+    "term": "gravitational potential energy",
+    "ru_translation": "потенциальная энергия гравитационного поля",
+    "symbol": "GPE = mgh",
+    "en_definition": "the energy stored in an object due to its height above a reference point in a gravitational field",
+    "csca_example": "Calculate the gravitational potential energy of a 2 kg object raised 5 m above the ground."
+  },
+  {
+    "id": "stem:phys:0109",
+    "domain": "physics",
+    "term": "elastic potential energy",
+    "ru_translation": "потенциальная энергия упругой деформации",
+    "symbol": "EPE = ½kx²",
+    "en_definition": "the energy stored in an object when it is stretched or compressed elastically",
+    "csca_example": "Calculate the elastic potential energy stored in a spring extended 0.2 m with a spring constant of 150 N/m."
+  },
+  {
+    "id": "stem:phys:0110",
+    "domain": "physics",
+    "term": "law of conservation of energy",
+    "ru_translation": "закон сохранения энергии",
+    "symbol": null,
+    "en_definition": "a law stating that energy cannot be created or destroyed, only transferred or transformed from one form to another",
+    "csca_example": "Use the law of conservation of energy to find the speed of a ball at the bottom of a slide."
+  },
+  {
+    "id": "stem:phys:0111",
+    "domain": "physics",
+    "term": "energy transfer",
+    "ru_translation": "передача энергии",
+    "symbol": null,
+    "en_definition": "the process by which energy moves from one object or form to another",
+    "csca_example": "Describe the energy transfer that occurs when a ball is dropped and bounces."
+  },
+  {
+    "id": "stem:phys:0112",
+    "domain": "physics",
+    "term": "efficiency",
+    "ru_translation": "коэффициент полезного действия (КПД)",
+    "symbol": "η",
+    "en_definition": "the proportion of input energy that is usefully transferred by a device, often expressed as a percentage",
+    "csca_example": "Calculate the efficiency of a motor that converts 500 J of electrical energy into 350 J of useful kinetic energy."
+  },
+  {
+    "id": "stem:phys:0113",
+    "domain": "physics",
+    "term": "power output",
+    "ru_translation": "выходная мощность",
+    "symbol": "P",
+    "en_definition": "the rate at which a device or system produces or transfers energy",
+    "csca_example": "Calculate the power output of a motor that lifts a 10 kg mass 3 m in 5 seconds."
+  },
+  {
+    "id": "stem:phys:0114",
+    "domain": "physics",
+    "term": "Sankey diagram",
+    "ru_translation": "диаграмма Санки",
+    "symbol": null,
+    "en_definition": "a diagram that uses arrows of different widths to show how energy is transferred and where it is wasted",
+    "csca_example": "Draw a Sankey diagram to show the energy transfers in a filament lamp."
+  },
+  {
+    "id": "stem:phys:0115",
+    "domain": "physics",
+    "term": "watt",
+    "ru_translation": "ватт",
+    "symbol": "W",
+    "en_definition": "the SI unit of power, equal to one joule of energy transferred per second",
+    "csca_example": "Explain what it means for a light bulb to be rated at 60 watts."
+  },
+  {
+    "id": "stem:phys:0116",
+    "domain": "physics",
+    "term": "joule",
+    "ru_translation": "джоуль",
+    "symbol": "J",
+    "en_definition": "the SI unit of energy or work, equal to the work done by a force of one newton moving an object one metre",
+    "csca_example": "State how many joules of work are done when a 1 N force moves an object 1 m."
+  },
+  {
+    "id": "stem:phys:0117",
+    "domain": "physics",
+    "term": "linear momentum",
+    "ru_translation": "линейный импульс",
+    "symbol": "p = mv",
+    "en_definition": "the product of an object's mass and velocity",
+    "csca_example": "Calculate the linear momentum of a 1200 kg car travelling at 20 m/s."
+  },
+  {
+    "id": "stem:phys:0118",
+    "domain": "physics",
+    "term": "conservation of momentum",
+    "ru_translation": "закон сохранения импульса",
+    "symbol": null,
+    "en_definition": "a law stating that the total momentum of a closed system remains constant if no external force acts on it",
+    "csca_example": "Use conservation of momentum to find the final velocity after two trolleys collide and stick together."
+  },
+  {
+    "id": "stem:phys:0119",
+    "domain": "physics",
+    "term": "elastic collision",
+    "ru_translation": "упругое столкновение",
+    "symbol": null,
+    "en_definition": "a collision in which both momentum and kinetic energy are conserved",
+    "csca_example": "Determine whether the collision between the two billiard balls is an elastic collision."
+  },
+  {
+    "id": "stem:phys:0120",
+    "domain": "physics",
+    "term": "inelastic collision",
+    "ru_translation": "неупругое столкновение",
+    "symbol": null,
+    "en_definition": "a collision in which momentum is conserved but kinetic energy is not, often because objects stick together",
+    "csca_example": "Calculate the kinetic energy lost in an inelastic collision between two colliding trolleys."
+  },
+  {
+    "id": "stem:phys:0121",
+    "domain": "physics",
+    "term": "impulse",
+    "ru_translation": "импульс силы",
+    "symbol": "J = FΔt",
+    "en_definition": "the change in momentum of an object, equal to the force applied multiplied by the time it acts",
+    "csca_example": "Calculate the impulse delivered to a ball struck by a bat for 0.01 s with an average force of 300 N."
+  },
+  {
+    "id": "stem:phys:0122",
+    "domain": "physics",
+    "term": "change in momentum",
+    "ru_translation": "изменение импульса",
+    "symbol": "Δp",
+    "en_definition": "the difference between an object's final momentum and its initial momentum",
+    "csca_example": "Calculate the change in momentum of a 0.5 kg ball that bounces off a wall, reversing its velocity of 4 m/s."
+  },
+  {
+    "id": "stem:phys:0123",
+    "domain": "physics",
+    "term": "circular motion",
+    "ru_translation": "движение по окружности",
+    "symbol": null,
+    "en_definition": "the movement of an object along a circular path at a constant distance from a fixed centre point",
+    "csca_example": "Describe the circular motion of a satellite orbiting the Earth."
+  },
+  {
+    "id": "stem:phys:0124",
+    "domain": "physics",
+    "term": "centripetal force",
+    "ru_translation": "центростремительная сила",
+    "symbol": "F_c = mv²/r",
+    "en_definition": "the force directed toward the centre of a circular path that keeps an object moving in that circle",
+    "csca_example": "Calculate the centripetal force required to keep a 2 kg mass moving in a circle of radius 0.5 m at 4 m/s."
+  },
+  {
+    "id": "stem:phys:0125",
+    "domain": "physics",
+    "term": "centripetal acceleration",
+    "ru_translation": "центростремительное ускорение",
+    "symbol": "a_c = v²/r",
+    "en_definition": "the acceleration directed toward the centre of a circular path, caused by the changing direction of velocity",
+    "csca_example": "Calculate the centripetal acceleration of an object moving at 6 m/s in a circle of radius 3 m."
+  },
+  {
+    "id": "stem:phys:0126",
+    "domain": "physics",
+    "term": "angular velocity",
+    "ru_translation": "угловая скорость",
+    "symbol": "ω",
+    "en_definition": "the rate at which an object rotates or sweeps through an angle, measured in radians per second",
+    "csca_example": "Calculate the angular velocity of a wheel completing one revolution every 2 seconds."
+  },
+  {
+    "id": "stem:phys:0127",
+    "domain": "physics",
+    "term": "transverse wave",
+    "ru_translation": "поперечная волна",
+    "symbol": null,
+    "en_definition": "a wave in which the particles vibrate at right angles to the direction the wave travels",
+    "csca_example": "Explain why light is classified as a transverse wave."
+  },
+  {
+    "id": "stem:phys:0128",
+    "domain": "physics",
+    "term": "longitudinal wave",
+    "ru_translation": "продольная волна",
+    "symbol": null,
+    "en_definition": "a wave in which the particles vibrate parallel to the direction the wave travels",
+    "csca_example": "Explain why sound is classified as a longitudinal wave."
+  },
+  {
+    "id": "stem:phys:0129",
+    "domain": "physics",
+    "term": "compression (wave)",
+    "ru_translation": "сжатие (в волне)",
+    "symbol": null,
+    "en_definition": "a region in a longitudinal wave where particles are pushed close together",
+    "csca_example": "Label the compression regions on the diagram of a sound wave."
+  },
+  {
+    "id": "stem:phys:0130",
+    "domain": "physics",
+    "term": "rarefaction",
+    "ru_translation": "разрежение (в волне)",
+    "symbol": null,
+    "en_definition": "a region in a longitudinal wave where particles are spread further apart",
+    "csca_example": "Label the rarefaction regions on the diagram of a sound wave."
+  },
+  {
+    "id": "stem:phys:0131",
+    "domain": "physics",
+    "term": "wave equation",
+    "ru_translation": "волновое уравнение",
+    "symbol": "v = fλ",
+    "en_definition": "an equation relating the speed of a wave to its frequency and wavelength",
+    "csca_example": "Use the wave equation to find the speed of a wave with frequency 50 Hz and wavelength 2 m."
+  },
+  {
+    "id": "stem:phys:0132",
+    "domain": "physics",
+    "term": "pitch",
+    "ru_translation": "высота звука",
+    "symbol": null,
+    "en_definition": "the perceived highness or lowness of a sound, determined by its frequency",
+    "csca_example": "Explain why a higher frequency sound wave has a higher pitch."
+  },
+  {
+    "id": "stem:phys:0133",
+    "domain": "physics",
+    "term": "loudness",
+    "ru_translation": "громкость",
+    "symbol": null,
+    "en_definition": "the perceived strength of a sound, related to the amplitude of the sound wave",
+    "csca_example": "Explain why increasing the amplitude of a sound wave increases its loudness."
+  },
+  {
+    "id": "stem:phys:0134",
+    "domain": "physics",
+    "term": "total internal reflection",
+    "ru_translation": "полное внутреннее отражение",
+    "symbol": null,
+    "en_definition": "the complete reflection of a light ray inside a medium when it hits a boundary at an angle greater than the critical angle",
+    "csca_example": "Explain how total internal reflection allows light to travel through an optical fibre."
+  },
+  {
+    "id": "stem:phys:0135",
+    "domain": "physics",
+    "term": "critical angle",
+    "ru_translation": "критический угол",
+    "symbol": "θc",
+    "en_definition": "the angle of incidence above which total internal reflection occurs",
+    "csca_example": "Calculate the critical angle for light travelling from glass into air, given a refractive index of 1.5."
+  },
+  {
+    "id": "stem:phys:0136",
+    "domain": "physics",
+    "term": "refractive index",
+    "ru_translation": "показатель преломления",
+    "symbol": "n",
+    "en_definition": "a measure of how much a material bends light, defined as the ratio of the speed of light in a vacuum to its speed in the material",
+    "csca_example": "Calculate the refractive index of a medium in which light travels at 2 × 10⁸ m/s."
+  },
+  {
+    "id": "stem:phys:0137",
+    "domain": "physics",
+    "term": "angle of incidence",
+    "ru_translation": "угол падения",
+    "symbol": null,
+    "en_definition": "the angle between an incoming ray of light and the normal at the point of contact",
+    "csca_example": "Measure the angle of incidence of the light ray striking the mirror."
+  },
+  {
+    "id": "stem:phys:0138",
+    "domain": "physics",
+    "term": "concave lens",
+    "ru_translation": "рассеивающая линза",
+    "symbol": null,
+    "en_definition": "a lens that curves inward and causes light rays to spread apart",
+    "csca_example": "Explain why a concave lens produces a virtual, diminished image."
+  },
+  {
+    "id": "stem:phys:0139",
+    "domain": "physics",
+    "term": "convex lens",
+    "ru_translation": "собирающая линза",
+    "symbol": null,
+    "en_definition": "a lens that curves outward and causes light rays to converge",
+    "csca_example": "Use ray diagrams to show how a convex lens focuses parallel rays of light."
+  },
+  {
+    "id": "stem:phys:0140",
+    "domain": "physics",
+    "term": "focal length",
+    "ru_translation": "фокусное расстояние",
+    "symbol": "f",
+    "en_definition": "the distance between the centre of a lens or mirror and its focal point",
+    "csca_example": "Calculate the focal length of a lens given its power in dioptres."
+  },
+  {
+    "id": "stem:phys:0141",
+    "domain": "physics",
+    "term": "virtual image",
+    "ru_translation": "мнимое изображение",
+    "symbol": null,
+    "en_definition": "an image formed where light rays appear to diverge from, which cannot be projected onto a screen",
+    "csca_example": "Explain why a plane mirror always forms a virtual image."
+  },
+  {
+    "id": "stem:phys:0142",
+    "domain": "physics",
+    "term": "electromagnetic spectrum",
+    "ru_translation": "электромагнитный спектр",
+    "symbol": null,
+    "en_definition": "the complete range of electromagnetic waves, ordered by wavelength and frequency",
+    "csca_example": "List the seven regions of the electromagnetic spectrum in order of increasing frequency."
+  },
+  {
+    "id": "stem:phys:0143",
+    "domain": "physics",
+    "term": "ultraviolet radiation",
+    "ru_translation": "ультрафиолетовое излучение",
+    "symbol": "UV",
+    "en_definition": "electromagnetic radiation with a wavelength shorter than visible light but longer than X-rays",
+    "csca_example": "Explain a harmful effect of excessive exposure to ultraviolet radiation."
+  },
+  {
+    "id": "stem:phys:0144",
+    "domain": "physics",
+    "term": "standing wave",
+    "ru_translation": "стоячая волна",
+    "symbol": null,
+    "en_definition": "a wave pattern that appears stationary, formed by the interference of two waves travelling in opposite directions",
+    "csca_example": "Describe how a standing wave is formed on a vibrating string."
+  },
+  {
+    "id": "stem:phys:0145",
+    "domain": "physics",
+    "term": "resonance",
+    "ru_translation": "резонанс",
+    "symbol": null,
+    "en_definition": "a large increase in amplitude that occurs when a system is driven at its natural frequency",
+    "csca_example": "Explain why a bridge can be damaged by resonance caused by soldiers marching in step."
+  },
+  {
+    "id": "stem:phys:0146",
+    "domain": "physics",
+    "term": "Doppler effect",
+    "ru_translation": "эффект Доплера",
+    "symbol": null,
+    "en_definition": "the change in observed frequency of a wave caused by relative motion between the source and the observer",
+    "csca_example": "Use the Doppler effect to explain why an ambulance siren sounds higher pitched as it approaches."
+  },
+  {
+    "id": "stem:phys:0147",
+    "domain": "physics",
+    "term": "electromotive force",
+    "ru_translation": "электродвижущая сила (ЭДС)",
+    "symbol": "EMF",
+    "en_definition": "the energy supplied by a source per unit charge, driving current around a circuit",
+    "csca_example": "Calculate the electromotive force of a battery supplying 20 J of energy to move 4 C of charge."
+  },
+  {
+    "id": "stem:phys:0148",
+    "domain": "physics",
+    "term": "potential difference",
+    "ru_translation": "разность потенциалов",
+    "symbol": "V",
+    "en_definition": "the amount of energy transferred per unit charge between two points in a circuit",
+    "csca_example": "Calculate the potential difference across a resistor carrying a current of 2 A with resistance 5 Ω."
+  },
+  {
+    "id": "stem:phys:0149",
+    "domain": "physics",
+    "term": "ohm's law",
+    "ru_translation": "закон Ома",
+    "symbol": "V = IR",
+    "en_definition": "a law stating that the current through a conductor is directly proportional to the potential difference across it, at constant temperature",
+    "csca_example": "Use Ohm's law to find the current through a 10 Ω resistor connected to a 5 V supply."
+  },
+  {
+    "id": "stem:phys:0150",
+    "domain": "physics",
+    "term": "resistor",
+    "ru_translation": "резистор",
+    "symbol": null,
+    "en_definition": "a component in a circuit that opposes the flow of electric current",
+    "csca_example": "Calculate the total resistance of two 4 Ω resistors connected in series."
+  },
+  {
+    "id": "stem:phys:0151",
+    "domain": "physics",
+    "term": "voltmeter",
+    "ru_translation": "вольтметр",
+    "symbol": "V",
+    "en_definition": "an instrument used to measure potential difference, connected in parallel across a component",
+    "csca_example": "Explain why a voltmeter must be connected in parallel to measure potential difference accurately."
+  },
+  {
+    "id": "stem:phys:0152",
+    "domain": "physics",
+    "term": "electrical charge",
+    "ru_translation": "электрический заряд",
+    "symbol": "Q",
+    "en_definition": "a fundamental property of matter that causes it to experience a force in an electric field",
+    "csca_example": "Calculate the electrical charge that flows when a current of 3 A passes for 10 seconds."
+  },
+  {
+    "id": "stem:phys:0153",
+    "domain": "physics",
+    "term": "conductor (electricity)",
+    "ru_translation": "проводник (электричество)",
+    "symbol": null,
+    "en_definition": "a material that allows electric current to flow easily through it",
+    "csca_example": "Explain why copper is used as a conductor in electrical wiring."
+  },
+  {
+    "id": "stem:phys:0154",
+    "domain": "physics",
+    "term": "insulator (electricity)",
+    "ru_translation": "изолятор (электричество)",
+    "symbol": null,
+    "en_definition": "a material that does not allow electric current to flow through it easily",
+    "csca_example": "Explain why rubber is used as an insulator around electrical wires."
+  },
+  {
+    "id": "stem:phys:0155",
+    "domain": "physics",
+    "term": "electrical power",
+    "ru_translation": "электрическая мощность",
+    "symbol": "P = VI",
+    "en_definition": "the rate at which electrical energy is transferred in a circuit",
+    "csca_example": "Calculate the electrical power of a device operating at 12 V with a current of 3 A."
+  },
+  {
+    "id": "stem:phys:0156",
+    "domain": "physics",
+    "term": "total resistance",
+    "ru_translation": "полное (общее) сопротивление",
+    "symbol": "R_total",
+    "en_definition": "the combined resistance of all the components in a circuit",
+    "csca_example": "Calculate the total resistance of a 6 Ω and a 3 Ω resistor connected in parallel."
+  },
+  {
+    "id": "stem:phys:0157",
+    "domain": "physics",
+    "term": "fuse",
+    "ru_translation": "предохранитель",
+    "symbol": null,
+    "en_definition": "a safety device containing a thin wire that melts and breaks the circuit if the current becomes too high",
+    "csca_example": "Explain why a fuse is fitted in the live wire of a plug."
+  },
+  {
+    "id": "stem:phys:0158",
+    "domain": "physics",
+    "term": "direct current",
+    "ru_translation": "постоянный ток",
+    "symbol": "DC",
+    "en_definition": "an electric current that flows in one direction only",
+    "csca_example": "State an example of a device that uses direct current."
+  },
+  {
+    "id": "stem:phys:0159",
+    "domain": "physics",
+    "term": "alternating current",
+    "ru_translation": "переменный ток",
+    "symbol": "AC",
+    "en_definition": "an electric current that regularly reverses direction",
+    "csca_example": "Explain why the mains electricity supply uses alternating current."
+  },
+  {
+    "id": "stem:phys:0160",
+    "domain": "physics",
+    "term": "capacitance",
+    "ru_translation": "электроёмкость",
+    "symbol": "C",
+    "en_definition": "a measure of a component's ability to store electric charge per unit potential difference",
+    "csca_example": "Calculate the capacitance of a capacitor storing 6 mC of charge at 12 V."
+  },
+  {
+    "id": "stem:phys:0161",
+    "domain": "physics",
+    "term": "magnetic force",
+    "ru_translation": "магнитная сила",
+    "symbol": null,
+    "en_definition": "the force exerted between magnetic poles or on a moving charge in a magnetic field",
+    "csca_example": "Describe the magnetic force between two like poles of a magnet."
+  },
+  {
+    "id": "stem:phys:0162",
+    "domain": "physics",
+    "term": "electromagnet",
+    "ru_translation": "электромагнит",
+    "symbol": null,
+    "en_definition": "a magnet created by passing an electric current through a coil of wire, often wound around an iron core",
+    "csca_example": "Explain how increasing the current strengthens an electromagnet."
+  },
+  {
+    "id": "stem:phys:0163",
+    "domain": "physics",
+    "term": "solenoid",
+    "ru_translation": "соленоид",
+    "symbol": null,
+    "en_definition": "a coil of wire that produces a uniform magnetic field inside it when a current flows through it",
+    "csca_example": "Describe the magnetic field produced inside a solenoid carrying a current."
+  },
+  {
+    "id": "stem:phys:0164",
+    "domain": "physics",
+    "term": "motor effect",
+    "ru_translation": "эффект электродвигателя (сила Ампера)",
+    "symbol": null,
+    "en_definition": "the force experienced by a current-carrying conductor placed in a magnetic field",
+    "csca_example": "Use the motor effect to explain why a current-carrying wire moves when placed between magnetic poles."
+  },
+  {
+    "id": "stem:phys:0165",
+    "domain": "physics",
+    "term": "Fleming's left-hand rule",
+    "ru_translation": "правило левой руки Флеминга",
+    "symbol": null,
+    "en_definition": "a rule used to predict the direction of the force on a current-carrying conductor in a magnetic field",
+    "csca_example": "Use Fleming's left-hand rule to find the direction of the force on the wire."
+  },
+  {
+    "id": "stem:phys:0166",
+    "domain": "physics",
+    "term": "electric motor",
+    "ru_translation": "электродвигатель",
+    "symbol": null,
+    "en_definition": "a device that converts electrical energy into kinetic energy using the motor effect",
+    "csca_example": "Explain how a simple electric motor produces continuous rotation."
+  },
+  {
+    "id": "stem:phys:0167",
+    "domain": "physics",
+    "term": "electric generator",
+    "ru_translation": "электрогенератор",
+    "symbol": null,
+    "en_definition": "a device that converts kinetic energy into electrical energy using electromagnetic induction",
+    "csca_example": "Explain how a simple electric generator produces an alternating current."
+  },
+  {
+    "id": "stem:phys:0168",
+    "domain": "physics",
+    "term": "transformer",
+    "ru_translation": "трансформатор",
+    "symbol": null,
+    "en_definition": "a device that changes the voltage of an alternating current using two coils linked by a magnetic field",
+    "csca_example": "Calculate the output voltage of a step-up transformer given the primary voltage and the turns ratio."
+  },
+  {
+    "id": "stem:phys:0169",
+    "domain": "physics",
+    "term": "heat capacity",
+    "ru_translation": "теплоёмкость",
+    "symbol": null,
+    "en_definition": "the amount of energy needed to raise the temperature of an object by one degree Celsius",
+    "csca_example": "Calculate the heat capacity of an object that requires 800 J to raise its temperature by 4°C."
+  },
+  {
+    "id": "stem:phys:0170",
+    "domain": "physics",
+    "term": "latent heat",
+    "ru_translation": "скрытая теплота",
+    "symbol": "L",
+    "en_definition": "the energy absorbed or released during a change of state without a change in temperature",
+    "csca_example": "Calculate the latent heat required to melt 2 kg of ice."
+  },
+  {
+    "id": "stem:phys:0171",
+    "domain": "physics",
+    "term": "conduction",
+    "ru_translation": "теплопроводность",
+    "symbol": null,
+    "en_definition": "the transfer of thermal energy through a material by the vibration and collision of particles",
+    "csca_example": "Explain why metals are good conductors of heat through conduction."
+  },
+  {
+    "id": "stem:phys:0172",
+    "domain": "physics",
+    "term": "convection",
+    "ru_translation": "конвекция",
+    "symbol": null,
+    "en_definition": "the transfer of thermal energy through a fluid by the movement of warmer, less dense regions rising",
+    "csca_example": "Explain how convection currents form in a heated pan of water."
+  },
+  {
+    "id": "stem:phys:0173",
+    "domain": "physics",
+    "term": "radiation (heat)",
+    "ru_translation": "тепловое излучение",
+    "symbol": null,
+    "en_definition": "the transfer of thermal energy by electromagnetic waves, which can travel through a vacuum",
+    "csca_example": "Explain how radiation allows heat from the Sun to reach the Earth."
+  },
+  {
+    "id": "stem:phys:0174",
+    "domain": "physics",
+    "term": "thermal insulator",
+    "ru_translation": "теплоизолятор",
+    "symbol": null,
+    "en_definition": "a material that resists the flow of thermal energy through it",
+    "csca_example": "Explain why fibreglass is used as a thermal insulator in loft insulation."
+  },
+  {
+    "id": "stem:phys:0175",
+    "domain": "physics",
+    "term": "thermal expansion",
+    "ru_translation": "тепловое расширение",
+    "symbol": null,
+    "en_definition": "the increase in size of a material as its temperature rises",
+    "csca_example": "Explain why a gap is left between railway track sections to allow for thermal expansion."
+  },
+  {
+    "id": "stem:phys:0176",
+    "domain": "physics",
+    "term": "absolute zero",
+    "ru_translation": "абсолютный нуль",
+    "symbol": "0 K",
+    "en_definition": "the lowest possible temperature, at which particles have minimum thermal energy, equal to -273°C",
+    "csca_example": "Convert a temperature of 25°C into kelvin, given that absolute zero is -273°C."
+  },
+  {
+    "id": "stem:phys:0177",
+    "domain": "physics",
+    "term": "kinetic theory of matter",
+    "ru_translation": "молекулярно-кинетическая теория вещества",
+    "symbol": null,
+    "en_definition": "a theory explaining the behaviour of solids, liquids, and gases in terms of the motion and arrangement of particles",
+    "csca_example": "Use the kinetic theory of matter to explain why gases expand to fill their container."
+  },
+  {
+    "id": "stem:phys:0178",
+    "domain": "physics",
+    "term": "Brownian motion",
+    "ru_translation": "броуновское движение",
+    "symbol": null,
+    "en_definition": "the random, erratic movement of small particles suspended in a fluid, caused by collisions with fluid molecules",
+    "csca_example": "Explain how Brownian motion provides evidence for the kinetic theory of matter."
+  },
+  {
+    "id": "stem:phys:0179",
+    "domain": "physics",
+    "term": "evaporation",
+    "ru_translation": "испарение",
+    "symbol": null,
+    "en_definition": "the process by which particles escape from the surface of a liquid to become a gas, below boiling point",
+    "csca_example": "Explain why evaporation causes a cooling effect on the skin."
+  },
+  {
+    "id": "stem:phys:0180",
+    "domain": "physics",
+    "term": "boiling point",
+    "ru_translation": "температура кипения",
+    "symbol": null,
+    "en_definition": "the temperature at which a liquid changes into a gas throughout its whole volume",
+    "csca_example": "State the boiling point of water at standard atmospheric pressure."
+  },
+  {
+    "id": "stem:phys:0181",
+    "domain": "physics",
+    "term": "melting point",
+    "ru_translation": "температура плавления",
+    "symbol": null,
+    "en_definition": "the temperature at which a solid changes into a liquid",
+    "csca_example": "State the melting point of ice at standard atmospheric pressure."
+  },
+  {
+    "id": "stem:phys:0182",
+    "domain": "physics",
+    "term": "Boyle's law",
+    "ru_translation": "закон Бойля",
+    "symbol": "P₁V₁ = P₂V₂",
+    "en_definition": "a law stating that at constant temperature, the pressure of a fixed mass of gas is inversely proportional to its volume",
+    "csca_example": "Use Boyle's law to find the new pressure of a gas when its volume is halved at constant temperature."
+  },
+  {
+    "id": "stem:phys:0183",
+    "domain": "physics",
+    "term": "atmospheric pressure",
+    "ru_translation": "атмосферное давление",
+    "symbol": null,
+    "en_definition": "the pressure exerted by the weight of the air in the atmosphere",
+    "csca_example": "Explain why atmospheric pressure decreases with increasing altitude."
+  },
+  {
+    "id": "stem:phys:0184",
+    "domain": "physics",
+    "term": "liquid pressure",
+    "ru_translation": "давление жидкости",
+    "symbol": "P = ρgh",
+    "en_definition": "the pressure exerted by a liquid due to its weight, increasing with depth",
+    "csca_example": "Calculate the liquid pressure at a depth of 10 m in water of density 1000 kg/m³."
+  },
+  {
+    "id": "stem:phys:0185",
+    "domain": "physics",
+    "term": "upthrust",
+    "ru_translation": "выталкивающая сила (архимедова сила)",
+    "symbol": null,
+    "en_definition": "the upward force exerted by a fluid on an object partly or fully submerged in it",
+    "csca_example": "Calculate the upthrust on an object that displaces 0.002 m³ of water."
+  },
+  {
+    "id": "stem:phys:0186",
+    "domain": "physics",
+    "term": "Archimedes' principle",
+    "ru_translation": "принцип Архимеда",
+    "symbol": null,
+    "en_definition": "a principle stating that the upthrust on an object in a fluid equals the weight of fluid displaced",
+    "csca_example": "Use Archimedes' principle to explain why a ship made of steel can float."
+  },
+  {
+    "id": "stem:phys:0187",
+    "domain": "physics",
+    "term": "SI unit",
+    "ru_translation": "единица СИ",
+    "symbol": null,
+    "en_definition": "a unit of measurement from the International System of Units, used as a global scientific standard",
+    "csca_example": "State the SI unit for measuring electric current."
+  },
+  {
+    "id": "stem:phys:0188",
+    "domain": "physics",
+    "term": "uncertainty (measurement)",
+    "ru_translation": "погрешность (измерения)",
+    "symbol": null,
+    "en_definition": "the range within which the true value of a measurement is likely to lie",
+    "csca_example": "State the uncertainty in a length measurement taken with a ruler marked in millimetres."
+  },
+  {
+    "id": "stem:phys:0189",
+    "domain": "physics",
+    "term": "systematic error",
+    "ru_translation": "систематическая погрешность",
+    "symbol": null,
+    "en_definition": "a consistent error that affects every measurement in the same way, often due to faulty equipment",
+    "csca_example": "Explain how a zero error on a balance can cause a systematic error."
+  },
+  {
+    "id": "stem:phys:0190",
+    "domain": "physics",
+    "term": "random error",
+    "ru_translation": "случайная погрешность",
+    "symbol": null,
+    "en_definition": "an error that varies unpredictably between measurements, often due to human reaction time or fluctuating conditions",
+    "csca_example": "Explain how repeating a measurement several times reduces the effect of random error."
+  },
+  {
+    "id": "stem:phys:0191",
+    "domain": "physics",
+    "term": "accuracy",
+    "ru_translation": "точность (соответствие истинному значению)",
+    "symbol": null,
+    "en_definition": "how close a measured value is to the true or accepted value",
+    "csca_example": "Explain why a thermometer that always reads 2°C too high lacks accuracy."
+  },
+  {
+    "id": "stem:phys:0192",
+    "domain": "physics",
+    "term": "vernier caliper",
+    "ru_translation": "штангенциркуль (нониус)",
+    "symbol": null,
+    "en_definition": "an instrument used to measure small lengths precisely, including internal and external dimensions",
+    "csca_example": "Use a vernier caliper to measure the diameter of a small metal ball."
+  },
+  {
+    "id": "stem:phys:0193",
+    "domain": "physics",
+    "term": "measuring cylinder",
+    "ru_translation": "мерный цилиндр",
+    "symbol": null,
+    "en_definition": "a tall, narrow container marked with a scale, used to measure the volume of a liquid",
+    "csca_example": "Use a measuring cylinder to measure out 50 cm³ of water."
+  },
+  {
+    "id": "stem:phys:0194",
+    "domain": "physics",
+    "term": "thermometer",
+    "ru_translation": "термометр",
+    "symbol": null,
+    "en_definition": "an instrument used to measure temperature",
+    "csca_example": "Use a thermometer to record the temperature of the water every minute."
+  },
+  {
+    "id": "stem:phys:0195",
+    "domain": "physics",
+    "term": "calorimeter",
+    "ru_translation": "калориметр",
+    "symbol": null,
+    "en_definition": "an insulated container used to measure the heat energy released or absorbed during a physical or chemical process",
+    "csca_example": "Use a calorimeter to measure the specific heat capacity of the metal block."
+  },
+  {
+    "id": "stem:phys:0196",
+    "domain": "physics",
+    "term": "light gate",
+    "ru_translation": "фотоэлектрический датчик (световой барьер)",
+    "symbol": null,
+    "en_definition": "a sensor used to measure the speed or timing of an object as it passes through a beam of light",
+    "csca_example": "Use a light gate to measure the velocity of the trolley as it passes through."
+  },
+  {
+    "id": "stem:phys:0197",
+    "domain": "physics",
+    "term": "control variable",
+    "ru_translation": "контролируемая переменная",
+    "symbol": null,
+    "en_definition": "a factor that is kept constant during an experiment so it does not affect the results",
+    "csca_example": "State one control variable that should be kept constant in the resistance experiment."
+  },
+  {
+    "id": "stem:phys:0198",
+    "domain": "physics",
+    "term": "repeat readings",
+    "ru_translation": "повторные измерения",
+    "symbol": null,
+    "en_definition": "taking a measurement more than once to check for consistency and reduce the effect of random error",
+    "csca_example": "Explain why repeat readings improve the reliability of the results."
+  },
+  {
+    "id": "stem:phys:0199",
+    "domain": "physics",
+    "term": "plot a graph",
+    "ru_translation": "построить график",
+    "symbol": null,
+    "en_definition": "to mark points on a set of axes to represent collected data and often join them with a line or curve",
+    "csca_example": "Plot a graph of extension against force for the spring experiment."
+  },
+  {
+    "id": "stem:phys:0200",
+    "domain": "physics",
+    "term": "investigate",
+    "ru_translation": "исследовать",
+    "symbol": null,
+    "en_definition": "to carry out a systematic experiment in order to test a hypothesis or find a relationship",
+    "csca_example": "Investigate how the length of a pendulum affects its period of oscillation."
+  }
+]

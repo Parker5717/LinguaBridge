@@ -1,0 +1,200 @@
+[
+  {
+    "id": "quiz:gramterm:0013",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "In '我把书放在桌子上' (I put the book on the table), 把 is a...",
+    "options": ["disposal marker (bǎ construction)", "measure word", "aspect particle", "modal verb"],
+    "answer": "disposal marker (bǎ construction)",
+    "explanation": "The 把 construction moves the object before the verb to emphasize what happens to it; 把 itself is called a disposal marker.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0014",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the term for a word that describes or modifies a noun, such as 'red' or 'tall'?",
+    "options": ["adjective", "adverb", "preposition", "conjunction"],
+    "answer": "adjective",
+    "explanation": "An adjective is a word that describes qualities of a noun, such as color, size, or shape.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0015",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Match the definition to the term: 'a verb form ending in -ing used as a noun'.",
+    "options": ["gerund", "participle", "infinitive", "auxiliary verb"],
+    "answer": "gerund",
+    "explanation": "A gerund is the -ing form of a verb functioning as a noun, for example 'Swimming is fun.'",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0016",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "In Chinese, what is the term for words like 很 (very) that intensify adjectives?",
+    "options": ["degree adverb", "measure word", "aspect particle", "coverb"],
+    "answer": "degree adverb",
+    "explanation": "Degree adverbs like 很, 太, and 非常 modify adjectives to show intensity, similar to English 'very' or 'too'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0017",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the term for the base form of a verb used after 'to', such as 'to go'?",
+    "options": ["infinitive", "gerund", "participle", "imperative"],
+    "answer": "infinitive",
+    "explanation": "The infinitive is the base form of a verb, often preceded by 'to', used to express purpose or complement other verbs.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0018",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Match the definition to the term: 'a clause that cannot stand alone as a complete sentence'.",
+    "options": ["dependent clause", "independent clause", "main clause", "compound sentence"],
+    "answer": "dependent clause",
+    "explanation": "A dependent (subordinate) clause has a subject and verb but cannot stand alone; it needs a main clause to complete its meaning.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0019",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "In Chinese, 在 used before a verb (as in 我在吃饭) marks what?",
+    "options": ["progressive aspect (ongoing action)", "completed action", "future tense", "a question"],
+    "answer": "progressive aspect (ongoing action)",
+    "explanation": "在 before a verb shows the action is currently in progress, similar to English '-ing', e.g. 我在吃饭 = 'I am eating'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0020",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the term for a verb form used to give commands, such as 'Sit down!'?",
+    "options": ["imperative mood", "indicative mood", "subjunctive mood", "conditional mood"],
+    "answer": "imperative mood",
+    "explanation": "The imperative mood expresses commands, requests, or instructions, often with no visible subject.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0021",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Match the definition to the term: 'a word or phrase that renames or explains the noun before it', as in 'my friend, a doctor, arrived'.",
+    "options": ["appositive", "predicate", "modifier", "antecedent"],
+    "answer": "appositive",
+    "explanation": "An appositive is a noun phrase placed next to another noun to rename or explain it, usually set off by commas.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0022",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "In 他比我高 (He is taller than me), what grammatical structure is 比 part of?",
+    "options": ["comparative construction", "passive construction", "disposal construction", "existential construction"],
+    "answer": "comparative construction",
+    "explanation": "比 introduces a comparison between two things, forming the pattern A 比 B + adjective, meaning 'A is more [adjective] than B'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0023",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the term for a verb that changes form depending on the subject, such as 'go' becoming 'goes'?",
+    "options": ["conjugation", "declension", "derivation", "inflection of nouns"],
+    "answer": "conjugation",
+    "explanation": "Conjugation refers to the way a verb changes its form to match tense, person, or number, such as 'go' to 'goes'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0024",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Match the definition to the term: 'a sentence structure where the subject receives the action rather than performs it'.",
+    "options": ["passive voice", "active voice", "reported speech", "direct speech"],
+    "answer": "passive voice",
+    "explanation": "In passive voice, the subject receives the action, as in 'The cake was eaten by the children', instead of performing it.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0025",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "In Chinese, what is the term for 了 when placed at the end of a full sentence to show a change of state?",
+    "options": ["change-of-state particle", "perfective aspect marker only", "measure word", "modal verb"],
+    "answer": "change-of-state particle",
+    "explanation": "Sentence-final 了 signals that a new situation has arisen, such as 下雨了 ('It's raining now', implying it wasn't before).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0026",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the term for words like 'and', 'but', and 'or' that connect clauses or words?",
+    "options": ["conjunction", "preposition", "interjection", "determiner"],
+    "answer": "conjunction",
+    "explanation": "Conjunctions join words, phrases, or clauses together, such as 'and', 'but', and 'or'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0027",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Match the definition to the term: 'reporting what someone said without using their exact words', as in 'She said she was tired'.",
+    "options": ["reported speech", "direct speech", "imperative mood", "passive voice"],
+    "answer": "reported speech",
+    "explanation": "Reported (indirect) speech conveys what someone said without quoting their exact words, often shifting tense backward.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0028",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "In Chinese, 吗 and 呢 are both examples of what part of speech?",
+    "options": ["particle", "conjunction", "preposition", "adverb"],
+    "answer": "particle",
+    "explanation": "Particles like 吗 and 呢 are small function words that attach to sentences to mark questions, aspect, or mood, without changing core meaning.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0029",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the term for a noun formed from a verb, such as 'decision' from 'decide'?",
+    "options": ["nominalization", "conjugation", "inflection", "collocation"],
+    "answer": "nominalization",
+    "explanation": "Nominalization is the process of forming a noun from another part of speech, commonly from a verb, such as 'decide' becoming 'decision'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:gramterm:0030",
+    "category": "gramterm",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Match the definition to the term: 'a preposition combined with a verb to change its meaning', as in 'give up' or 'look after'.",
+    "options": ["phrasal verb", "modal verb", "auxiliary verb", "linking verb"],
+    "answer": "phrasal verb",
+    "explanation": "A phrasal verb combines a verb with a preposition or particle to create a new meaning, such as 'give up' (to quit).",
+    "passage_id": null
+  }
+]

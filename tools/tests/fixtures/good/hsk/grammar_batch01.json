@@ -1,0 +1,12 @@
+[
+  {
+    "id": "hskg:0001",
+    "title": "Basic SVO word order",
+    "pattern": "Subject + Verb + Object",
+    "en_explanation": "Chinese follows a Subject-Verb-Object word order, similar to English in basic sentences.",
+    "example_zh": "我喝茶。",
+    "example_pinyin": "Wǒ hē chá.",
+    "example_en": "I drink tea.",
+    "ru_note": "В русском языке порядок слов более гибкий, но в китайском SVO строгий."
+  }
+]

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bottom navigation -->
+    <string name="nav_today">Сегодня</string>
+    <string name="nav_library">Библиотека</string>
+    <string name="nav_practice">Практика</string>
+    <string name="nav_stats">Статистика</string>
+    <string name="nav_settings">Настройки</string>
+
+    <!-- Placeholders (replaced per phase) -->
+    <string name="placeholder_coming_soon">Скоро будет</string>
+
+    <!-- Today screen -->
+    <string name="today_title">Сегодня</string>
+    <string name="today_queue">Очередь повторения</string>
+    <string name="queue_due">К повтору</string>
+    <string name="queue_learning">Изучаются</string>
+    <string name="queue_new">Новые</string>
+    <string name="today_start_review">Начать повторение</string>
+    <string name="today_content_overview">Встроенный контент</string>
+    <string name="count_vocabulary">Английские слова</string>
+    <string name="count_cards">Карточки</string>
+    <string name="count_grammar_terms">Грамматические термины</string>
+    <string name="count_stem_terms">Термины STEM</string>
+    <string name="count_hsk_words">Китайские слова (HSK)</string>
+    <string name="count_texts">Тексты для чтения</string>
+    <string name="count_dialogues">Диалоги</string>
+
+    <!-- Review screen -->
+    <string name="review_nothing_due">Сейчас нечего повторять. Возвращайтесь позже!</string>
+    <string name="review_session_done">Сессия завершена — карточек повторено: %1$d</string>
+    <string name="review_back">Назад</string>
+    <string name="review_progress">%1$d из %2$d</string>
+    <string name="review_tap_to_reveal">Нажмите на карточку, чтобы увидеть ответ</string>
+    <string name="review_show_answer">Показать ответ</string>
+    <string name="rating_again">Снова</string>
+    <string name="rating_hard">Трудно</string>
+    <string name="rating_good">Хорошо</string>
+    <string name="rating_easy">Легко</string>
+
+    <!-- Exercises -->
+    <string name="review_session_summary">Сессия завершена — заданий: %1$d, верно: %2$d</string>
+    <string name="task_intro">Новое слово</string>
+    <string name="task_choose_translation">Выберите перевод</string>
+    <string name="task_choose_word">Выберите слово</string>
+    <string name="task_type_word">Напишите слово</string>
+    <string name="task_fill_gap">Заполните пропуск</string>
+    <string name="exercise_got_it">Понятно</string>
+    <string name="exercise_continue">Дальше</string>
+    <string name="exercise_dont_know">Не знаю</string>
+    <string name="exercise_check">Проверить</string>
+    <string name="exercise_answer_label">Ваш ответ</string>
+    <string name="feedback_correct">Верно!</string>
+    <string name="feedback_typo">Почти — проверьте написание</string>
+    <string name="feedback_wrong">Неверно</string>
+    <string name="feedback_answer_is">Ответ: %1$s</string>
+    <string name="deck_active">Колода включена</string>
+
+    <!-- Decks -->
+    <string name="decks_title">Колоды</string>
+    <string name="today_browse_decks">Просмотр колод</string>
+    <string name="deck_en_ru">Английский → русский</string>
+    <string name="deck_def_en">Определение → английское слово</string>
+    <string name="deck_zh_en">Китайский → английский</string>
+    <string name="deck_gram_term">Грамматические термины</string>
+    <string name="deck_stem_en">Термины STEM</string>
+
+    <!-- Library -->
+    <string name="library_title">Библиотека</string>
+    <string name="library_tab_texts">Тексты</string>
+    <string name="library_tab_dialogues">Диалоги</string>
+    <string name="library_level_a2">A2</string>
+    <string name="library_level_b1">B1</string>
+    <string name="library_level_b2">B2</string>
+    <string name="library_no_texts">На этом уровне пока нет текстов</string>
+    <string name="library_no_dialogues">Диалогов пока нет</string>
+
+    <!-- Reader -->
+    <string name="reader_word_not_found">Нет в словаре</string>
+    <string name="reader_add_to_deck">Добавить в колоду</string>
+    <string name="reader_added_to_deck">Добавлено</string>
+    <string name="reader_example_label">Пример</string>
+
+    <!-- Dialogue -->
+    <string name="dialogue_show_notes">Показать заметки</string>
+    <string name="dialogue_hide_notes">Скрыть заметки</string>
+    <string name="dialogue_play_line">Воспроизвести реплику</string>
+
+    <!-- Practice -->
+    <string name="practice_title">Практика</string>
+    <string name="practice_dictation_title">Диктант</string>
+    <string name="practice_dictation_description">Слушайте предложение и печатайте то, что услышали</string>
+    <string name="practice_listening_title">Аудирование</string>
+    <string name="practice_listening_description">Слушайте текст и отвечайте на вопросы по нему</string>
+    <string name="practice_quizzes_title">Тесты</string>
+    <string name="practice_quizzes_coming_soon">Скоро будет</string>
+    <string name="practice_quizzes_description">Проверьте свои знания по всем темам или пройдите тест на определение уровня</string>
+
+    <!-- Dictation -->
+    <string name="dictation_pick_level">Выберите уровень</string>
+    <string name="dictation_level_a2b1">A2 → B1</string>
+    <string name="dictation_level_b1b2">B1 → B2</string>
+    <string name="dictation_progress">Предложение %1$d из %2$d</string>
+    <string name="dictation_play">Воспроизвести предложение</string>
+    <string name="dictation_type_what_you_heard">Напишите то, что услышали</string>
+    <string name="dictation_perfect">Отлично!</string>
+    <string name="dictation_retry">Повторить</string>
+    <string name="dictation_session_summary">Идеально: %1$d из %2$d предложений</string>
+    <string name="dictation_practice_again">Практиковать ещё раз</string>
+
+    <!-- Listening -->
+    <string name="listening_pick_level">Выберите уровень</string>
+    <string name="listening_no_passages">На этом уровне пока нет текстов</string>
+    <string name="listening_passage_number">Текст %1$d</string>
+    <string name="listening_question_progress">Вопрос %1$d из %2$d</string>
+    <string name="listening_session_summary">Результат: %1$d из %2$d</string>
+    <string name="listening_transcript">Расшифровка</string>
+    <string name="listening_back_to_passages">Назад к текстам</string>
+
+    <!-- Quizzes -->
+    <string name="quiz_list_title">Тесты</string>
+    <string name="quiz_category_vocab">Словарный запас</string>
+    <string name="quiz_category_vocab_description">Английские слова и их перевод на русский</string>
+    <string name="quiz_category_engrammar">Английская грамматика</string>
+    <string name="quiz_category_engrammar_description">Времена, артикли, предлоги и другие грамматические темы</string>
+    <string name="quiz_category_gramterm">Грамматическая терминология</string>
+    <string name="quiz_category_gramterm_description">Названия грамматических понятий и частей речи</string>
+    <string name="quiz_category_stem">Лексика STEM</string>
+    <string name="quiz_category_stem_description">Термины из науки, технологий, инженерии и математики</string>
+    <string name="quiz_category_hsk">Китайский (HSK)</string>
+    <string name="quiz_category_hsk_description">Слова и иероглифы уровней HSK 1–2</string>
+    <string name="quiz_category_csca">Подготовка к CSCA</string>
+    <string name="quiz_category_csca_description">Текстовые задачи по математике и физике — разбираем формулировки в режиме экзамена</string>
+    <string name="quiz_question_progress">Вопрос %1$d из %2$d</string>
+    <string name="quiz_session_summary">Результат: %1$d из %2$d</string>
+    <string name="quiz_try_again">Пройти ещё раз</string>
+    <string name="quiz_review_title">Разбор ответов</string>
+    <string name="quiz_review_your_answer">Ваш ответ: %1$s</string>
+    <string name="quiz_placement_title">Тест на уровень</string>
+    <string name="quiz_placement_description">Узнайте свой текущий уровень английского</string>
+    <string name="quiz_placement_last_result">Ваш уровень: %1$s</string>
+    <string name="quiz_placement_intro_title">Тест на определение уровня</string>
+    <string name="quiz_placement_intro_body">Вам предстоит ответить на 12 вопросов уровней A2, B1 и B2 вперемешку. Отвечайте как можете — подсказок между вопросами не будет, как на настоящем тесте на уровень. В конце вы узнаете свой примерный уровень.</string>
+    <string name="quiz_placement_start">Начать тест</string>
+    <string name="quiz_placement_result_title">Ваш примерный уровень</string>
+    <string name="quiz_placement_level_pre_a2">Pre-A2</string>
+    <string name="quiz_placement_advice_pre_a2">Начните с основ — сначала освойте базовую лексику и простые конструкции, а затем переходите к уровню A2.</string>
+    <string name="quiz_placement_advice_a2">Сосредоточьтесь на текстах и лексике уровня A2, чтобы создать прочную основу, а затем переходите к B1.</string>
+    <string name="quiz_placement_advice_b1">Продолжайте практиковать материал уровня B1 и постепенно пробуйте задания уровня B2.</string>
+    <string name="quiz_placement_advice_b2">Отличный результат! Сосредоточьтесь на текстах уровня B2, аудировании и дальнейшем расширении словарного запаса.</string>
+
+    <!-- Stats -->
+    <string name="stats_title">Статистика</string>
+    <string name="stats_streak_days">%1$d дн.</string>
+    <string name="stats_streak_label">Текущая серия</string>
+    <string name="stats_today_progress">%1$d / %2$d сегодня</string>
+    <string name="stats_heatmap_title">Активность</string>
+    <string name="stats_retention_title">Удержание (30 дней)</string>
+    <string name="stats_retention_value">%1$d%%</string>
+    <string name="stats_retention_unknown">—</string>
+    <string name="stats_skill_progress_title">Прогресс по навыкам</string>
+    <string name="stats_skill_progress_row">Изучено %1$d из %2$d</string>
+    <string name="stats_skill_en_ru">Словарный запас</string>
+    <string name="stats_skill_zh_en">Китайский</string>
+    <string name="stats_skill_gram_term">Грамматические термины</string>
+    <string name="stats_skill_stem_en">STEM</string>
+    <string name="stats_totals_title">Итого за всё время</string>
+    <string name="stats_totals_reviews">Повторений</string>
+    <string name="stats_totals_dictations">Диктантов</string>
+    <string name="stats_totals_quizzes">Тестов</string>
+    <string name="stats_weekday_mon">Пн</string>
+    <string name="stats_weekday_wed">Ср</string>
+    <string name="stats_weekday_fri">Пт</string>
+    <string name="today_streak_line">🔥 %1$d дн. · цель %2$d/%3$d</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Настройки</string>
+    <string name="settings_section_speech">Речь</string>
+    <string name="settings_speech_rate">Скорость речи: %1$.2fx</string>
+    <string name="settings_test_english">Проверить английский</string>
+    <string name="settings_test_chinese">Проверить китайский</string>
+    <string name="settings_voice_english">Английский голос</string>
+    <string name="settings_voice_chinese">Китайский голос</string>
+    <string name="settings_voice_status_ready">готов</string>
+    <string name="settings_voice_status_missing">голосовые данные не установлены</string>
+    <string name="settings_voice_status_unsupported">не поддерживается на этом устройстве</string>
+    <string name="settings_voice_status_checking">проверка…</string>
+    <string name="settings_chinese_voice_warning_title">Китайский голос недоступен</string>
+    <string name="settings_chinese_voice_warning_body">Чтобы установить offline-голос для китайского: откройте Настройки → Общие настройки → Синтез речи → нажмите на значок настроек движка (Google Speech Services или Samsung TTS) → Установить голосовые данные → Китайский. После установки голоса приложение по-прежнему полностью работает офлайн.</string>
+    <string name="settings_recheck">Проверить снова</string>
+    <string name="settings_section_study">Обучение</string>
+    <string name="settings_new_cards_per_day">Новых карточек в день: %1$d</string>
+    <string name="settings_max_reviews_per_day">Макс. повторений в день: %1$d</string>
+    <string name="settings_section_appearance">Внешний вид</string>
+    <string name="settings_theme_system">Системная</string>
+    <string name="settings_theme_light">Светлая</string>
+    <string name="settings_theme_dark">Тёмная</string>
+    <string name="settings_section_language">Язык</string>
+    <string name="settings_language_system">Системный</string>
+    <string name="settings_language_english">English</string>
+    <string name="settings_language_russian">Русский</string>
+
+    <!-- Language switcher and notifications -->
+    <string name="lang_english">Английский</string>
+    <string name="settings_section_notifications">Уведомления</string>
+    <string name="settings_word_notifications">Слово дня</string>
+    <string name="settings_word_notifications_hint">5 новых слов в день в уведомлениях (4 английских : 1 китайское); они первыми появятся в следующем повторении</string>
+    <string name="notif_channel_words">Новые слова</string>
+    <string name="notif_word_title">Новое слово: %1$s</string>
+    <string name="task_translate_sentence">Переведите предложение</string>
+    <string name="decks_mode_english">Режим английского — эти колоды попадают в очередь занятий</string>
+    <string name="decks_mode_chinese">Режим китайского — китайская колода учится отдельно</string>
+    <string name="review_title">Повторение</string>
+    <string name="review_daily_limit_reached">Дневной лимит новых слов набран — отличная работа! Возвращайтесь позже к повторению.</string>
+    <string name="review_next_due">Следующее повторение в %1$s</string>
+    <string name="review_study_more">Учить ещё 10 слов</string>
+
+    <!-- Dictionary -->
+    <string name="dictionary_title">Словарь</string>
+    <string name="practice_dictionary_description">Ищите английские, китайские, STEM и грамматические термины офлайн</string>
+    <string name="dictionary_search_hint">Поиск…</string>
+    <string name="dictionary_clear_search">Очистить поиск</string>
+    <string name="dictionary_min_chars_hint">Введите не менее 2 букв</string>
+    <string name="dictionary_nothing_found">Ничего не найдено по запросу \'%1$s\'</string>
+    <string name="dictionary_section_vocab">Английские слова</string>
+    <string name="dictionary_section_hsk">Китайский</string>
+    <string name="dictionary_section_stem">Термины STEM</string>
+    <string name="dictionary_section_gramterm">Грамматические термины</string>
+    <string name="dictionary_play_audio">Воспроизвести</string>
+    <string name="dictionary_add_to_deck">Добавить в колоду</string>
+    <string name="dictionary_added_to_deck">Добавлено</string>
+    <string name="dictionary_example_label">Пример</string>
+
+    <!-- Word game -->
+    <string name="wordgame_title">Игра в слова</string>
+    <string name="practice_wordgame_description">Угадайте английское слово из 5 букв за 6 попыток</string>
+    <string name="wordgame_mode_daily">День</string>
+    <string name="wordgame_mode_practice">Практика</string>
+    <string name="wordgame_invalid_guess">Введите ровно 5 латинских букв (a-z)</string>
+    <string name="wordgame_solved">Угадано за %1$d/6</string>
+    <string name="wordgame_lost">Попытки закончились — слово было \'%1$s\'</string>
+    <string name="wordgame_daily_already_played">Вы уже сыграли сегодняшнее слово. Возвращайтесь завтра!</string>
+    <string name="wordgame_new_word">Новое слово</string>
+    <string name="wordgame_enter">Ввод</string>
+    <string name="wordgame_backspace">Стереть</string>
+    <string name="wordgame_loading">Загрузка списка слов…</string>
+    <string name="wordgame_unavailable">В словаре пока недостаточно слов из 5 букв</string>
+</resources>

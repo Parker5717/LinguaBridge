@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pass:a2:03",
+    "level": "A2",
+    "text": "Attention, please! This is a message from the canteen. Today the second floor is closed for cleaning. Please use the first floor or the third floor for lunch and dinner. The second floor will open again tomorrow morning at seven. We are sorry for the trouble. If you have a meal card question, please talk to the staff at the front desk. Thank you, and enjoy your meal!"
+  },
+  {
+    "id": "pass:a2:04",
+    "level": "A2",
+    "text": "Good morning, class! Before we start, one small change. Our test on Friday moves to next Monday instead. Please still study chapter three and chapter four. Bring a pencil, an eraser, and your student card to the test. Do not bring your phone into the room. If you are sick on Monday, please email me before nine in the morning. Okay, let's open our books to page twenty now."
+  },
+  {
+    "id": "pass:a2:05",
+    "level": "A2",
+    "text": "Hi everyone, welcome to the campus bookshop! We are open every day from eight in the morning to eight at night. Textbooks are on the first floor. Notebooks, pens, and small gifts are on the second floor. If you have your student card, you get a small discount. Today only, all notebooks are cheaper. Please ask our staff if you cannot find a book. Thank you for visiting, and have a nice day!"
+  },
+  {
+    "id": "pass:b1:03",
+    "level": "B1",
+    "text": "Good afternoon, students. I want to remind everyone about tomorrow's laboratory session, since a few details have changed since our last class. First, please arrive ten minutes early, because we need to distribute safety goggles before the experiment begins. Second, the session will now take place in room two-fifteen instead of the usual lab, since our regular room is being repaired. Finally, please remember to bring your lab notebook, since you will need to record your measurements directly during the session rather than afterward. If you have any questions before tomorrow, feel free to email me tonight."
+  },
+  {
+    "id": "pass:b1:04",
+    "level": "B1",
+    "text": "Attention, residents of building three. Starting this weekend, the water supply will be temporarily interrupted on Saturday morning between eight and eleven, while the maintenance team repairs a pipe on the second floor. We recommend storing a small amount of water the night before, just in case you need it during that period. The laundry room will also be closed during these hours, so please plan your washing accordingly. We apologize for any inconvenience this may cause, and we appreciate your patience while the repairs are completed. Normal water service should resume by midday."
+  },
+  {
+    "id": "pass:b1:05",
+    "level": "B1",
+    "text": "Welcome back, everyone. Before we continue with last week's topic, I want to briefly explain how the upcoming group project will be organized, since several of you asked questions after class. Each group will consist of four students, assigned randomly rather than by personal choice, in order to reflect how professional teams are usually formed. You will have three weeks to prepare a short presentation, and I expect each member to contribute a clearly identifiable part. Groups will be posted on the noticeboard outside my office by tomorrow afternoon, so please check there rather than emailing me individually."
+  },
+  {
+    "id": "pass:b2:03",
+    "level": "B2",
+    "text": "Good morning, everyone. Before we begin today's session, I want to address a question that came up repeatedly after last week's lecture regarding the final project deadline. Given the number of requests, the department has agreed to extend the submission date by exactly one week, moving it from the tenth to the seventeenth. However, this extension applies only to the written report; the oral presentations will still take place on the originally scheduled date, since rescheduling the presentation slots would create considerable difficulty for the panel of reviewing faculty. Please plan your remaining time accordingly, and do not assume the extension applies universally across all components of the assessment."
+  },
+  {
+    "id": "pass:b2:04",
+    "level": "B2",
+    "text": "Welcome to this brief orientation regarding library access during the examination period. Beginning next Monday, the library will operate on extended hours, remaining open until one in the morning to accommodate increased demand for quiet study space. However, to manage capacity fairly, entry will be limited once the building reaches its maximum occupancy, and priority will be given to students who reserve a seat in advance through the online booking system. We strongly encourage you to reserve your seat at least a day beforehand, particularly if you intend to study during peak evening hours, since walk-in availability cannot be guaranteed during this especially busy period."
+  },
+  {
+    "id": "pass:b2:05",
+    "level": "B2",
+    "text": "Good afternoon. Today I want to introduce a distinction that will matter considerably as we move into more rigorous experimental work this term: the difference between accuracy and precision. Although these terms are frequently used interchangeably in everyday conversation, they describe fundamentally different properties of a measurement. Accuracy refers to how closely a measured value approaches the true, accepted value, whereas precision refers to how consistently repeated measurements agree with one another, regardless of whether they are actually correct. It is entirely possible, and worth remembering throughout this course, for a set of measurements to be highly precise yet consistently inaccurate, clustered tightly together while still being systematically wrong."
+  }
+]

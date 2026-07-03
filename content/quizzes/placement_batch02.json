@@ -1,0 +1,200 @@
+[
+  {
+    "id": "quiz:placement:0013",
+    "category": "placement",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "This is ___ book. It belongs to me.",
+    "options": ["I", "my", "me", "mine own"],
+    "answer": "my",
+    "explanation": "'My' is the possessive adjective used before a noun to show ownership.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0014",
+    "category": "placement",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "We ___ dinner at seven o'clock every evening.",
+    "options": ["have", "having", "has", "had"],
+    "answer": "have",
+    "explanation": "Present simple 'have' is used for a repeated daily habit, shown by 'every evening'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0015",
+    "category": "placement",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "Can you help me, ___?",
+    "options": ["please", "sorry", "excuse", "pardon"],
+    "answer": "please",
+    "explanation": "'Please' is the standard polite word added to a request in English.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0016",
+    "category": "placement",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "There isn't ___ milk in the fridge.",
+    "options": ["any", "some", "a", "many"],
+    "answer": "any",
+    "explanation": "'Any' is used with uncountable nouns in negative sentences; 'some' is used in positive sentences.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0017",
+    "category": "placement",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "My brother is ___ than me.",
+    "options": ["tall", "taller", "tallest", "more tall"],
+    "answer": "taller",
+    "explanation": "The comparative form 'taller' is used with 'than' to compare two people.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0018",
+    "category": "placement",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "What ___ your name?",
+    "options": ["is", "are", "am", "be"],
+    "answer": "is",
+    "explanation": "'Is' agrees with the singular subject 'your name' in this basic question form.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0019",
+    "category": "placement",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "I ___ my keys somewhere; I can't find them anywhere.",
+    "options": ["have lost", "lose", "am losing", "lost yesterday"],
+    "answer": "have lost",
+    "explanation": "Present perfect 'have lost' shows a past action with a present result — the keys are still missing now.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0020",
+    "category": "placement",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "If we leave now, we ___ the train.",
+    "options": ["catch", "will catch", "caught", "would catch"],
+    "answer": "will catch",
+    "explanation": "First conditional structure: if + present simple, will + base verb, for a realistic future outcome.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0021",
+    "category": "placement",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "The museum ___ by thousands of visitors every year.",
+    "options": ["visits", "is visited", "visited", "has visit"],
+    "answer": "is visited",
+    "explanation": "Passive voice 'is visited' is correct because the museum receives the action of being visited.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0022",
+    "category": "placement",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "She asked me where ___ .",
+    "options": ["do I live", "I live", "did I live", "I lived"],
+    "answer": "I lived",
+    "explanation": "In reported questions, word order becomes subject-verb, and the tense usually shifts back: 'I lived'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0023",
+    "category": "placement",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "This is the restaurant ___ we had dinner last week.",
+    "options": ["which", "where", "who", "when"],
+    "answer": "where",
+    "explanation": "'Where' is the relative adverb used to refer to a place, here 'the restaurant'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0024",
+    "category": "placement",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "By the time she finished university, she ___ three languages.",
+    "options": ["learns", "will learn", "had learned", "learned yesterday"],
+    "answer": "had learned",
+    "explanation": "Past perfect 'had learned' shows an action completed before another past event (finishing university).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0025",
+    "category": "placement",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Had the company invested earlier, it ___ the crisis more easily.",
+    "options": ["would survive", "would have survived", "survived", "will survive"],
+    "answer": "would have survived",
+    "explanation": "This inverted third conditional expresses an unreal past condition and its unreal past result, requiring 'would have + past participle'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0026",
+    "category": "placement",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Rarely ___ such a compelling argument in a student's essay.",
+    "options": ["I have seen", "have I seen", "I saw", "did I saw"],
+    "answer": "have I seen",
+    "explanation": "Negative adverbials like 'Rarely' at the start of a sentence trigger subject-auxiliary inversion.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0027",
+    "category": "placement",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "The committee's decision was met with widespread ___, as many felt it was unfair.",
+    "options": ["disapproval", "disapprove", "disapproving", "disapproved"],
+    "answer": "disapproval",
+    "explanation": "'Disapproval' is the noun form required after 'widespread', an adjective that modifies nouns.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0028",
+    "category": "placement",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "The new policy, ___ was announced yesterday, has already caused controversy.",
+    "options": ["that", "which", "who", "what"],
+    "answer": "which",
+    "explanation": "In a non-defining relative clause set off by commas, 'which' must be used instead of 'that' to refer to a thing.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0029",
+    "category": "placement",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "The findings of the study were so ___ that they prompted a complete revision of the theory.",
+    "options": ["groundbreaking", "ground breaking to", "break ground", "grounded"],
+    "answer": "groundbreaking",
+    "explanation": "'Groundbreaking' (highly original and influential) is the correct adjective describing results that change established theory.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0030",
+    "category": "placement",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Only after the deadline had passed ___ the importance of early preparation.",
+    "options": ["they realized", "did they realize", "they had realized", "realized they"],
+    "answer": "did they realize",
+    "explanation": "The fronted time expression 'Only after...' requires subject-auxiliary inversion: 'did they realize'.",
+    "passage_id": null
+  }
+]

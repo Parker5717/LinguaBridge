@@ -1,0 +1,200 @@
+[
+  {
+    "id": "quiz:vocab:0013",
+    "category": "vocab",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "The train was late, so we had to _____ for twenty minutes at the station.",
+    "options": ["wait", "hope", "expect", "look"],
+    "answer": "wait",
+    "explanation": "'Wait' means to stay in one place until something happens. 'Expect' means to believe something will happen, not to physically stay somewhere.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0014",
+    "category": "vocab",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "What is the Russian meaning of the English word 'borrow'?",
+    "options": ["брать взаймы", "давать взаймы", "покупать", "терять"],
+    "answer": "брать взаймы",
+    "explanation": "'Borrow' means to take something temporarily with the intention of returning it, which is 'брать взаймы' in Russian.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0015",
+    "category": "vocab",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "Which word does NOT belong with the others?",
+    "options": ["apple", "banana", "carrot", "orange"],
+    "answer": "carrot",
+    "explanation": "'Apple', 'banana', and 'orange' are all fruits, while 'carrot' is a vegetable, so it is the odd one out.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0016",
+    "category": "vocab",
+    "level": "A2",
+    "type": "typing",
+    "prompt": "Type the English word that means 'опоздать' (to arrive after the expected time).",
+    "options": null,
+    "answer": "late",
+    "explanation": "'Late' describes arriving after the expected or planned time, matching the Russian word 'опоздать'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0017",
+    "category": "vocab",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "The manager asked her assistant to _____ a meeting for Friday afternoon.",
+    "options": ["arrange", "arrive", "argue", "assume"],
+    "answer": "arrange",
+    "explanation": "To 'arrange' a meeting means to organize and set it up. The other words look similar but have unrelated meanings.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0018",
+    "category": "vocab",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "Which pair of words forms a natural collocation?",
+    "options": ["make a decision", "do a decision", "take a decision alone", "have a decision"],
+    "answer": "make a decision",
+    "explanation": "'Make a decision' is the standard English collocation. 'Do a decision' is not natural English, even though 'делать' can suggest 'do' to Russian speakers.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0019",
+    "category": "vocab",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "What does the English word 'fabric' mean, translated to Russian?",
+    "options": ["ткань", "фабрика", "завод", "материал для стройки"],
+    "answer": "ткань",
+    "explanation": "'Fabric' is a false friend of 'фабрика' (factory) — it actually means 'ткань' (cloth or material used for sewing).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0020",
+    "category": "vocab",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "Which word does NOT belong with the others?",
+    "options": ["furious", "annoyed", "irritated", "delighted"],
+    "answer": "delighted",
+    "explanation": "'Furious', 'annoyed', and 'irritated' all describe anger, while 'delighted' describes happiness, making it the odd one out.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0021",
+    "category": "vocab",
+    "level": "B1",
+    "type": "typing",
+    "prompt": "Type the English word that means 'вежливый' (polite, showing good manners).",
+    "options": null,
+    "answer": "polite",
+    "explanation": "'Polite' describes behavior that shows good manners and respect for others, matching the Russian word 'вежливый'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0022",
+    "category": "vocab",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "The company's profits _____ by ten percent last year.",
+    "options": ["increased", "raised", "grown", "risen"],
+    "answer": "increased",
+    "explanation": "'Increased' is the correct intransitive verb form for profits going up. 'Raised' needs an object, and 'grown'/'risen' are past participles, not past simple forms.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0023",
+    "category": "vocab",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "The professor's argument was so _____ that even the skeptics were convinced.",
+    "options": ["compelling", "compelled", "compel", "compellingly"],
+    "answer": "compelling",
+    "explanation": "'Compelling' is the adjective form meaning highly convincing. It fits after 'so' and before 'that', describing the argument's quality.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0024",
+    "category": "vocab",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Which pair of words forms a natural collocation?",
+    "options": ["reach a conclusion", "arrive a conclusion", "get a conclusion", "achieve a conclusion"],
+    "answer": "reach a conclusion",
+    "explanation": "'Reach a conclusion' is the standard collocation for finishing a process of reasoning. The other combinations are not natural in English.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0025",
+    "category": "vocab",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "What does the English word 'sympathetic' mean, translated to Russian?",
+    "options": ["сочувствующий", "симпатичный", "приятный на вид", "дружелюбный"],
+    "answer": "сочувствующий",
+    "explanation": "'Sympathetic' is a false friend of 'симпатичный' (attractive) — it actually means 'сочувствующий' (showing compassion or understanding).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0026",
+    "category": "vocab",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Which word does NOT belong with the others?",
+    "options": ["meticulous", "thorough", "careless", "diligent"],
+    "answer": "careless",
+    "explanation": "'Meticulous', 'thorough', and 'diligent' all describe careful, hard-working behavior, while 'careless' describes the opposite quality.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0027",
+    "category": "vocab",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "The negotiations reached a _____ after both sides made small concessions.",
+    "options": ["compromise", "conflict", "collapse", "controversy"],
+    "answer": "compromise",
+    "explanation": "A 'compromise' is an agreement reached when each side gives up some demands, which matches the context of both sides making concessions.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0028",
+    "category": "vocab",
+    "level": "B2",
+    "type": "typing",
+    "prompt": "Type the English word that means 'неизбежный' (certain to happen, unavoidable).",
+    "options": null,
+    "answer": "inevitable",
+    "explanation": "'Inevitable' means certain to happen and impossible to avoid, matching the Russian word 'неизбежный'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0029",
+    "category": "vocab",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Which pair of words forms a natural collocation?",
+    "options": ["pay attention", "give attention", "make attention", "hold attention to"],
+    "answer": "pay attention",
+    "explanation": "'Pay attention' is the fixed English collocation meaning to focus on something. The other verbs are not used with 'attention' in this way.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:vocab:0030",
+    "category": "vocab",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Her explanation was so _____ that nobody in the audience understood the main point.",
+    "options": ["ambiguous", "ambitious", "amicable", "ample"],
+    "answer": "ambiguous",
+    "explanation": "'Ambiguous' means unclear or open to more than one interpretation, which explains why the audience was confused.",
+    "passage_id": null
+  }
+]

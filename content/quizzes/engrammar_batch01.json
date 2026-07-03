@@ -1,0 +1,134 @@
+[
+  {
+    "id": "quiz:engrammar:0001",
+    "category": "engrammar",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "Right now, I ___ a coffee. What are you doing?",
+    "options": ["drink", "am drinking", "drinks", "drinking"],
+    "answer": "am drinking",
+    "explanation": "Use present continuous (am + -ing) for an action happening at this exact moment. 'Drink' alone is present simple, which describes habits or facts.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0002",
+    "category": "engrammar",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "She ___ to university every day. She loves it.",
+    "options": ["goes", "is going", "has gone", "went"],
+    "answer": "goes",
+    "explanation": "Use present simple for regular habits and routines. 'Every day' signals a repeated action, not something happening right now.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0003",
+    "category": "engrammar",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "Yesterday, I ___ the bus to work because my car was broken.",
+    "options": ["take", "am taking", "took", "have taken"],
+    "answer": "took",
+    "explanation": "Use past simple for completed actions at a specific time in the past. 'Yesterday' is a clear past time marker.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0004",
+    "category": "engrammar",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "The exam is ___ difficult than last year's exam.",
+    "options": ["more", "as", "much", "very"],
+    "answer": "more",
+    "explanation": "Use 'more' + adjective to compare two things when the adjective is longer (more than one syllable). 'More difficult' compares this year's exam to last year's.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0005",
+    "category": "engrammar",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "I ___ lived in Moscow for five years, but now I live in Beijing.",
+    "options": ["am", "have", "will", "was"],
+    "answer": "have",
+    "explanation": "Use present perfect to show an experience or state that started in the past and connects to now. This answers 'How long have you been in Moscow?' (past to present).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0006",
+    "category": "engrammar",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "If I ___ more money, I would travel around the world.",
+    "options": ["have", "had", "would have", "will have"],
+    "answer": "had",
+    "explanation": "Use the second conditional (If + past simple + would + base verb) to describe imaginary situations in the present. This is about an imaginary world where you have more money.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0007",
+    "category": "engrammar",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "The homework ___ by all students before Friday.",
+    "options": ["must complete", "must be completed", "must completed", "completes"],
+    "answer": "must be completed",
+    "explanation": "Use passive voice (must be + past participle) when the focus is on the action and who receives it, not who does it. The students are the focus, not the doer of the homework.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0008",
+    "category": "engrammar",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "The book ___ she recommended was very interesting.",
+    "options": ["which", "that", "who", "where"],
+    "answer": "that",
+    "explanation": "Use the relative pronoun 'that' (or 'which') to introduce a relative clause describing 'the book'. Both 'that' and 'which' are correct for non-essential clauses, but 'that' is more common.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0009",
+    "category": "engrammar",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "If I had known about the party, I ___ come.",
+    "options": ["would", "would have", "will", "had"],
+    "answer": "would have",
+    "explanation": "Use the third conditional (If + past perfect + would have + past participle) to express regret about a past situation that did not happen.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0010",
+    "category": "engrammar",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "He said that he ___ finish the project by next week.",
+    "options": ["will", "would", "can", "could"],
+    "answer": "would",
+    "explanation": "In reported speech, when the main verb is past tense ('said'), the verb in the clause shifts back one tense: 'will' becomes 'would'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0011",
+    "category": "engrammar",
+    "level": "B2",
+    "type": "typing",
+    "prompt": "Complete the sentence: 'I wish I ___ more time to study for the exam.' (Type one word.)",
+    "options": null,
+    "answer": "had",
+    "explanation": "After 'wish', use the past simple to express a present regret or desire. 'I wish I had more time' means you want more time now, but you don't have it.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0012",
+    "category": "engrammar",
+    "level": "B2",
+    "type": "typing",
+    "prompt": "Fill in the blank with a linking word: '___, the weather was perfect, so we decided to go hiking.' (Type one word.)",
+    "options": null,
+    "answer": "However",
+    "explanation": "Linking words like 'However', 'Moreover', and 'Therefore' connect ideas between sentences. 'However' shows contrast (the expected result was different).",
+    "passage_id": null
+  }
+]

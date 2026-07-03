@@ -1,0 +1,174 @@
+[
+  {
+    "id": "quiz:listening:0001",
+    "category": "listening",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "What time does breakfast in the canteen start?",
+    "options": ["Seven in the morning", "Eight in the morning", "Nine in the morning"],
+    "answer": "Seven in the morning",
+    "explanation": "The manager says breakfast in the canteen is from seven to nine in the morning, so it starts at seven.",
+    "passage_id": "pass:a2:01"
+  },
+  {
+    "id": "quiz:listening:0002",
+    "category": "listening",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "Where is the dorm manager's office?",
+    "options": ["On the first floor, next to the laundry room", "On the ground floor, room number one", "In the canteen"],
+    "answer": "On the ground floor, room number one",
+    "explanation": "The speaker says, \"My office is on the ground floor, room number one.\"",
+    "passage_id": "pass:a2:01"
+  },
+  {
+    "id": "quiz:listening:0003",
+    "category": "listening",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "When is the homework due?",
+    "options": ["On Monday", "On Thursday", "On Friday"],
+    "answer": "On Thursday",
+    "explanation": "The teacher says, \"The homework is due on Thursday, not Friday,\" reminding students not to confuse the two days.",
+    "passage_id": "pass:a2:02"
+  },
+  {
+    "id": "quiz:listening:0004",
+    "category": "listening",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "What is the test on Monday about?",
+    "options": ["Numbers and colors", "Grammar rules", "The textbook exercises"],
+    "answer": "Numbers and colors",
+    "explanation": "The teacher explains, \"The test is about numbers and colors,\" and tells students to study the new words from that week.",
+    "passage_id": "pass:a2:02"
+  },
+  {
+    "id": "quiz:listening:0005",
+    "category": "listening",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "Why will the library close later than before?",
+    "options": [
+      "So students have more time to study before exams",
+      "Because the group study rooms are being repaired",
+      "Because the front desk staff requested it",
+      "So the library can save on electricity costs"
+    ],
+    "answer": "So students have more time to study before exams",
+    "explanation": "The announcement states the library will close later \"so that students have more time to study before exams.\"",
+    "passage_id": "pass:b1:01"
+  },
+  {
+    "id": "quiz:listening:0006",
+    "category": "listening",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "What should a student do if they lose their student card?",
+    "options": [
+      "Wait until the next semester to get a new one",
+      "Ask a classmate to lend them a card",
+      "Visit the front desk immediately for a temporary card",
+      "Study in the group study rooms instead"
+    ],
+    "answer": "Visit the front desk immediately for a temporary card",
+    "explanation": "The speaker says, \"If you lose your card, please visit the front desk immediately to get a temporary one.\"",
+    "passage_id": "pass:b1:01"
+  },
+  {
+    "id": "quiz:listening:0007",
+    "category": "listening",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "According to the tour guide, what can students do at the sports center?",
+    "options": [
+      "Register for their student visa",
+      "Play basketball or swim for a small fee",
+      "Eat meals from six in the morning",
+      "Attend physics and chemistry classes"
+    ],
+    "answer": "Play basketball or swim for a small fee",
+    "explanation": "Tom mentions the sports center on the right, \"where you can play basketball or swim for a small fee.\"",
+    "passage_id": "pass:b1:02"
+  },
+  {
+    "id": "quiz:listening:0008",
+    "category": "listening",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "Where does the tour finish?",
+    "options": [
+      "At the main gate",
+      "At the science building",
+      "Near the international students' office",
+      "At the canteen"
+    ],
+    "answer": "Near the international students' office",
+    "explanation": "Tom says the tour will \"finish near the international students' office, where you can ask questions about registration or your student visa.\"",
+    "passage_id": "pass:b1:02"
+  },
+  {
+    "id": "quiz:listening:0009",
+    "category": "listening",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Why has the exam location been changed to the main lecture hall?",
+    "options": [
+      "Because the usual classroom is being renovated",
+      "To accommodate both sections of the course at the same time",
+      "Because calculators are required for the exam",
+      "To give students access to their handwritten notes"
+    ],
+    "answer": "To accommodate both sections of the course at the same time",
+    "explanation": "The lecturer explains the exam is moved because \"we require additional space to accommodate both sections of this course simultaneously.\"",
+    "passage_id": "pass:b2:01"
+  },
+  {
+    "id": "quiz:listening:0010",
+    "category": "listening",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "What should students do if they have a scheduling conflict with the exam?",
+    "options": [
+      "Bring a calculator to office hours",
+      "Notify the department office by the end of the week",
+      "Skip the exam and take a makeup test automatically",
+      "Attend both office hours sessions instead"
+    ],
+    "answer": "Notify the department office by the end of the week",
+    "explanation": "The lecturer says, \"please notify the department office by the end of this week so that alternative arrangements can be made.\"",
+    "passage_id": "pass:b2:01"
+  },
+  {
+    "id": "quiz:listening:0011",
+    "category": "listening",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "According to the lecturer, why is direction important when describing the train's motion?",
+    "options": [
+      "Because distance cannot be measured without it",
+      "Because two trains covering the same distance in opposite directions behave differently",
+      "Because velocity is not related to direction at all",
+      "Because trains always travel in a straight line"
+    ],
+    "answer": "Because two trains covering the same distance in opposite directions behave differently",
+    "explanation": "The lecturer notes that \"two trains covering the same distance in opposite directions are clearly behaving quite differently,\" which is why direction matters.",
+    "passage_id": "pass:b2:02"
+  },
+  {
+    "id": "quiz:listening:0012",
+    "category": "listening",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "What question does the lecturer ask students to think about before the next class?",
+    "options": [
+      "How far does the train travel between two stations?",
+      "Can an object be accelerating even while its speed remains constant?",
+      "What is the difference between distance and velocity?",
+      "Why is motion difficult to observe in daily life?"
+    ],
+    "answer": "Can an object be accelerating even while its speed remains constant?",
+    "explanation": "The lecturer ends by asking students to consider: \"can an object be accelerating even while its speed remains perfectly constant?\"",
+    "passage_id": "pass:b2:02"
+  }
+]

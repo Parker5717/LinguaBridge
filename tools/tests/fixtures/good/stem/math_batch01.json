@@ -1,0 +1,11 @@
+[
+  {
+    "id": "stem:math:0001",
+    "domain": "math",
+    "term": "numerator",
+    "ru_translation": "числитель",
+    "symbol": null,
+    "en_definition": "the top number in a fraction that shows how many parts are taken",
+    "csca_example": "In the fraction 3/5, the numerator is 3."
+  }
+]

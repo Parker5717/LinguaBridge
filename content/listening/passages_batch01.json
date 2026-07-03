@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pass:a2:01",
+    "level": "A2",
+    "text": "Good morning, everyone! Welcome to the dormitory. My name is Miss Chen, and I am the dorm manager. Please listen carefully. Breakfast in the canteen is from seven to nine in the morning. The laundry room is on the first floor, next to the water dispenser. It is open every day from eight in the morning until ten at night. Please do not cook in your room. If you have a problem, come to my office. My office is on the ground floor, room number one. I am here every day except Sunday. Thank you, and welcome to your new home!"
+  },
+  {
+    "id": "pass:a2:02",
+    "level": "A2",
+    "text": "Hello, class! Before you go, I have some homework for you. Please open your textbook to page twelve. Do exercises one, two, and three. Write your answers in your notebook, not on paper. The homework is due on Thursday, not Friday, so please do not forget. Also, next Monday we have a small test. The test is about numbers and colors. Please study the new words from this week. If you have questions, you can ask me before class on Thursday. Have a nice day, and see you on Thursday!"
+  },
+  {
+    "id": "pass:b1:01",
+    "level": "B1",
+    "text": "Attention, students. This is an announcement from the library. Starting next Monday, the library will change its opening hours. Instead of closing at nine in the evening, the library will now close at eleven, so that students have more time to study before exams. However, the second floor, where the group study rooms are located, will close earlier, at ten o'clock, to keep the noise down for students studying alone on the first floor. Please remember to bring your student card every time you enter, since the gate will no longer let you in without scanning it. If you lose your card, please visit the front desk immediately to get a temporary one. We hope these new hours will help you prepare better for the upcoming exam period. Thank you for your attention, and good luck with your studies."
+  },
+  {
+    "id": "pass:b1:02",
+    "level": "B1",
+    "text": "Welcome, everyone, to today's campus tour. My name is Tom, and I'll be showing you around for the next forty minutes. We'll start here, at the main gate, and walk toward the library, which is the tall building you can see straight ahead. On the way, you'll notice the sports center on your right, where you can play basketball or swim for a small fee. After the library, we'll pass by the canteen, which serves food from six in the morning until nine at night, and then continue to the science building, where most of your physics and chemistry classes will take place. Finally, we'll finish near the international students' office, where you can ask questions about registration or your student visa. Please stay together as a group, and feel free to ask me anything along the way. Let's begin!"
+  },
+  {
+    "id": "pass:b2:01",
+    "level": "B2",
+    "text": "Good afternoon, everyone. Before we begin today's lecture, I need to make a brief announcement regarding the upcoming midterm examination. The exam will take place two weeks from today, on the fifteenth, in the main lecture hall rather than our usual classroom, since we require additional space to accommodate both sections of this course at the same time. The exam will cover chapters one through five, with particular emphasis on the problem sets from the last three weeks, so I encourage you to revisit those exercises rather than focusing only on the lecture slides. You may bring a single sheet of handwritten notes, but calculators will not be necessary. If you have a documented conflict, such as another exam scheduled at the same time, please notify the department office by the end of this week so that alternative arrangements can be made."
+  },
+  {
+    "id": "pass:b2:02",
+    "level": "B2",
+    "text": "Welcome back. Today I want to introduce a concept that will reappear throughout this course, so it is worth making sure everyone understands it clearly. We assume motion is intuitive because we experience it daily, yet describing motion precisely, so that we can make accurate predictions, requires a small set of careful terms. Consider a train traveling between two stations. To describe its motion mathematically, we must specify not only how far it travels, which we call distance, but also the direction of travel, since two trains covering the same distance in opposite directions are clearly behaving quite differently. This distinction between a quantity with only size and one with both size and direction becomes essential once we introduce velocity and acceleration. Before next class, consider this question: can an object be accelerating even while its speed remains perfectly constant?"
+  }
+]

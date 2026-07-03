@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">LinguaBridge</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_today">Today</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_practice">Practice</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Placeholders (replaced per phase) -->
+    <string name="placeholder_coming_soon">Coming soon</string>
+
+    <!-- Today screen -->
+    <string name="today_title">Today</string>
+    <string name="today_queue">Study queue</string>
+    <string name="queue_due">Due</string>
+    <string name="queue_learning">Learning</string>
+    <string name="queue_new">New</string>
+    <string name="today_start_review">Start review</string>
+    <string name="today_content_overview">Bundled content</string>
+    <string name="count_vocabulary">Vocabulary words</string>
+    <string name="count_cards">Study cards</string>
+    <string name="count_grammar_terms">Grammar terms</string>
+    <string name="count_stem_terms">STEM terms</string>
+    <string name="count_hsk_words">Chinese words (HSK)</string>
+    <string name="count_texts">Reading texts</string>
+    <string name="count_dialogues">Dialogues</string>
+
+    <!-- Review screen -->
+    <string name="review_nothing_due">Nothing to review right now. Come back later!</string>
+    <string name="review_session_done">Session finished — %1$d cards reviewed</string>
+    <string name="review_back">Back</string>
+    <string name="review_progress">%1$d of %2$d</string>
+    <string name="review_tap_to_reveal">Tap the card to show the answer</string>
+    <string name="review_show_answer">Show answer</string>
+    <string name="rating_again">Again</string>
+    <string name="rating_hard">Hard</string>
+    <string name="rating_good">Good</string>
+    <string name="rating_easy">Easy</string>
+
+    <!-- Exercises -->
+    <string name="review_session_summary">Session finished — %1$d tasks, %2$d correct</string>
+    <string name="task_intro">New word</string>
+    <string name="task_choose_translation">Choose the translation</string>
+    <string name="task_choose_word">Choose the word</string>
+    <string name="task_type_word">Type the word</string>
+    <string name="task_fill_gap">Fill in the gap</string>
+    <string name="exercise_got_it">Got it</string>
+    <string name="exercise_continue">Continue</string>
+    <string name="exercise_dont_know">I don\'t know</string>
+    <string name="exercise_check">Check</string>
+    <string name="exercise_answer_label">Your answer</string>
+    <string name="feedback_correct">Correct!</string>
+    <string name="feedback_typo">Almost — watch the spelling</string>
+    <string name="feedback_wrong">Incorrect</string>
+    <string name="feedback_answer_is">Answer: %1$s</string>
+    <string name="deck_active">Deck enabled</string>
+
+    <!-- Decks -->
+    <string name="decks_title">Decks</string>
+    <string name="today_browse_decks">Browse decks</string>
+    <string name="deck_en_ru">English → Russian</string>
+    <string name="deck_def_en">Definition → English word</string>
+    <string name="deck_zh_en">Chinese → English</string>
+    <string name="deck_gram_term">Grammar terms</string>
+    <string name="deck_stem_en">STEM terms</string>
+
+    <!-- Library -->
+    <string name="library_title">Library</string>
+    <string name="library_tab_texts">Texts</string>
+    <string name="library_tab_dialogues">Dialogues</string>
+    <string name="library_level_a2">A2</string>
+    <string name="library_level_b1">B1</string>
+    <string name="library_level_b2">B2</string>
+    <string name="library_no_texts">No texts at this level yet</string>
+    <string name="library_no_dialogues">No dialogues yet</string>
+
+    <!-- Reader -->
+    <string name="reader_word_not_found">Not in dictionary</string>
+    <string name="reader_add_to_deck">Add to deck</string>
+    <string name="reader_added_to_deck">Added</string>
+    <string name="reader_example_label">Example</string>
+
+    <!-- Dialogue -->
+    <string name="dialogue_show_notes">Show notes</string>
+    <string name="dialogue_hide_notes">Hide notes</string>
+    <string name="dialogue_play_line">Play line</string>
+
+    <!-- Practice -->
+    <string name="practice_title">Practice</string>
+    <string name="practice_dictation_title">Dictation</string>
+    <string name="practice_dictation_description">Listen to a sentence and type what you hear</string>
+    <string name="practice_listening_title">Listening comprehension</string>
+    <string name="practice_listening_description">Listen to a passage and answer questions about it</string>
+    <string name="practice_quizzes_title">Quizzes</string>
+    <string name="practice_quizzes_coming_soon">Coming soon</string>
+    <string name="practice_quizzes_description">Test your knowledge across all topics, or take the level placement test</string>
+
+    <!-- Dictation -->
+    <string name="dictation_pick_level">Choose a level</string>
+    <string name="dictation_level_a2b1">A2 → B1</string>
+    <string name="dictation_level_b1b2">B1 → B2</string>
+    <string name="dictation_progress">Sentence %1$d of %2$d</string>
+    <string name="dictation_play">Play sentence</string>
+    <string name="dictation_type_what_you_heard">Type what you heard</string>
+    <string name="dictation_perfect">Perfect!</string>
+    <string name="dictation_retry">Retry</string>
+    <string name="dictation_session_summary">%1$d of %2$d sentences perfect</string>
+    <string name="dictation_practice_again">Practice again</string>
+
+    <!-- Listening -->
+    <string name="listening_pick_level">Choose a level</string>
+    <string name="listening_no_passages">No passages at this level yet</string>
+    <string name="listening_passage_number">Passage %1$d</string>
+    <string name="listening_question_progress">Question %1$d of %2$d</string>
+    <string name="listening_session_summary">Score: %1$d of %2$d</string>
+    <string name="listening_transcript">Transcript</string>
+    <string name="listening_back_to_passages">Back to passages</string>
+
+    <!-- Quizzes -->
+    <string name="quiz_list_title">Quizzes</string>
+    <string name="quiz_category_vocab">Vocabulary</string>
+    <string name="quiz_category_vocab_description">English words and their Russian translations</string>
+    <string name="quiz_category_engrammar">English grammar</string>
+    <string name="quiz_category_engrammar_description">Tenses, articles, prepositions and other grammar points</string>
+    <string name="quiz_category_gramterm">Grammar terminology</string>
+    <string name="quiz_category_gramterm_description">Names of grammar concepts and parts of speech</string>
+    <string name="quiz_category_stem">STEM vocabulary</string>
+    <string name="quiz_category_stem_description">Science, technology, engineering and math terms</string>
+    <string name="quiz_category_hsk">Chinese (HSK)</string>
+    <string name="quiz_category_hsk_description">HSK 1–2 words and characters</string>
+    <string name="quiz_category_csca">CSCA exam prep</string>
+    <string name="quiz_category_csca_description">Math and physics word problems — decode the wording under exam conditions</string>
+    <string name="quiz_question_progress">Question %1$d of %2$d</string>
+    <string name="quiz_session_summary">Score: %1$d of %2$d</string>
+    <string name="quiz_try_again">Try again</string>
+    <string name="quiz_review_title">Review</string>
+    <string name="quiz_review_your_answer">Your answer: %1$s</string>
+    <string name="quiz_placement_title">Placement test</string>
+    <string name="quiz_placement_description">Find out your current English level</string>
+    <string name="quiz_placement_last_result">Your level: %1$s</string>
+    <string name="quiz_placement_intro_title">Level placement test</string>
+    <string name="quiz_placement_intro_body">You\'ll answer 12 questions mixing A2, B1 and B2 English. Answer as best you can — there\'s no feedback between questions, just like a real placement test. At the end you\'ll get an estimated level.</string>
+    <string name="quiz_placement_start">Start test</string>
+    <string name="quiz_placement_result_title">Your estimated level</string>
+    <string name="quiz_placement_level_pre_a2">Pre-A2</string>
+    <string name="quiz_placement_advice_pre_a2">Start with the basics — build up core vocabulary and simple sentence structures before moving to A2 material.</string>
+    <string name="quiz_placement_advice_a2">Focus on A2 texts and vocabulary to build a solid foundation, then move on to B1.</string>
+    <string name="quiz_placement_advice_b1">Keep practicing B1 material and start challenging yourself with some B2 content.</string>
+    <string name="quiz_placement_advice_b2">Great result! Focus on B2 texts, listening practice and expanding your vocabulary further.</string>
+
+    <!-- Stats -->
+    <string name="stats_title">Statistics</string>
+    <string name="stats_streak_days">%1$d days</string>
+    <string name="stats_streak_label">Current streak</string>
+    <string name="stats_today_progress">%1$d / %2$d today</string>
+    <string name="stats_heatmap_title">Activity</string>
+    <string name="stats_retention_title">Retention (30 days)</string>
+    <string name="stats_retention_value">%1$d%%</string>
+    <string name="stats_retention_unknown">—</string>
+    <string name="stats_skill_progress_title">Skill progress</string>
+    <string name="stats_skill_progress_row">%1$d of %2$d learned</string>
+    <string name="stats_skill_en_ru">Vocabulary</string>
+    <string name="stats_skill_zh_en">Chinese</string>
+    <string name="stats_skill_gram_term">Grammar terms</string>
+    <string name="stats_skill_stem_en">STEM</string>
+    <string name="stats_totals_title">All-time totals</string>
+    <string name="stats_totals_reviews">Reviews</string>
+    <string name="stats_totals_dictations">Dictations</string>
+    <string name="stats_totals_quizzes">Quizzes</string>
+    <string name="stats_weekday_mon">Mon</string>
+    <string name="stats_weekday_wed">Wed</string>
+    <string name="stats_weekday_fri">Fri</string>
+    <string name="today_streak_line">🔥 %1$d days · goal %2$d/%3$d</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_section_speech">Speech</string>
+    <string name="settings_speech_rate">Speech rate: %1$.2fx</string>
+    <string name="settings_test_english">Test English</string>
+    <string name="settings_test_chinese">Test Chinese</string>
+    <string name="settings_voice_english">English voice</string>
+    <string name="settings_voice_chinese">Chinese voice</string>
+    <string name="settings_voice_status_ready">ready</string>
+    <string name="settings_voice_status_missing">voice data not installed</string>
+    <string name="settings_voice_status_unsupported">not supported on this device</string>
+    <string name="settings_voice_status_checking">checking…</string>
+    <string name="settings_chinese_voice_warning_title">Chinese voice unavailable</string>
+    <string name="settings_chinese_voice_warning_body">To install the offline Chinese voice: open Settings → General management → Text-to-speech → tap the engine\'s settings icon (Google Speech Services or Samsung TTS) → Install voice data → Chinese. The app itself stays fully offline once the voice is installed.</string>
+    <string name="settings_recheck">Re-check</string>
+    <string name="settings_section_study">Study</string>
+    <string name="settings_new_cards_per_day">New cards per day: %1$d</string>
+    <string name="settings_max_reviews_per_day">Max reviews per day: %1$d</string>
+    <string name="settings_section_appearance">Appearance</string>
+    <string name="settings_theme_system">System</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_section_language">Language</string>
+    <string name="settings_language_system">System</string>
+    <string name="settings_language_english">English</string>
+    <string name="settings_language_russian">Русский</string>
+
+    <!-- Language switcher and notifications -->
+    <string name="lang_english">English</string>
+    <string name="lang_chinese" translatable="false">中文</string>
+    <string name="settings_section_notifications">Notifications</string>
+    <string name="settings_word_notifications">Word of the moment</string>
+    <string name="settings_word_notifications_hint">5 new words a day as notifications (4 English : 1 Chinese); they appear first in your next review</string>
+    <string name="notif_channel_words">New words</string>
+    <string name="notif_word_title">New word: %1$s</string>
+    <string name="task_translate_sentence">Translate the sentence</string>
+    <string name="decks_mode_english">English mode — these decks feed your study queue</string>
+    <string name="decks_mode_chinese">Chinese mode — the Chinese deck is studied separately</string>
+    <string name="review_title">Review</string>
+    <string name="review_daily_limit_reached">Daily limit of new words reached — well done! Come back later for reviews.</string>
+    <string name="review_next_due">Next review at %1$s</string>
+    <string name="review_study_more">Learn 10 more words</string>
+
+    <!-- Dictionary -->
+    <string name="dictionary_title">Dictionary</string>
+    <string name="practice_dictionary_description">Search English, Chinese, STEM and grammar terms offline</string>
+    <string name="dictionary_search_hint">Search…</string>
+    <string name="dictionary_clear_search">Clear search</string>
+    <string name="dictionary_min_chars_hint">Type at least 2 letters</string>
+    <string name="dictionary_nothing_found">Nothing found for \'%1$s\'</string>
+    <string name="dictionary_section_vocab">English words</string>
+    <string name="dictionary_section_hsk">Chinese</string>
+    <string name="dictionary_section_stem">STEM terms</string>
+    <string name="dictionary_section_gramterm">Grammar terms</string>
+    <string name="dictionary_play_audio">Play audio</string>
+    <string name="dictionary_add_to_deck">Add to deck</string>
+    <string name="dictionary_added_to_deck">Added</string>
+    <string name="dictionary_example_label">Example</string>
+
+    <!-- Word game -->
+    <string name="wordgame_title">Word game</string>
+    <string name="practice_wordgame_description">Guess the 5-letter English word in 6 tries</string>
+    <string name="wordgame_mode_daily">Daily</string>
+    <string name="wordgame_mode_practice">Practice</string>
+    <string name="wordgame_invalid_guess">Enter exactly 5 letters (a-z)</string>
+    <string name="wordgame_solved">Solved in %1$d/6</string>
+    <string name="wordgame_lost">Out of tries — the word was \'%1$s\'</string>
+    <string name="wordgame_daily_already_played">You already played today\'s word. Come back tomorrow!</string>
+    <string name="wordgame_new_word">New word</string>
+    <string name="wordgame_enter">Enter</string>
+    <string name="wordgame_backspace">Backspace</string>
+    <string name="wordgame_loading">Loading word pool…</string>
+    <string name="wordgame_unavailable">Not enough 5-letter words in the dictionary yet</string>
+</resources>

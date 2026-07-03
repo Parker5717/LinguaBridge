@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vocab:a2b1:0001",
+    "level": "A2B1",
+    "headword": "landlord",
+    "ipa": "/ˈlændlɔrd/",
+    "pos": "noun",
+    "ru_translation": "хозяин квартиры",
+    "en_definition": "a person who owns a house or apartment and rents it out",
+    "example1": "The landlord fixed the broken window in my apartment.",
+    "example2": "My landlord raises the rent every year in summer.",
+    "topic": "home"
+  },
+  {
+    "id": "vocab:b1b2:0001",
+    "level": "B1B2",
+    "headword": "tenant",
+    "ipa": "/ˈtenənt/",
+    "pos": "noun",
+    "ru_translation": "арендатор, жилец",
+    "en_definition": "a person who rents a house or apartment from the owner",
+    "example1": "The tenant must pay rent on the first day of each month.",
+    "example2": "Our new tenants are very quiet and friendly neighbors.",
+    "topic": "home"
+  }
+]

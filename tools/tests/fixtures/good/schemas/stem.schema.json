@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "STEM terms batch (math/physics)",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "domain", "term", "ru_translation", "symbol", "en_definition", "csca_example"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^stem:(math|phys):[0-9]{4}$" },
+      "domain": { "enum": ["math", "physics"] },
+      "term": { "type": "string", "minLength": 1 },
+      "ru_translation": { "type": "string", "minLength": 1 },
+      "symbol": { "type": ["string", "null"], "maxLength": 30 },
+      "en_definition": { "type": "string", "minLength": 10 },
+      "csca_example": { "type": "string", "minLength": 15 }
+    }
+  }
+}

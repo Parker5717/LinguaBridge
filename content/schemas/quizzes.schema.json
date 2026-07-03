@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Quiz questions batch",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "category", "level", "type", "prompt", "options", "answer", "explanation"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^quiz:(engrammar|vocab|gramterm|stem|hsk|csca|placement|listening):[0-9]{4}$" },
+      "category": { "enum": ["engrammar", "vocab", "gramterm", "stem", "hsk", "csca", "placement", "listening"] },
+      "level": { "enum": ["A2", "B1", "B2", "HSK1", "HSK2", "NA"] },
+      "type": { "enum": ["mcq", "typing"] },
+      "prompt": { "type": "string", "minLength": 5 },
+      "options": {
+        "type": ["array", "null"],
+        "minItems": 3,
+        "maxItems": 4,
+        "items": { "type": "string", "minLength": 1 }
+      },
+      "answer": { "type": "string", "minLength": 1 },
+      "explanation": { "type": "string", "minLength": 10 },
+      "passage_id": { "type": ["string", "null"], "pattern": "^pass:(a2|b1|b2):[0-9]{2}$" }
+    },
+    "allOf": [
+      {
+        "if": { "properties": { "type": { "const": "mcq" } } },
+        "then": { "properties": { "options": { "type": "array" } } }
+      }
+    ]
+  }
+}

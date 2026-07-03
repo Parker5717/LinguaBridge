@@ -1,0 +1,134 @@
+[
+  {
+    "id": "quiz:placement:0001",
+    "category": "placement",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "My sister ___ to the cinema yesterday.",
+    "options": ["go", "goes", "went", "going"],
+    "answer": "went",
+    "explanation": "Past simple 'went' is needed with 'yesterday'. Other options are wrong verb forms.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0002",
+    "category": "placement",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "I have ___ apple and ___ orange.",
+    "options": ["a, a", "an, an", "a, an", "an, a"],
+    "answer": "a, an",
+    "explanation": "'Apple' starts with a consonant sound (needs 'a'); 'orange' starts with a vowel sound (needs 'an').",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0003",
+    "category": "placement",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "There are ___ students in our class.",
+    "options": ["many", "much", "more", "most"],
+    "answer": "many",
+    "explanation": "'Many' is used for countable nouns (students). 'Much' is for uncountable nouns.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0004",
+    "category": "placement",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "She doesn't like coffee. She ___ tea.",
+    "options": ["like", "likes", "is like", "liked"],
+    "answer": "likes",
+    "explanation": "After the negative example, we use present simple 'likes' (third person) to show what she does like.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0005",
+    "category": "placement",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "By the time you arrive, I ___ dinner.",
+    "options": ["will finish", "will have finished", "am finishing", "have finished"],
+    "answer": "will have finished",
+    "explanation": "Future perfect is needed here—the action will be complete before you arrive in the future.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0006",
+    "category": "placement",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "If I ___ you were coming, I would have prepared more food.",
+    "options": ["knew", "had known", "would know", "know"],
+    "answer": "had known",
+    "explanation": "Second conditional requires 'had known' (past perfect) in the if-clause when talking about an unreal past situation.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0007",
+    "category": "placement",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "The project requires careful ___ to detail.",
+    "options": ["attention", "attend", "attentive", "attending"],
+    "answer": "attention",
+    "explanation": "'Attention' (noun) is correct after 'careful' in the phrase 'attention to detail'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0008",
+    "category": "placement",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "Despite ___ hard all year, he didn't pass the exam.",
+    "options": ["working", "work", "worked", "to work"],
+    "answer": "working",
+    "explanation": "'Despite' is a preposition followed by a gerund ('working'), not an infinitive.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0009",
+    "category": "placement",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "The report ___ several significant inconsistencies in the data.",
+    "options": ["brought", "unveiled", "presented", "exposed"],
+    "answer": "unveiled",
+    "explanation": "'Unveiled' (reveal for the first time) is the most sophisticated word to show the unexpected discovery of problems in formal reporting.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0010",
+    "category": "placement",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "The government's ___ to economic reform has been the subject of debate.",
+    "options": ["approach", "method", "way", "treatment"],
+    "answer": "approach",
+    "explanation": "'Approach' (strategic way of dealing with something) is the formal term for policy or strategy; others lack this nuance.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0011",
+    "category": "placement",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "The speaker's arguments were ___ by evidence from recent studies.",
+    "options": ["supported", "backed", "upheld", "substantiated"],
+    "answer": "substantiated",
+    "explanation": "'Substantiated' (proved with solid evidence) is B2/academic language; others are simpler.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:placement:0012",
+    "category": "placement",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "The committee's ___ on the matter will ultimately determine company policy.",
+    "options": ["verdict", "ruling", "stance", "position"],
+    "answer": "stance",
+    "explanation": "'Stance' (position/view on an issue) is more formal and nuanced than 'position'; 'verdict' and 'ruling' imply legal judgment.",
+    "passage_id": null
+  }
+]

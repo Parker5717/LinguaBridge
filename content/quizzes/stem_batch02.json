@@ -1,0 +1,200 @@
+[
+  {
+    "id": "quiz:stem:0013",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What does 'denominator' mean?",
+    "options": ["the bottom number of a fraction", "the top number of a fraction", "the result of division", "the result of multiplication"],
+    "answer": "the bottom number of a fraction",
+    "explanation": "The denominator is the bottom part of a fraction, showing how many equal parts the whole is divided into.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0014",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "How do you read the symbol ∑ in mathematics?",
+    "options": ["sigma, meaning 'sum of'", "delta, meaning 'change in'", "pi, meaning 'product of'", "infinity"],
+    "answer": "sigma, meaning 'sum of'",
+    "explanation": "The symbol ∑ (capital sigma) represents summation, meaning you add up a series of terms.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0015",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the standard unit of force in physics?",
+    "options": ["newton", "joule", "watt", "pascal"],
+    "answer": "newton",
+    "explanation": "The newton (N) is the SI unit of force, defined as the force needed to accelerate 1 kilogram at 1 meter per second squared.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0016",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "How do you read the symbol ≥ ?",
+    "options": ["greater than or equal to", "less than or equal to", "not equal to", "approximately equal to"],
+    "answer": "greater than or equal to",
+    "explanation": "The symbol ≥ means the value on the left is either larger than or the same as the value on the right.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0017",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What does the term 'hypotenuse' refer to?",
+    "options": ["the longest side of a right triangle", "the shortest side of a right triangle", "the angle opposite the base", "the height of a triangle"],
+    "answer": "the longest side of a right triangle",
+    "explanation": "The hypotenuse is the side opposite the right angle in a right triangle, and it is always the longest side.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0018",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "How do you read the expression dy/dx in calculus?",
+    "options": ["the derivative of y with respect to x", "the sum of y and x", "the product of y and x", "the integral of y"],
+    "answer": "the derivative of y with respect to x",
+    "explanation": "dy/dx denotes the rate of change of y as x changes, known as the derivative of y with respect to x.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0019",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What does 'mass' mean in physics, as opposed to 'weight'?",
+    "options": ["the amount of matter in an object", "the force of gravity on an object", "the speed of an object", "the volume of an object"],
+    "answer": "the amount of matter in an object",
+    "explanation": "Mass measures how much matter an object contains and stays constant, while weight is the force of gravity acting on that mass.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0020",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the standard unit of energy in physics?",
+    "options": ["joule", "newton", "ampere", "volt"],
+    "answer": "joule",
+    "explanation": "The joule (J) is the SI unit of energy, work, and heat.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0021",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What does the term 'coefficient' mean in an expression like 3x?",
+    "options": ["the number multiplying a variable", "the exponent of a variable", "the variable itself", "the constant term"],
+    "answer": "the number multiplying a variable",
+    "explanation": "A coefficient is the numerical factor that multiplies a variable; in '3x', the coefficient is 3.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0022",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "How do you read the symbol √ ?",
+    "options": ["square root", "sum", "integral", "factorial"],
+    "answer": "square root",
+    "explanation": "The symbol √ represents the square root operation, finding a number that when multiplied by itself gives the value underneath.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0023",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What does the term 'density' mean in physics?",
+    "options": ["mass per unit volume", "force per unit area", "energy per unit time", "distance per unit time"],
+    "answer": "mass per unit volume",
+    "explanation": "Density is defined as mass divided by volume, describing how tightly matter is packed into a given space.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0024",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the correct unit for measuring electric current?",
+    "options": ["ampere", "volt", "ohm", "watt"],
+    "answer": "ampere",
+    "explanation": "The ampere (A) is the SI unit of electric current, measuring the flow rate of electric charge.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0025",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What does the term 'variable' mean in algebra?",
+    "options": ["a symbol representing an unknown or changeable value", "a fixed number that never changes", "the result of an equation", "an operation like addition"],
+    "answer": "a symbol representing an unknown or changeable value",
+    "explanation": "A variable is a letter or symbol, such as x or y, that stands for a value that can change or is unknown.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0026",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "How do you read the symbol ≈ ?",
+    "options": ["approximately equal to", "exactly equal to", "not equal to", "greater than"],
+    "answer": "approximately equal to",
+    "explanation": "The symbol ≈ shows that two values are close in value but not exactly the same.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0027",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What does 'perimeter' mean in geometry?",
+    "options": ["the total distance around a shape", "the area inside a shape", "the number of sides of a shape", "the height of a shape"],
+    "answer": "the total distance around a shape",
+    "explanation": "The perimeter is the sum of the lengths of all sides of a shape, or the total distance around its boundary.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0028",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the standard unit for measuring electrical resistance?",
+    "options": ["ohm", "ampere", "volt", "watt"],
+    "answer": "ohm",
+    "explanation": "The ohm (Ω) is the SI unit of electrical resistance, describing how strongly a material opposes electric current.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0029",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What does the term 'acceleration' mean in physics?",
+    "options": ["the rate of change of velocity", "the rate of change of position", "the total distance traveled", "the mass of an object"],
+    "answer": "the rate of change of velocity",
+    "explanation": "Acceleration measures how quickly an object's velocity changes over time, whether speeding up, slowing down, or changing direction.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0030",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "How do you read the symbol ∞ ?",
+    "options": ["infinity", "integral", "summation", "empty set"],
+    "answer": "infinity",
+    "explanation": "The symbol ∞ represents infinity, a concept describing something without any limit or end.",
+    "passage_id": null
+  }
+]

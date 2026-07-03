@@ -1,0 +1,134 @@
+[
+  {
+    "id": "quiz:hsk:0001",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "How do you say 'thank you' in Chinese?",
+    "options": ["谢谢 (xièxie)", "对不起 (duìbùqǐ)", "你好 (nǐhǎo)", "再见 (zàijiàn)"],
+    "answer": "谢谢 (xièxie)",
+    "explanation": "谢谢 is the basic word for 'thank you'. It is one of the most essential expressions in Chinese for showing gratitude.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0002",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "What does 学生 (xuésheng) mean?",
+    "options": ["teacher", "student", "book", "school"],
+    "answer": "student",
+    "explanation": "学生 combines 学 (study) and 生 (life or person). It means a person who studies, or a student.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0003",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "Choose the correct measure word: 三___书",
+    "options": ["个 (gè)", "本 (běn)", "只 (zhī)"],
+    "answer": "本 (běn)",
+    "explanation": "本 is the measure word used for counting books and similar bound objects. The phrase means 'three books'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0004",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "What does 妈妈 (māma) mean?",
+    "options": ["father", "mother", "sister", "aunt"],
+    "answer": "mother",
+    "explanation": "妈妈 is a warm, everyday word for mother. The repetition of 妈 is common in Chinese for family terms.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0005",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "Which sentence uses correct word order?",
+    "options": ["我喝水", "喝我水", "水喝我"],
+    "answer": "我喝水",
+    "explanation": "The correct order is subject-verb-object. 我喝水 means 'I drink water'. The subject 我 comes first, followed by the verb 喝 and the object 水.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0006",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "What does 爸爸 (bàba) mean?",
+    "options": ["mother", "father", "brother", "uncle"],
+    "answer": "father",
+    "explanation": "爸爸 is the everyday word for father in Chinese. Like 妈妈, the repeated syllable shows affection or informality.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0007",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "How do you say 'I' in Chinese?",
+    "options": ["你 (nǐ)", "他 (tā)", "我 (wǒ)", "她 (tā)"],
+    "answer": "我 (wǒ)",
+    "explanation": "我 is the first person singular pronoun meaning 'I' or 'me'. It is used as the subject or object of a sentence.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0008",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "What does 好 (hǎo) mean?",
+    "options": ["bad", "good", "big", "small"],
+    "answer": "good",
+    "explanation": "好 is a fundamental adjective meaning 'good' or 'well'. It is used in many common expressions like 你好 (hello) and 很好 (very good).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0009",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "What does 昨天 (zuótiān) mean?",
+    "options": ["today", "tomorrow", "yesterday", "next week"],
+    "answer": "yesterday",
+    "explanation": "昨天 literally combines 昨 (previous) and 天 (day). It means the day before today.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0010",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "Which is the correct way to say 'How are you?' in Chinese?",
+    "options": ["你好吗 (Nǐhǎo ma?)", "你怎样 (Nǐ zěnyàng?)", "你什么 (Nǐ shénme?)"],
+    "answer": "你好吗 (Nǐhǎo ma?)",
+    "explanation": "你好吗 is a polite greeting asking 'How are you?'. The particle 吗 at the end turns it into a yes-or-no question.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0011",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "What does 家 (jiā) mean?",
+    "options": ["school", "work", "home", "store"],
+    "answer": "home",
+    "explanation": "家 is a common word meaning 'home' or 'family'. It often appears in compounds like 家人 (family members) and 回家 (go home).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0012",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "Which word means 'to eat'?",
+    "options": ["喝 (hē)", "睡 (shuì)", "吃 (chī)", "走 (zǒu)"],
+    "answer": "吃 (chī)",
+    "explanation": "吃 is the basic verb for 'to eat'. It is one of the most frequently used verbs in everyday Chinese conversation.",
+    "passage_id": null
+  }
+]

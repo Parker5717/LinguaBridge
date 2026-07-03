@@ -1,0 +1,14 @@
+[
+  {
+    "id": "dlg:01",
+    "title": "Ordering Tea",
+    "scenario": "daily",
+    "level": "A2",
+    "lines": [
+      { "ord": 1, "speaker": "Waiter", "lang": "zh", "text": "你好，你要喝什么？", "pinyin": "Nǐ hǎo, nǐ yào hē shénme?", "ru_note": "Приветствие и вопрос о заказе." },
+      { "ord": 2, "speaker": "Customer", "lang": "en", "text": "Hello, I would like some tea, please." },
+      { "ord": 3, "speaker": "Waiter", "lang": "zh", "text": "好的，请稍等。", "pinyin": "Hǎo de, qǐng shāo děng.", "ru_note": "Официант просит подождать." },
+      { "ord": 4, "speaker": "Customer", "lang": "en", "text": "Thank you very much!" }
+    ]
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "stem:math:0101",
+    "domain": "math",
+    "term": "mixed number",
+    "ru_translation": "смешанное число",
+    "symbol": null,
+    "en_definition": "a number written as a whole number together with a fraction",
+    "csca_example": "Convert the mixed number 3 1/4 into an improper fraction."
+  },
+  {
+    "id": "stem:math:0102",
+    "domain": "math",
+    "term": "improper fraction",
+    "ru_translation": "неправильная дробь",
+    "symbol": null,
+    "en_definition": "a fraction where the numerator is greater than or equal to the denominator",
+    "csca_example": "Convert 17/5 from an improper fraction to a mixed number."
+  },
+  {
+    "id": "stem:math:0103",
+    "domain": "math",
+    "term": "equivalent fraction",
+    "ru_translation": "эквивалентная дробь",
+    "symbol": null,
+    "en_definition": "a fraction that has the same value as another fraction but uses different numbers",
+    "csca_example": "Write two equivalent fractions for 2/3."
+  },
+  {
+    "id": "stem:math:0104",
+    "domain": "math",
+    "term": "lowest terms",
+    "ru_translation": "несократимая форма",
+    "symbol": null,
+    "en_definition": "the simplest form of a fraction, where the numerator and denominator share no common factor",
+    "csca_example": "Reduce 18/24 to its lowest terms."
+  },
+  {
+    "id": "stem:math:0105",
+    "domain": "math",
+    "term": "common denominator",
+    "ru_translation": "общий знаменатель",
+    "symbol": null,
+    "en_definition": "a shared multiple of the denominators of two or more fractions, used to add or subtract them",
+    "csca_example": "Find a common denominator for 1/4 and 1/6 before adding them."
+  },
+  {
+    "id": "stem:math:0106",
+    "domain": "math",
+    "term": "proportionality",
+    "ru_translation": "пропорциональность",
+    "symbol": null,
+    "en_definition": "a relationship in which two quantities increase or decrease at the same rate",
+    "csca_example": "Explain why distance and time show proportionality at constant speed."
+  },
+  {
+    "id": "stem:math:0107",
+    "domain": "math",
+    "term": "direct proportion",
+    "ru_translation": "прямая пропорциональность",
+    "symbol": null,
+    "en_definition": "a relationship in which one quantity increases as the other increases at a constant rate",
+    "csca_example": "Show that the cost of apples is in direct proportion to the number bought."
+  },
+  {
+    "id": "stem:math:0108",
+    "domain": "math",
+    "term": "inverse proportion",
+    "ru_translation": "обратная пропорциональность",
+    "symbol": null,
+    "en_definition": "a relationship in which one quantity increases as the other decreases, so their product stays constant",
+    "csca_example": "If y is in inverse proportion to x, find y when x doubles."
+  },
+  {
+    "id": "stem:math:0109",
+    "domain": "math",
+    "term": "percentage increase",
+    "ru_translation": "процентное увеличение",
+    "symbol": "%",
+    "en_definition": "the amount by which a value grows, expressed as a percentage of the original value",
+    "csca_example": "Calculate the percentage increase when a price rises from $40 to $50."
+  },
+  {
+    "id": "stem:math:0110",
+    "domain": "math",
+    "term": "percentage decrease",
+    "ru_translation": "процентное уменьшение",
+    "symbol": "%",
+    "en_definition": "the amount by which a value falls, expressed as a percentage of the original value",
+    "csca_example": "Find the percentage decrease when a population falls from 800 to 600."
+  },
+  {
+    "id": "stem:math:0111",
+    "domain": "math",
+    "term": "simple interest",
+    "ru_translation": "простые проценты",
+    "symbol": null,
+    "en_definition": "interest calculated only on the original amount of money invested or borrowed",
+    "csca_example": "Calculate the simple interest earned on $500 at 4% per year for 3 years."
+  },
+  {
+    "id": "stem:math:0112",
+    "domain": "math",
+    "term": "compound interest",
+    "ru_translation": "сложные проценты",
+    "symbol": null,
+    "en_definition": "interest calculated on both the original amount and the interest already added",
+    "csca_example": "Find the compound interest on $1000 invested at 5% per year for 2 years."
+  },
+  {
+    "id": "stem:math:0113",
+    "domain": "math",
+    "term": "rounding",
+    "ru_translation": "округление",
+    "symbol": null,
+    "en_definition": "the process of adjusting a number to a nearby value that is simpler but close in value",
+    "csca_example": "Practice rounding by giving 6.847 to two decimal places."
+  },
+  {
+    "id": "stem:math:0114",
+    "domain": "math",
+    "term": "significant figure",
+    "ru_translation": "значащая цифра",
+    "symbol": null,
+    "en_definition": "a digit in a number that carries meaning about its precision",
+    "csca_example": "Write 0.004520 correct to three significant figures."
+  },
+  {
+    "id": "stem:math:0115",
+    "domain": "math",
+    "term": "estimate",
+    "ru_translation": "оценка (приближённое значение)",
+    "symbol": "≈",
+    "en_definition": "an approximate value found without doing an exact calculation",
+    "csca_example": "Estimate the value of 198 × 51 by rounding each number."
+  },
+  {
+    "id": "stem:math:0116",
+    "domain": "math",
+    "term": "multiple",
+    "ru_translation": "кратное",
+    "symbol": null,
+    "en_definition": "a number that can be divided exactly by another number",
+    "csca_example": "List the first five multiples of 6."
+  },
+  {
+    "id": "stem:math:0117",
+    "domain": "math",
+    "term": "composite number",
+    "ru_translation": "составное число",
+    "symbol": null,
+    "en_definition": "a whole number greater than 1 that has more than two factors",
+    "csca_example": "Explain why 15 is a composite number."
+  },
+  {
+    "id": "stem:math:0118",
+    "domain": "math",
+    "term": "divisibility rule",
+    "ru_translation": "признак делимости",
+    "symbol": null,
+    "en_definition": "a shortcut used to check whether a number can be divided exactly by another number without a remainder",
+    "csca_example": "Use the divisibility rule for 3 to check whether 522 is divisible by 3."
+  },
+  {
+    "id": "stem:math:0119",
+    "domain": "math",
+    "term": "remainder",
+    "ru_translation": "остаток",
+    "symbol": null,
+    "en_definition": "the amount left over after one number does not divide exactly into another",
+    "csca_example": "Divide 47 by 6 and state the remainder."
+  },
+  {
+    "id": "stem:math:0120",
+    "domain": "math",
+    "term": "place value",
+    "ru_translation": "разрядное значение",
+    "symbol": null,
+    "en_definition": "the value of a digit based on its position within a number",
+    "csca_example": "Explain the place value of the digit 7 in 3,672."
+  },
+  {
+    "id": "stem:math:0121",
+    "domain": "math",
+    "term": "standard form",
+    "ru_translation": "стандартная форма (научная запись)",
+    "symbol": "×10ⁿ",
+    "en_definition": "a way of writing very large or very small numbers using a number between 1 and 10 multiplied by a power of ten",
+    "csca_example": "Write 45,000,000 in standard form."
+  },
+  {
+    "id": "stem:math:0122",
+    "domain": "math",
+    "term": "scientific notation",
+    "ru_translation": "научная запись",
+    "symbol": "×10ⁿ",
+    "en_definition": "another name for standard form, used to express very large or small numbers compactly",
+    "csca_example": "Convert 0.000032 into scientific notation."
+  },
+  {
+    "id": "stem:math:0123",
+    "domain": "math",
+    "term": "order of operations",
+    "ru_translation": "порядок операций",
+    "symbol": null,
+    "en_definition": "the agreed sequence for carrying out calculations: brackets, powers, multiplication/division, addition/subtraction",
+    "csca_example": "Apply the order of operations to evaluate 6 + 4 × (5 - 2)."
+  },
+  {
+    "id": "stem:math:0124",
+    "domain": "math",
+    "term": "bracket",
+    "ru_translation": "скобка",
+    "symbol": "( )",
+    "en_definition": "a symbol used in an expression to show which operation should be carried out first",
+    "csca_example": "Remove the bracket and simplify 3(x + 4)."
+  },
+  {
+    "id": "stem:math:0125",
+    "domain": "math",
+    "term": "term (algebra)",
+    "ru_translation": "член (алгебраического выражения)",
+    "symbol": null,
+    "en_definition": "a single number, variable, or product of numbers and variables in an expression",
+    "csca_example": "Identify the like terms in the expression 5x + 3y - 2x."
+  },
+  {
+    "id": "stem:math:0126",
+    "domain": "math",
+    "term": "like terms",
+    "ru_translation": "подобные члены",
+    "symbol": null,
+    "en_definition": "terms in an expression that contain exactly the same variables raised to the same powers",
+    "csca_example": "Simplify 7a + 3b - 2a + b by collecting like terms."
+  },
+  {
+    "id": "stem:math:0127",
+    "domain": "math",
+    "term": "unlike terms",
+    "ru_translation": "неподобные члены",
+    "symbol": null,
+    "en_definition": "terms that contain different variables or the same variables raised to different powers",
+    "csca_example": "Explain why 4x and 4x² are unlike terms."
+  },
+  {
+    "id": "stem:math:0128",
+    "domain": "math",
+    "term": "substitution",
+    "ru_translation": "подстановка",
+    "symbol": null,
+    "en_definition": "replacing a variable in an expression with a given numerical value",
+    "csca_example": "Use substitution to find the value of 2x + 3y when x = 4 and y = 5."
+  },
+  {
+    "id": "stem:math:0129",
+    "domain": "math",
+    "term": "simultaneous equations",
+    "ru_translation": "система уравнений",
+    "symbol": null,
+    "en_definition": "two or more equations that are solved together to find values that satisfy all of them",
+    "csca_example": "Solve the simultaneous equations 2x + y = 7 and x - y = 2."
+  },
+  {
+    "id": "stem:math:0130",
+    "domain": "math",
+    "term": "quadratic formula",
+    "ru_translation": "формула корней квадратного уравнения",
+    "symbol": "x = (-b ± √(b²-4ac)) / 2a",
+    "en_definition": "a formula used to find the solutions of any quadratic equation",
+    "csca_example": "Use the quadratic formula to solve 2x² + 3x - 5 = 0."
+  },
+  {
+    "id": "stem:math:0131",
+    "domain": "math",
+    "term": "discriminant",
+    "ru_translation": "дискриминант",
+    "symbol": "Δ",
+    "en_definition": "the part of the quadratic formula under the square root, used to determine the number of real solutions",
+    "csca_example": "Calculate the discriminant of x² - 4x + 4 and state how many real roots it has."
+  },
+  {
+    "id": "stem:math:0132",
+    "domain": "math",
+    "term": "completing the square",
+    "ru_translation": "выделение полного квадрата",
+    "symbol": null,
+    "en_definition": "a method of rewriting a quadratic expression as a squared term plus a constant",
+    "csca_example": "Solve x² + 6x + 5 = 0 by completing the square."
+  },
+  {
+    "id": "stem:math:0133",
+    "domain": "math",
+    "term": "factorize",
+    "ru_translation": "разложить на множители",
+    "symbol": null,
+    "en_definition": "to write an expression as a product of its factors",
+    "csca_example": "Factorize the expression x² - 9."
+  },
+  {
+    "id": "stem:math:0134",
+    "domain": "math",
+    "term": "expand",
+    "ru_translation": "раскрыть скобки",
+    "symbol": null,
+    "en_definition": "to multiply out brackets in an expression to remove them",
+    "csca_example": "Expand and simplify (x + 3)(x - 2)."
+  },
+  {
+    "id": "stem:math:0135",
+    "domain": "math",
+    "term": "binomial",
+    "ru_translation": "бином (двучлен)",
+    "symbol": null,
+    "en_definition": "an algebraic expression containing exactly two terms",
+    "csca_example": "Multiply the binomial (x + 5) by (x - 5)."
+  },
+  {
+    "id": "stem:math:0136",
+    "domain": "math",
+    "term": "trinomial",
+    "ru_translation": "трёхчлен",
+    "symbol": null,
+    "en_definition": "an algebraic expression containing exactly three terms",
+    "csca_example": "Factorize the trinomial x² + 5x + 6."
+  },
+  {
+    "id": "stem:math:0137",
+    "domain": "math",
+    "term": "degree of a polynomial",
+    "ru_translation": "степень многочлена",
+    "symbol": null,
+    "en_definition": "the highest power of the variable appearing in a polynomial",
+    "csca_example": "State the degree of the polynomial 4x³ - 2x + 7."
+  },
+  {
+    "id": "stem:math:0138",
+    "domain": "math",
+    "term": "leading coefficient",
+    "ru_translation": "старший коэффициент",
+    "symbol": null,
+    "en_definition": "the coefficient of the term with the highest power in a polynomial",
+    "csca_example": "Identify the leading coefficient of 5x⁴ - 3x² + 1."
+  },
+  {
+    "id": "stem:math:0139",
+    "domain": "math",
+    "term": "root of an equation",
+    "ru_translation": "корень уравнения",
+    "symbol": null,
+    "en_definition": "a value of the variable that makes an equation true",
+    "csca_example": "Verify that x = 2 is a root of the equation x² - 4 = 0."
+  },
+  {
+    "id": "stem:math:0140",
+    "domain": "math",
+    "term": "solution set",
+    "ru_translation": "множество решений",
+    "symbol": null,
+    "en_definition": "the collection of all values that satisfy a given equation or inequality",
+    "csca_example": "Write the solution set for the inequality 2x - 1 > 5."
+  },
+  {
+    "id": "stem:math:0141",
+    "domain": "math",
+    "term": "identity (algebra)",
+    "ru_translation": "тождество",
+    "symbol": "≡",
+    "en_definition": "an equation that is true for every value of the variable",
+    "csca_example": "Show that (x + 1)² ≡ x² + 2x + 1 is an identity."
+  },
+  {
+    "id": "stem:math:0142",
+    "domain": "math",
+    "term": "linear inequality",
+    "ru_translation": "линейное неравенство",
+    "symbol": null,
+    "en_definition": "an inequality in which the variable appears only to the first power",
+    "csca_example": "Solve the linear inequality 3x + 2 ≤ 11."
+  },
+  {
+    "id": "stem:math:0143",
+    "domain": "math",
+    "term": "compound inequality",
+    "ru_translation": "составное неравенство",
+    "symbol": null,
+    "en_definition": "an inequality that combines two or more inequalities with 'and' or 'or'",
+    "csca_example": "Solve the compound inequality -3 < 2x + 1 < 7."
+  },
+  {
+    "id": "stem:math:0144",
+    "domain": "math",
+    "term": "number line",
+    "ru_translation": "числовая прямая",
+    "symbol": null,
+    "en_definition": "a straight line on which numbers are marked at equal distances, used to show order and inequalities",
+    "csca_example": "Represent the solution x ≥ 4 on a number line."
+  },
+  {
+    "id": "stem:math:0145",
+    "domain": "math",
+    "term": "arithmetic series",
+    "ru_translation": "арифметический ряд",
+    "symbol": null,
+    "en_definition": "the sum of the terms of an arithmetic sequence",
+    "csca_example": "Find the sum of the first 20 terms of the arithmetic series 3 + 7 + 11 + ..."
+  },
+  {
+    "id": "stem:math:0146",
+    "domain": "math",
+    "term": "geometric series",
+    "ru_translation": "геометрический ряд",
+    "symbol": null,
+    "en_definition": "the sum of the terms of a geometric sequence",
+    "csca_example": "Find the sum of the first 6 terms of the geometric series 2 + 6 + 18 + ..."
+  },
+  {
+    "id": "stem:math:0147",
+    "domain": "math",
+    "term": "common difference",
+    "ru_translation": "разность арифметической прогрессии",
+    "symbol": "d",
+    "en_definition": "the constant amount added to each term of an arithmetic sequence to get the next term",
+    "csca_example": "Find the common difference of the sequence 5, 9, 13, 17, ..."
+  },
+  {
+    "id": "stem:math:0148",
+    "domain": "math",
+    "term": "common ratio",
+    "ru_translation": "знаменатель геометрической прогрессии",
+    "symbol": "r",
+    "en_definition": "the constant value each term is multiplied by to get the next term in a geometric sequence",
+    "csca_example": "Find the common ratio of the sequence 4, 8, 16, 32, ..."
+  },
+  {
+    "id": "stem:math:0149",
+    "domain": "math",
+    "term": "nth term",
+    "ru_translation": "n-й член последовательности",
+    "symbol": "aₙ",
+    "en_definition": "an expression that gives the value of any term in a sequence based on its position",
+    "csca_example": "Find the nth term of the sequence 2, 5, 8, 11, ..."
+  },
+  {
+    "id": "stem:math:0150",
+    "domain": "math",
+    "term": "recursive formula",
+    "ru_translation": "рекуррентная формула",
+    "symbol": null,
+    "en_definition": "a rule that defines each term of a sequence using the value of the previous term",
+    "csca_example": "Write a recursive formula for the sequence 1, 3, 9, 27, ..."
+  },
+  {
+    "id": "stem:math:0151",
+    "domain": "math",
+    "term": "polynomial equation",
+    "ru_translation": "полиномиальное уравнение",
+    "symbol": null,
+    "en_definition": "an equation in which one side is a polynomial set equal to zero or to another expression",
+    "csca_example": "Solve the polynomial equation x³ - x = 0."
+  },
+  {
+    "id": "stem:math:0152",
+    "domain": "math",
+    "term": "rational expression",
+    "ru_translation": "рациональное выражение",
+    "symbol": null,
+    "en_definition": "an algebraic fraction in which the numerator and denominator are polynomials",
+    "csca_example": "Simplify the rational expression (x² - 1) / (x + 1)."
+  },
+  {
+    "id": "stem:math:0153",
+    "domain": "math",
+    "term": "inverse function",
+    "ru_translation": "обратная функция",
+    "symbol": "f⁻¹(x)",
+    "en_definition": "a function that reverses the effect of another function",
+    "csca_example": "Find the inverse function of f(x) = 2x + 3."
+  },
+  {
+    "id": "stem:math:0154",
+    "domain": "math",
+    "term": "composite function",
+    "ru_translation": "сложная функция",
+    "symbol": "f∘g",
+    "en_definition": "a function formed by applying one function to the result of another",
+    "csca_example": "Given f(x) = x + 1 and g(x) = x², find the composite function f(g(x))."
+  },
+  {
+    "id": "stem:math:0155",
+    "domain": "math",
+    "term": "function notation",
+    "ru_translation": "функциональная запись",
+    "symbol": "f(x)",
+    "en_definition": "the way of writing a function using a letter followed by the input variable in brackets",
+    "csca_example": "Use function notation to write y = 2x + 1 as f(x)."
+  },
+  {
+    "id": "stem:math:0156",
+    "domain": "math",
+    "term": "range (function)",
+    "ru_translation": "область значений (функции)",
+    "symbol": null,
+    "en_definition": "the set of all possible output values that a function can produce",
+    "csca_example": "Find the range of the function f(x) = x² for all real x."
+  },
+  {
+    "id": "stem:math:0157",
+    "domain": "math",
+    "term": "independent variable",
+    "ru_translation": "независимая переменная",
+    "symbol": null,
+    "en_definition": "the variable in a function whose value is chosen freely, usually plotted on the x-axis",
+    "csca_example": "Identify the independent variable in the equation y = 3x + 2."
+  },
+  {
+    "id": "stem:math:0158",
+    "domain": "math",
+    "term": "dependent variable",
+    "ru_translation": "зависимая переменная",
+    "symbol": null,
+    "en_definition": "the variable in a function whose value depends on the independent variable, usually plotted on the y-axis",
+    "csca_example": "Identify the dependent variable in the equation y = 3x + 2."
+  },
+  {
+    "id": "stem:math:0159",
+    "domain": "math",
+    "term": "gradient",
+    "ru_translation": "градиент (наклон прямой)",
+    "symbol": "m",
+    "en_definition": "a measure of how steep a line is, calculated as the change in y divided by the change in x",
+    "csca_example": "Find the gradient of the line joining the points (1, 2) and (4, 8)."
+  },
+  {
+    "id": "stem:math:0160",
+    "domain": "math",
+    "term": "y-axis",
+    "ru_translation": "ось ординат",
+    "symbol": null,
+    "en_definition": "the vertical axis on a coordinate grid",
+    "csca_example": "State the coordinates of the point where the graph crosses the y-axis."
+  },
+  {
+    "id": "stem:math:0161",
+    "domain": "math",
+    "term": "x-axis",
+    "ru_translation": "ось абсцисс",
+    "symbol": null,
+    "en_definition": "the horizontal axis on a coordinate grid",
+    "csca_example": "State the coordinates of the point where the graph crosses the x-axis."
+  },
+  {
+    "id": "stem:math:0162",
+    "domain": "math",
+    "term": "origin",
+    "ru_translation": "начало координат",
+    "symbol": "(0,0)",
+    "en_definition": "the point where the x-axis and y-axis meet on a coordinate grid",
+    "csca_example": "State the coordinates of the origin on a Cartesian plane."
+  },
+  {
+    "id": "stem:math:0163",
+    "domain": "math",
+    "term": "coordinate plane",
+    "ru_translation": "координатная плоскость",
+    "symbol": null,
+    "en_definition": "a flat surface formed by a horizontal and a vertical axis used to plot points",
+    "csca_example": "Plot the point (3, -2) on the coordinate plane."
+  },
+  {
+    "id": "stem:math:0164",
+    "domain": "math",
+    "term": "ordered pair",
+    "ru_translation": "упорядоченная пара",
+    "symbol": "(x, y)",
+    "en_definition": "a pair of numbers that gives the position of a point on a coordinate plane",
+    "csca_example": "Write the ordered pair for a point 4 units right and 5 units up from the origin."
+  },
+  {
+    "id": "stem:math:0165",
+    "domain": "math",
+    "term": "quadratic graph",
+    "ru_translation": "график квадратичной функции",
+    "symbol": null,
+    "en_definition": "the curve produced by plotting a quadratic function, shaped like a parabola",
+    "csca_example": "Sketch the quadratic graph of y = x² - 4."
+  },
+  {
+    "id": "stem:math:0166",
+    "domain": "math",
+    "term": "parabola",
+    "ru_translation": "парабола",
+    "symbol": null,
+    "en_definition": "the U-shaped curve that is the graph of a quadratic function",
+    "csca_example": "State the vertex of the parabola y = (x - 2)² + 3."
+  },
+  {
+    "id": "stem:math:0167",
+    "domain": "math",
+    "term": "vertex",
+    "ru_translation": "вершина параболы",
+    "symbol": null,
+    "en_definition": "the highest or lowest point on a curve such as a parabola",
+    "csca_example": "Find the vertex of the parabola y = x² - 6x + 8."
+  },
+  {
+    "id": "stem:math:0168",
+    "domain": "math",
+    "term": "axis of symmetry",
+    "ru_translation": "ось симметрии",
+    "symbol": null,
+    "en_definition": "a vertical line that divides a parabola into two mirror-image halves",
+    "csca_example": "Find the axis of symmetry of the graph of y = x² - 4x + 3."
+  },
+  {
+    "id": "stem:math:0169",
+    "domain": "math",
+    "term": "asymptote",
+    "ru_translation": "асимптота",
+    "symbol": null,
+    "en_definition": "a line that a curve approaches but never touches",
+    "csca_example": "Identify the vertical asymptote of the graph of y = 1/(x - 2)."
+  },
+  {
+    "id": "stem:math:0170",
+    "domain": "math",
+    "term": "exponential growth",
+    "ru_translation": "экспоненциальный рост",
+    "symbol": null,
+    "en_definition": "an increase in which a quantity grows by a constant percentage over equal time periods",
+    "csca_example": "Model the exponential growth of a population increasing by 8% each year."
+  },
+  {
+    "id": "stem:math:0171",
+    "domain": "math",
+    "term": "exponential decay",
+    "ru_translation": "экспоненциальное убывание",
+    "symbol": null,
+    "en_definition": "a decrease in which a quantity falls by a constant percentage over equal time periods",
+    "csca_example": "Model the exponential decay of a radioactive substance with a half-life of 10 years."
+  },
+  {
+    "id": "stem:math:0172",
+    "domain": "math",
+    "term": "logarithmic function",
+    "ru_translation": "логарифмическая функция",
+    "symbol": "log(x)",
+    "en_definition": "a function that is the inverse of an exponential function",
+    "csca_example": "Sketch the graph of the logarithmic function y = log₂(x)."
+  },
+  {
+    "id": "stem:math:0173",
+    "domain": "math",
+    "term": "transformation of a graph",
+    "ru_translation": "преобразование графика",
+    "symbol": null,
+    "en_definition": "a change to a graph such as a shift, stretch, or reflection",
+    "csca_example": "Describe the transformation of a graph that maps y = x² onto y = (x - 3)²."
+  },
+  {
+    "id": "stem:math:0174",
+    "domain": "math",
+    "term": "translation (graph)",
+    "ru_translation": "параллельный перенос (графика)",
+    "symbol": null,
+    "en_definition": "a transformation that slides a graph horizontally or vertically without changing its shape",
+    "csca_example": "Describe the translation that maps the graph of y = x² onto y = x² + 5."
+  },
+  {
+    "id": "stem:math:0175",
+    "domain": "math",
+    "term": "reflection (graph)",
+    "ru_translation": "отражение (графика)",
+    "symbol": null,
+    "en_definition": "a transformation that flips a graph over a line, such as the x-axis or y-axis",
+    "csca_example": "Sketch the reflection of the graph of y = x² in the x-axis."
+  },
+  {
+    "id": "stem:math:0176",
+    "domain": "math",
+    "term": "stretch (graph)",
+    "ru_translation": "растяжение (графика)",
+    "symbol": null,
+    "en_definition": "a transformation that makes a graph taller, shorter, wider, or narrower",
+    "csca_example": "Describe the vertical stretch that maps y = x² onto y = 3x²."
+  },
+  {
+    "id": "stem:math:0177",
+    "domain": "math",
+    "term": "periodic function",
+    "ru_translation": "периодическая функция",
+    "symbol": null,
+    "en_definition": "a function whose graph repeats the same pattern at regular intervals",
+    "csca_example": "Explain why y = sin(x) is a periodic function."
+  },
+  {
+    "id": "stem:math:0178",
+    "domain": "math",
+    "term": "continuous function",
+    "ru_translation": "непрерывная функция",
+    "symbol": null,
+    "en_definition": "a function whose graph can be drawn without lifting the pen from the paper",
+    "csca_example": "State whether f(x) = 1/x is a continuous function at x = 0."
+  },
+  {
+    "id": "stem:math:0179",
+    "domain": "math",
+    "term": "vertically opposite angles",
+    "ru_translation": "вертикальные углы",
+    "symbol": null,
+    "en_definition": "the equal angles formed on opposite sides when two straight lines cross",
+    "csca_example": "Use vertically opposite angles to find the missing angle in the diagram."
+  },
+  {
+    "id": "stem:math:0180",
+    "domain": "math",
+    "term": "alternate angles",
+    "ru_translation": "накрест лежащие углы",
+    "symbol": null,
+    "en_definition": "equal angles formed on opposite sides of a transversal line crossing two parallel lines",
+    "csca_example": "Use alternate angles to show that angle x equals 65°."
+  },
+  {
+    "id": "stem:math:0181",
+    "domain": "math",
+    "term": "corresponding angles",
+    "ru_translation": "соответственные углы",
+    "symbol": null,
+    "en_definition": "equal angles that occupy the same relative position where a transversal crosses two parallel lines",
+    "csca_example": "Use corresponding angles to find the value of angle y."
+  },
+  {
+    "id": "stem:math:0182",
+    "domain": "math",
+    "term": "co-interior angles",
+    "ru_translation": "односторонние углы",
+    "symbol": null,
+    "en_definition": "angles on the same side of a transversal between two parallel lines that add up to 180°",
+    "csca_example": "Use co-interior angles to find the missing angle between the parallel lines."
+  },
+  {
+    "id": "stem:math:0183",
+    "domain": "math",
+    "term": "supplementary angles",
+    "ru_translation": "смежные (дополнительные до 180°) углы",
+    "symbol": null,
+    "en_definition": "two angles whose measures add up to 180 degrees",
+    "csca_example": "Find the supplementary angle of 112°."
+  },
+  {
+    "id": "stem:math:0184",
+    "domain": "math",
+    "term": "complementary angles",
+    "ru_translation": "дополнительные до 90° углы",
+    "symbol": null,
+    "en_definition": "two angles whose measures add up to 90 degrees",
+    "csca_example": "Find the complementary angle of 37°."
+  },
+  {
+    "id": "stem:math:0185",
+    "domain": "math",
+    "term": "reflex angle",
+    "ru_translation": "невыпуклый (рефлекторный) угол",
+    "symbol": null,
+    "en_definition": "an angle that measures more than 180 degrees but less than 360 degrees",
+    "csca_example": "Identify the reflex angle in the diagram and state its size."
+  },
+  {
+    "id": "stem:math:0186",
+    "domain": "math",
+    "term": "straight angle",
+    "ru_translation": "развёрнутый угол",
+    "symbol": null,
+    "en_definition": "an angle that measures exactly 180 degrees",
+    "csca_example": "Explain why the angles on a straight line form a straight angle."
+  },
+  {
+    "id": "stem:math:0187",
+    "domain": "math",
+    "term": "bisector",
+    "ru_translation": "биссектриса",
+    "symbol": null,
+    "en_definition": "a line or ray that divides an angle or a segment into two equal parts",
+    "csca_example": "Construct the bisector of angle ABC using a compass and ruler."
+  },
+  {
+    "id": "stem:math:0188",
+    "domain": "math",
+    "term": "perpendicular bisector",
+    "ru_translation": "серединный перпендикуляр",
+    "symbol": null,
+    "en_definition": "a line that crosses a segment at its midpoint at a right angle",
+    "csca_example": "Construct the perpendicular bisector of line segment AB."
+  },
+  {
+    "id": "stem:math:0189",
+    "domain": "math",
+    "term": "isosceles triangle",
+    "ru_translation": "равнобедренный треугольник",
+    "symbol": null,
+    "en_definition": "a triangle with two sides of equal length and two equal angles",
+    "csca_example": "Find the missing angle in an isosceles triangle where the base angles are 50°."
+  },
+  {
+    "id": "stem:math:0190",
+    "domain": "math",
+    "term": "equilateral triangle",
+    "ru_translation": "равносторонний треугольник",
+    "symbol": null,
+    "en_definition": "a triangle with all three sides equal in length and all angles equal to 60°",
+    "csca_example": "Explain why every angle in an equilateral triangle measures 60°."
+  },
+  {
+    "id": "stem:math:0191",
+    "domain": "math",
+    "term": "scalene triangle",
+    "ru_translation": "разносторонний треугольник",
+    "symbol": null,
+    "en_definition": "a triangle in which all three sides have different lengths",
+    "csca_example": "Classify a triangle with sides 5 cm, 7 cm, and 9 cm as scalene."
+  },
+  {
+    "id": "stem:math:0192",
+    "domain": "math",
+    "term": "congruent",
+    "ru_translation": "конгруэнтный (равный)",
+    "symbol": "≅",
+    "en_definition": "having exactly the same size and shape",
+    "csca_example": "State which two triangles in the diagram are congruent and give a reason."
+  },
+  {
+    "id": "stem:math:0193",
+    "domain": "math",
+    "term": "similar figures",
+    "ru_translation": "подобные фигуры",
+    "symbol": "~",
+    "en_definition": "figures that have the same shape but not necessarily the same size",
+    "csca_example": "Show that triangle ABC and triangle DEF are similar figures."
+  },
+  {
+    "id": "stem:math:0194",
+    "domain": "math",
+    "term": "scale factor",
+    "ru_translation": "коэффициент подобия (масштаба)",
+    "symbol": "k",
+    "en_definition": "the ratio by which a figure is enlarged or reduced to create a similar figure",
+    "csca_example": "Find the scale factor used to enlarge triangle ABC to triangle A'B'C'."
+  },
+  {
+    "id": "stem:math:0195",
+    "domain": "math",
+    "term": "enlargement",
+    "ru_translation": "гомотетия (увеличение)",
+    "symbol": null,
+    "en_definition": "a transformation that changes the size of a shape while keeping it in proportion",
+    "csca_example": "Draw the image of triangle ABC after an enlargement with scale factor 2."
+  },
+  {
+    "id": "stem:math:0196",
+    "domain": "math",
+    "term": "rotation",
+    "ru_translation": "поворот",
+    "symbol": null,
+    "en_definition": "a transformation that turns a shape around a fixed point by a given angle",
+    "csca_example": "Describe the rotation that maps shape A onto shape B."
+  },
+  {
+    "id": "stem:math:0197",
+    "domain": "math",
+    "term": "translation (geometry)",
+    "ru_translation": "параллельный перенос (геометрия)",
+    "symbol": null,
+    "en_definition": "a transformation that slides every point of a shape the same distance in the same direction",
+    "csca_example": "Describe the translation that maps point A(1, 2) onto point A'(4, 6)."
+  },
+  {
+    "id": "stem:math:0198",
+    "domain": "math",
+    "term": "polygon",
+    "ru_translation": "многоугольник",
+    "symbol": null,
+    "en_definition": "a closed two-dimensional shape made up of straight line sides",
+    "csca_example": "Calculate the sum of the interior angles of a regular polygon with 8 sides."
+  },
+  {
+    "id": "stem:math:0199",
+    "domain": "math",
+    "term": "regular polygon",
+    "ru_translation": "правильный многоугольник",
+    "symbol": null,
+    "en_definition": "a polygon in which all sides and all angles are equal",
+    "csca_example": "Find the size of each interior angle in a regular hexagon."
+  },
+  {
+    "id": "stem:math:0200",
+    "domain": "math",
+    "term": "interior angle",
+    "ru_translation": "внутренний угол",
+    "symbol": null,
+    "en_definition": "an angle formed inside a polygon between two adjacent sides",
+    "csca_example": "Calculate the interior angle of a regular pentagon."
+  },
+  {
+    "id": "stem:math:0201",
+    "domain": "math",
+    "term": "exterior angle",
+    "ru_translation": "внешний угол",
+    "symbol": null,
+    "en_definition": "an angle formed outside a polygon between one side and the extension of an adjacent side",
+    "csca_example": "Calculate the exterior angle of a regular decagon."
+  },
+  {
+    "id": "stem:math:0202",
+    "domain": "math",
+    "term": "parallelogram",
+    "ru_translation": "параллелограмм",
+    "symbol": null,
+    "en_definition": "a quadrilateral with two pairs of parallel sides",
+    "csca_example": "Find the area of a parallelogram with base 8 cm and height 5 cm."
+  },
+  {
+    "id": "stem:math:0203",
+    "domain": "math",
+    "term": "rhombus",
+    "ru_translation": "ромб",
+    "symbol": null,
+    "en_definition": "a quadrilateral with four equal sides and opposite angles equal",
+    "csca_example": "Show that the diagonals of a rhombus bisect each other at right angles."
+  },
+  {
+    "id": "stem:math:0204",
+    "domain": "math",
+    "term": "trapezium",
+    "ru_translation": "трапеция",
+    "symbol": null,
+    "en_definition": "a quadrilateral with exactly one pair of parallel sides",
+    "csca_example": "Find the area of a trapezium with parallel sides 6 cm and 10 cm and height 4 cm."
+  },
+  {
+    "id": "stem:math:0205",
+    "domain": "math",
+    "term": "chord",
+    "ru_translation": "хорда",
+    "symbol": null,
+    "en_definition": "a straight line segment joining two points on the circumference of a circle",
+    "csca_example": "Find the length of a chord that is 5 cm from the centre of a circle with radius 13 cm."
+  },
+  {
+    "id": "stem:math:0206",
+    "domain": "math",
+    "term": "arc",
+    "ru_translation": "дуга",
+    "symbol": null,
+    "en_definition": "a part of the circumference of a circle",
+    "csca_example": "Calculate the length of an arc that subtends an angle of 60° at the centre of a circle with radius 10 cm."
+  },
+  {
+    "id": "stem:math:0207",
+    "domain": "math",
+    "term": "sector",
+    "ru_translation": "сектор",
+    "symbol": null,
+    "en_definition": "a region of a circle enclosed by two radii and an arc",
+    "csca_example": "Find the area of a sector with a central angle of 90° and radius 6 cm."
+  },
+  {
+    "id": "stem:math:0208",
+    "domain": "math",
+    "term": "segment (circle)",
+    "ru_translation": "сегмент круга",
+    "symbol": null,
+    "en_definition": "a region of a circle enclosed by a chord and an arc",
+    "csca_example": "Find the area of the minor segment cut off by a chord in a circle of radius 8 cm."
+  },
+  {
+    "id": "stem:math:0209",
+    "domain": "math",
+    "term": "tangent to a circle",
+    "ru_translation": "касательная к окружности",
+    "symbol": null,
+    "en_definition": "a straight line that touches a circle at exactly one point without crossing it",
+    "csca_example": "Show that the tangent to a circle is perpendicular to the radius at the point of contact."
+  },
+  {
+    "id": "stem:math:0210",
+    "domain": "math",
+    "term": "central angle",
+    "ru_translation": "центральный угол",
+    "symbol": null,
+    "en_definition": "an angle formed at the centre of a circle by two radii",
+    "csca_example": "Find the central angle subtended by an arc of length 8 cm in a circle of radius 5 cm."
+  },
+  {
+    "id": "stem:math:0211",
+    "domain": "math",
+    "term": "cylinder",
+    "ru_translation": "цилиндр",
+    "symbol": null,
+    "en_definition": "a three-dimensional solid with two parallel circular bases connected by a curved surface",
+    "csca_example": "Calculate the volume of a cylinder with radius 4 cm and height 10 cm."
+  },
+  {
+    "id": "stem:math:0212",
+    "domain": "math",
+    "term": "cone",
+    "ru_translation": "конус",
+    "symbol": null,
+    "en_definition": "a three-dimensional solid with a circular base that tapers smoothly to a single point",
+    "csca_example": "Calculate the volume of a cone with radius 3 cm and height 9 cm."
+  },
+  {
+    "id": "stem:math:0213",
+    "domain": "math",
+    "term": "sphere",
+    "ru_translation": "сфера (шар)",
+    "symbol": null,
+    "en_definition": "a perfectly round three-dimensional solid where every point on the surface is equidistant from the centre",
+    "csca_example": "Calculate the surface area of a sphere with radius 7 cm."
+  },
+  {
+    "id": "stem:math:0214",
+    "domain": "math",
+    "term": "prism",
+    "ru_translation": "призма",
+    "symbol": null,
+    "en_definition": "a three-dimensional solid with two identical parallel end faces connected by flat rectangular faces",
+    "csca_example": "Calculate the volume of a triangular prism with cross-sectional area 12 cm² and length 20 cm."
+  },
+  {
+    "id": "stem:math:0215",
+    "domain": "math",
+    "term": "pyramid",
+    "ru_translation": "пирамида",
+    "symbol": null,
+    "en_definition": "a three-dimensional solid with a polygonal base and triangular faces that meet at a single apex",
+    "csca_example": "Calculate the volume of a square-based pyramid with base 6 cm and height 8 cm."
+  },
+  {
+    "id": "stem:math:0216",
+    "domain": "math",
+    "term": "net (solid)",
+    "ru_translation": "развёртка (тела)",
+    "symbol": null,
+    "en_definition": "a two-dimensional shape that can be folded to form a three-dimensional solid",
+    "csca_example": "Draw the net of a cube with side length 4 cm."
+  },
+  {
+    "id": "stem:math:0217",
+    "domain": "math",
+    "term": "cross-section",
+    "ru_translation": "поперечное сечение",
+    "symbol": null,
+    "en_definition": "the shape formed when a solid is cut through by a plane",
+    "csca_example": "Describe the cross-section formed when a cylinder is cut parallel to its base."
+  },
+  {
+    "id": "stem:math:0218",
+    "domain": "math",
+    "term": "surface area",
+    "ru_translation": "площадь поверхности",
+    "symbol": null,
+    "en_definition": "the total area of all the faces or curved surfaces of a three-dimensional solid",
+    "csca_example": "Calculate the total surface area of a closed cylinder with radius 5 cm and height 12 cm."
+  },
+  {
+    "id": "stem:math:0219",
+    "domain": "math",
+    "term": "capacity",
+    "ru_translation": "вместимость (объём)",
+    "symbol": null,
+    "en_definition": "the amount of liquid or substance a container can hold, usually measured in litres",
+    "csca_example": "Find the capacity in litres of a tank shaped like a cuboid measuring 2 m by 1 m by 0.5 m."
+  },
+  {
+    "id": "stem:math:0220",
+    "domain": "math",
+    "term": "midpoint",
+    "ru_translation": "середина отрезка",
+    "symbol": null,
+    "en_definition": "the point exactly halfway between two given points on a line segment",
+    "csca_example": "Find the midpoint of the line segment joining (2, 3) and (8, 7)."
+  },
+  {
+    "id": "stem:math:0221",
+    "domain": "math",
+    "term": "distance formula",
+    "ru_translation": "формула расстояния между точками",
+    "symbol": "d = √((x₂-x₁)² + (y₂-y₁)²)",
+    "en_definition": "a formula used to calculate the straight-line distance between two points on a coordinate plane",
+    "csca_example": "Use the distance formula to find the length of the line joining (1, 2) and (4, 6)."
+  },
+  {
+    "id": "stem:math:0222",
+    "domain": "math",
+    "term": "equation of a line",
+    "ru_translation": "уравнение прямой",
+    "symbol": "y = mx + c",
+    "en_definition": "an algebraic equation that describes every point lying on a straight line",
+    "csca_example": "Find the equation of a line with gradient 3 that passes through the point (0, -2)."
+  },
+  {
+    "id": "stem:math:0223",
+    "domain": "math",
+    "term": "y-intercept form",
+    "ru_translation": "уравнение прямой через отрезок на оси y",
+    "symbol": "y = mx + c",
+    "en_definition": "the form of a linear equation that directly shows the gradient and the point where the line crosses the y-axis",
+    "csca_example": "Write the equation of the line 2y - 4x = 6 in y-intercept form."
+  },
+  {
+    "id": "stem:math:0224",
+    "domain": "math",
+    "term": "altitude (triangle)",
+    "ru_translation": "высота треугольника",
+    "symbol": null,
+    "en_definition": "a line segment from a vertex of a triangle perpendicular to the opposite side",
+    "csca_example": "Draw the altitude from vertex A to side BC in triangle ABC."
+  },
+  {
+    "id": "stem:math:0225",
+    "domain": "math",
+    "term": "centroid",
+    "ru_translation": "центроид (центр тяжести)",
+    "symbol": null,
+    "en_definition": "the point where the three medians of a triangle intersect",
+    "csca_example": "Find the centroid of a triangle with vertices at (0,0), (6,0), and (3,9)."
+  },
+  {
+    "id": "stem:math:0226",
+    "domain": "math",
+    "term": "angle of elevation",
+    "ru_translation": "угол возвышения",
+    "symbol": null,
+    "en_definition": "the angle measured upward from the horizontal to a line of sight looking up at an object",
+    "csca_example": "Find the height of a tower given an angle of elevation of 40° measured from 50 m away."
+  },
+  {
+    "id": "stem:math:0227",
+    "domain": "math",
+    "term": "angle of depression",
+    "ru_translation": "угол склонения",
+    "symbol": null,
+    "en_definition": "the angle measured downward from the horizontal to a line of sight looking down at an object",
+    "csca_example": "Calculate the distance to a boat given an angle of depression of 25° from a cliff 80 m high."
+  },
+  {
+    "id": "stem:math:0228",
+    "domain": "math",
+    "term": "opposite side",
+    "ru_translation": "противолежащий катет",
+    "symbol": null,
+    "en_definition": "in a right triangle, the side directly across from a given angle",
+    "csca_example": "Identify the opposite side to angle θ in the right triangle."
+  },
+  {
+    "id": "stem:math:0229",
+    "domain": "math",
+    "term": "adjacent side",
+    "ru_translation": "прилежащий катет",
+    "symbol": null,
+    "en_definition": "in a right triangle, the side next to a given angle that is not the hypotenuse",
+    "csca_example": "Identify the adjacent side to angle θ in the right triangle."
+  },
+  {
+    "id": "stem:math:0230",
+    "domain": "math",
+    "term": "sine rule",
+    "ru_translation": "теорема синусов",
+    "symbol": "a/sinA = b/sinB = c/sinC",
+    "en_definition": "a formula relating the sides of any triangle to the sines of its opposite angles",
+    "csca_example": "Use the sine rule to find side b, given angle A = 40°, angle B = 60°, and side a = 8 cm."
+  },
+  {
+    "id": "stem:math:0231",
+    "domain": "math",
+    "term": "cosine rule",
+    "ru_translation": "теорема косинусов",
+    "symbol": "c² = a² + b² - 2ab·cosC",
+    "en_definition": "a formula relating the sides of any triangle to the cosine of one of its angles",
+    "csca_example": "Use the cosine rule to find the third side of a triangle with sides 7 cm and 9 cm and an included angle of 55°."
+  },
+  {
+    "id": "stem:math:0232",
+    "domain": "math",
+    "term": "unit circle",
+    "ru_translation": "единичная окружность",
+    "symbol": null,
+    "en_definition": "a circle with radius 1 centred at the origin, used to define trigonometric functions for any angle",
+    "csca_example": "Use the unit circle to find the exact value of sin(150°)."
+  },
+  {
+    "id": "stem:math:0233",
+    "domain": "math",
+    "term": "trigonometric ratio",
+    "ru_translation": "тригонометрическое отношение",
+    "symbol": null,
+    "en_definition": "a ratio of two sides of a right triangle associated with one of its acute angles",
+    "csca_example": "State the three basic trigonometric ratios for angle θ in a right triangle."
+  },
+  {
+    "id": "stem:math:0234",
+    "domain": "math",
+    "term": "inverse trigonometric function",
+    "ru_translation": "обратная тригонометрическая функция",
+    "symbol": "sin⁻¹, cos⁻¹, tan⁻¹",
+    "en_definition": "a function used to find an angle when the value of a trigonometric ratio is known",
+    "csca_example": "Use an inverse trigonometric function to find angle θ given that sinθ = 0.5."
+  },
+  {
+    "id": "stem:math:0235",
+    "domain": "math",
+    "term": "period (trigonometry)",
+    "ru_translation": "период (тригонометрия)",
+    "symbol": null,
+    "en_definition": "the length of one complete cycle of a periodic trigonometric graph",
+    "csca_example": "State the period of the function y = sin(2x)."
+  },
+  {
+    "id": "stem:math:0236",
+    "domain": "math",
+    "term": "rate of change",
+    "ru_translation": "скорость изменения",
+    "symbol": null,
+    "en_definition": "a measure of how quickly one quantity changes with respect to another",
+    "csca_example": "Find the average rate of change of the function f(x) = x² between x = 1 and x = 3."
+  },
+  {
+    "id": "stem:math:0237",
+    "domain": "math",
+    "term": "tangent line",
+    "ru_translation": "касательная прямая",
+    "symbol": null,
+    "en_definition": "a straight line that touches a curve at a single point and has the same gradient as the curve there",
+    "csca_example": "Find the equation of the tangent line to the curve y = x² at the point (2, 4)."
+  },
+  {
+    "id": "stem:math:0238",
+    "domain": "math",
+    "term": "differentiation",
+    "ru_translation": "дифференцирование",
+    "symbol": "d/dx",
+    "en_definition": "the process of finding the derivative of a function",
+    "csca_example": "Use differentiation to find dy/dx when y = 3x² - 5x + 2."
+  },
+  {
+    "id": "stem:math:0239",
+    "domain": "math",
+    "term": "integration",
+    "ru_translation": "интегрирование",
+    "symbol": "∫",
+    "en_definition": "the process of finding the integral of a function, often used to calculate area under a curve",
+    "csca_example": "Use integration to find the area under the curve y = x² between x = 0 and x = 3."
+  },
+  {
+    "id": "stem:math:0240",
+    "domain": "math",
+    "term": "definite integral",
+    "ru_translation": "определённый интеграл",
+    "symbol": "∫ₐᵇ",
+    "en_definition": "an integral evaluated between two limits, giving a numerical value equal to the area under a curve",
+    "csca_example": "Evaluate the definite integral of x² from x = 0 to x = 2."
+  },
+  {
+    "id": "stem:math:0241",
+    "domain": "math",
+    "term": "indefinite integral",
+    "ru_translation": "неопределённый интеграл",
+    "symbol": "∫ f(x)dx",
+    "en_definition": "an integral without limits, giving a general antiderivative plus a constant of integration",
+    "csca_example": "Find the indefinite integral of f(x) = 6x²."
+  },
+  {
+    "id": "stem:math:0242",
+    "domain": "math",
+    "term": "constant of integration",
+    "ru_translation": "постоянная интегрирования",
+    "symbol": "C",
+    "en_definition": "the arbitrary constant added when finding an indefinite integral",
+    "csca_example": "Explain why a constant of integration is needed when integrating 2x."
+  },
+  {
+    "id": "stem:math:0243",
+    "domain": "math",
+    "term": "stationary point",
+    "ru_translation": "стационарная точка",
+    "symbol": null,
+    "en_definition": "a point on a curve where the gradient of the tangent is zero",
+    "csca_example": "Find the stationary point of the curve y = x² - 4x + 3."
+  },
+  {
+    "id": "stem:math:0244",
+    "domain": "math",
+    "term": "local maximum",
+    "ru_translation": "локальный максимум",
+    "symbol": null,
+    "en_definition": "a point on a curve that is higher than the points immediately around it",
+    "csca_example": "Show that the curve y = -x² + 6x has a local maximum at x = 3."
+  },
+  {
+    "id": "stem:math:0245",
+    "domain": "math",
+    "term": "local minimum",
+    "ru_translation": "локальный минимум",
+    "symbol": null,
+    "en_definition": "a point on a curve that is lower than the points immediately around it",
+    "csca_example": "Show that the curve y = x² - 2x has a local minimum at x = 1."
+  },
+  {
+    "id": "stem:math:0246",
+    "domain": "math",
+    "term": "second derivative",
+    "ru_translation": "вторая производная",
+    "symbol": "d²y/dx²",
+    "en_definition": "the derivative of the first derivative, often used to test whether a stationary point is a maximum or minimum",
+    "csca_example": "Find the second derivative of y = x⁴ - 3x² to classify the stationary points."
+  },
+  {
+    "id": "stem:math:0247",
+    "domain": "math",
+    "term": "chain rule",
+    "ru_translation": "правило дифференцирования сложной функции",
+    "symbol": null,
+    "en_definition": "a rule for differentiating a composite function by multiplying the derivatives of its parts",
+    "csca_example": "Use the chain rule to differentiate y = (3x + 1)⁵."
+  },
+  {
+    "id": "stem:math:0248",
+    "domain": "math",
+    "term": "product rule",
+    "ru_translation": "правило дифференцирования произведения",
+    "symbol": null,
+    "en_definition": "a rule for differentiating the product of two functions",
+    "csca_example": "Use the product rule to differentiate y = x² · sin(x)."
+  },
+  {
+    "id": "stem:math:0249",
+    "domain": "math",
+    "term": "quotient rule",
+    "ru_translation": "правило дифференцирования частного",
+    "symbol": null,
+    "en_definition": "a rule for differentiating the quotient of two functions",
+    "csca_example": "Use the quotient rule to differentiate y = x / (x + 1)."
+  },
+  {
+    "id": "stem:math:0250",
+    "domain": "math",
+    "term": "limit notation",
+    "ru_translation": "запись предела",
+    "symbol": "lim",
+    "en_definition": "the mathematical symbol used to express the value a function approaches as the input approaches some value",
+    "csca_example": "Write the limit notation for the value that (x² - 1)/(x - 1) approaches as x approaches 1."
+  },
+  {
+    "id": "stem:math:0251",
+    "domain": "math",
+    "term": "approaches",
+    "ru_translation": "стремится к",
+    "symbol": "→",
+    "en_definition": "moves closer and closer to a particular value without necessarily reaching it",
+    "csca_example": "Describe what happens to 1/x as x approaches infinity."
+  },
+  {
+    "id": "stem:math:0252",
+    "domain": "math",
+    "term": "instantaneous rate",
+    "ru_translation": "мгновенная скорость изменения",
+    "symbol": null,
+    "en_definition": "the rate of change of a quantity at a single exact instant, found using a derivative",
+    "csca_example": "Find the instantaneous rate of change of s(t) = t² + 3t at t = 2."
+  },
+  {
+    "id": "stem:math:0253",
+    "domain": "math",
+    "term": "area under a curve",
+    "ru_translation": "площадь под кривой",
+    "symbol": null,
+    "en_definition": "the region enclosed between a curve and the x-axis, calculated using integration",
+    "csca_example": "Use integration to find the area under a curve y = x + 1 between x = 0 and x = 4."
+  },
+  {
+    "id": "stem:math:0254",
+    "domain": "math",
+    "term": "element (set)",
+    "ru_translation": "элемент множества",
+    "symbol": "∈",
+    "en_definition": "an object or member that belongs to a set",
+    "csca_example": "State whether 5 is an element of the set {2, 4, 6, 8}."
+  },
+  {
+    "id": "stem:math:0255",
+    "domain": "math",
+    "term": "empty set",
+    "ru_translation": "пустое множество",
+    "symbol": "∅",
+    "en_definition": "a set that contains no elements",
+    "csca_example": "Explain why the intersection of {1, 2} and {3, 4} is the empty set."
+  },
+  {
+    "id": "stem:math:0256",
+    "domain": "math",
+    "term": "universal set",
+    "ru_translation": "универсальное множество",
+    "symbol": "U",
+    "en_definition": "the set that contains all the elements being considered in a particular context",
+    "csca_example": "Given the universal set of integers from 1 to 10, find the complement of {2, 4, 6}."
+  },
+  {
+    "id": "stem:math:0257",
+    "domain": "math",
+    "term": "complement (set)",
+    "ru_translation": "дополнение множества",
+    "symbol": "A'",
+    "en_definition": "all the elements in the universal set that are not in a given set",
+    "csca_example": "Find the complement of the set of even numbers within the universal set {1, 2, ..., 10}."
+  },
+  {
+    "id": "stem:math:0258",
+    "domain": "math",
+    "term": "Venn diagram",
+    "ru_translation": "диаграмма Венна",
+    "symbol": null,
+    "en_definition": "a diagram using overlapping circles to show the relationships between different sets",
+    "csca_example": "Draw a Venn diagram to represent the sets A = {1, 2, 3} and B = {2, 3, 4}."
+  },
+  {
+    "id": "stem:math:0259",
+    "domain": "math",
+    "term": "disjoint sets",
+    "ru_translation": "непересекающиеся множества",
+    "symbol": null,
+    "en_definition": "two sets that have no elements in common",
+    "csca_example": "Show that the sets {1, 3, 5} and {2, 4, 6} are disjoint sets."
+  },
+  {
+    "id": "stem:math:0260",
+    "domain": "math",
+    "term": "logical statement",
+    "ru_translation": "логическое высказывание",
+    "symbol": null,
+    "en_definition": "a sentence that is either true or false but not both",
+    "csca_example": "Determine whether the logical statement 'all squares are rectangles' is true or false."
+  },
+  {
+    "id": "stem:math:0261",
+    "domain": "math",
+    "term": "converse",
+    "ru_translation": "обратное утверждение",
+    "symbol": null,
+    "en_definition": "a statement formed by reversing the hypothesis and conclusion of a conditional statement",
+    "csca_example": "Write the converse of the statement 'if a shape is a square, then it has four equal sides.'"
+  },
+  {
+    "id": "stem:math:0262",
+    "domain": "math",
+    "term": "if and only if",
+    "ru_translation": "тогда и только тогда",
+    "symbol": "iff",
+    "en_definition": "a phrase showing that two statements are logically equivalent, each implying the other",
+    "csca_example": "Explain the meaning of 'a number is even if and only if it is divisible by 2.'"
+  },
+  {
+    "id": "stem:math:0263",
+    "domain": "math",
+    "term": "counterexample",
+    "ru_translation": "контрпример",
+    "symbol": null,
+    "en_definition": "an example that disproves a general statement",
+    "csca_example": "Give a counterexample to show that the statement 'all prime numbers are odd' is false."
+  },
+  {
+    "id": "stem:math:0264",
+    "domain": "math",
+    "term": "sample space",
+    "ru_translation": "пространство элементарных событий",
+    "symbol": "S",
+    "en_definition": "the set of all possible outcomes of an experiment",
+    "csca_example": "List the sample space when a fair coin is tossed twice."
+  },
+  {
+    "id": "stem:math:0265",
+    "domain": "math",
+    "term": "event (probability)",
+    "ru_translation": "событие (в теории вероятностей)",
+    "symbol": null,
+    "en_definition": "a subset of the sample space representing one or more outcomes of interest",
+    "csca_example": "Define the event of rolling an even number on a six-sided die."
+  },
+  {
+    "id": "stem:math:0266",
+    "domain": "math",
+    "term": "mutually exclusive events",
+    "ru_translation": "несовместные события",
+    "symbol": null,
+    "en_definition": "events that cannot happen at the same time",
+    "csca_example": "Explain why rolling a 3 and rolling a 5 on a single die are mutually exclusive events."
+  },
+  {
+    "id": "stem:math:0267",
+    "domain": "math",
+    "term": "independent events",
+    "ru_translation": "независимые события",
+    "symbol": null,
+    "en_definition": "events in which the outcome of one does not affect the probability of the other",
+    "csca_example": "Show that tossing a coin and rolling a die are independent events."
+  },
+  {
+    "id": "stem:math:0268",
+    "domain": "math",
+    "term": "dependent events",
+    "ru_translation": "зависимые события",
+    "symbol": null,
+    "en_definition": "events in which the outcome of one affects the probability of the other",
+    "csca_example": "Explain why drawing two cards without replacement produces dependent events."
+  },
+  {
+    "id": "stem:math:0269",
+    "domain": "math",
+    "term": "conditional probability",
+    "ru_translation": "условная вероятность",
+    "symbol": "P(A|B)",
+    "en_definition": "the probability of an event occurring given that another event has already occurred",
+    "csca_example": "Find the conditional probability P(A|B) given P(A and B) = 0.2 and P(B) = 0.5."
+  },
+  {
+    "id": "stem:math:0270",
+    "domain": "math",
+    "term": "tree diagram",
+    "ru_translation": "дерево вероятностей",
+    "symbol": null,
+    "en_definition": "a branching diagram used to show all possible outcomes of a sequence of events and their probabilities",
+    "csca_example": "Draw a tree diagram to show the outcomes of tossing a coin three times."
+  },
+  {
+    "id": "stem:math:0271",
+    "domain": "math",
+    "term": "combined events",
+    "ru_translation": "комбинированные события",
+    "symbol": null,
+    "en_definition": "events made by combining two or more simple events, often using 'and' or 'or'",
+    "csca_example": "Find the probability of a combined event: rolling a 6 and then tossing heads."
+  },
+  {
+    "id": "stem:math:0272",
+    "domain": "math",
+    "term": "expected value",
+    "ru_translation": "математическое ожидание",
+    "symbol": "E(X)",
+    "en_definition": "the average outcome you would expect from a random experiment if it were repeated many times",
+    "csca_example": "Calculate the expected value of the score when rolling a fair six-sided die."
+  },
+  {
+    "id": "stem:math:0273",
+    "domain": "math",
+    "term": "relative frequency",
+    "ru_translation": "относительная частота",
+    "symbol": null,
+    "en_definition": "the number of times an event occurs divided by the total number of trials",
+    "csca_example": "Use the results of 50 trials to estimate the relative frequency of rolling a six."
+  },
+  {
+    "id": "stem:math:0274",
+    "domain": "math",
+    "term": "frequency table",
+    "ru_translation": "таблица частот",
+    "symbol": null,
+    "en_definition": "a table that shows how often each value or category occurs in a data set",
+    "csca_example": "Construct a frequency table for the given set of test scores."
+  },
+  {
+    "id": "stem:math:0275",
+    "domain": "math",
+    "term": "cumulative frequency",
+    "ru_translation": "накопленная частота",
+    "symbol": null,
+    "en_definition": "the running total of frequencies up to and including a particular class in a data set",
+    "csca_example": "Draw a cumulative frequency graph for the grouped data."
+  },
+  {
+    "id": "stem:math:0276",
+    "domain": "math",
+    "term": "histogram",
+    "ru_translation": "гистограмма",
+    "symbol": null,
+    "en_definition": "a bar chart representing grouped continuous data, where bar area represents frequency",
+    "csca_example": "Draw a histogram to represent the distribution of heights in the sample."
+  },
+  {
+    "id": "stem:math:0277",
+    "domain": "math",
+    "term": "box plot",
+    "ru_translation": "диаграмма размаха (ящик с усами)",
+    "symbol": null,
+    "en_definition": "a diagram that summarizes a data set using the minimum, quartiles, and maximum values",
+    "csca_example": "Draw a box plot to represent the given exam score data."
+  },
+  {
+    "id": "stem:math:0278",
+    "domain": "math",
+    "term": "interquartile range",
+    "ru_translation": "межквартильный размах",
+    "symbol": "IQR",
+    "en_definition": "the difference between the upper quartile and the lower quartile of a data set, showing the spread of the middle half",
+    "csca_example": "Calculate the interquartile range of the data set 4, 7, 9, 12, 15, 18, 21."
+  },
+  {
+    "id": "stem:math:0279",
+    "domain": "math",
+    "term": "quartile",
+    "ru_translation": "квартиль",
+    "symbol": "Q1, Q2, Q3",
+    "en_definition": "one of three values that divide an ordered data set into four equal parts",
+    "csca_example": "Find the lower quartile of the data set 3, 5, 7, 9, 11, 13, 15."
+  },
+  {
+    "id": "stem:math:0280",
+    "domain": "math",
+    "term": "outlier",
+    "ru_translation": "выброс (аномальное значение)",
+    "symbol": null,
+    "en_definition": "a data value that lies far outside the general pattern of the rest of the data set",
+    "csca_example": "Identify the outlier in the data set 12, 14, 13, 15, 47, 14."
+  },
+  {
+    "id": "stem:math:0281",
+    "domain": "math",
+    "term": "normal distribution",
+    "ru_translation": "нормальное распределение",
+    "symbol": null,
+    "en_definition": "a symmetrical, bell-shaped distribution of data centred on the mean",
+    "csca_example": "Explain why heights in a large population often follow a normal distribution."
+  },
+  {
+    "id": "stem:math:0282",
+    "domain": "math",
+    "term": "scatter plot",
+    "ru_translation": "диаграмма рассеяния",
+    "symbol": null,
+    "en_definition": "a graph that uses points to show the relationship between two sets of data",
+    "csca_example": "Draw a scatter plot to show the relationship between hours studied and test score."
+  },
+  {
+    "id": "stem:math:0283",
+    "domain": "math",
+    "term": "correlation",
+    "ru_translation": "корреляция",
+    "symbol": null,
+    "en_definition": "a statistical relationship showing how closely two variables are associated",
+    "csca_example": "Describe the correlation shown in the scatter plot of height against weight."
+  },
+  {
+    "id": "stem:math:0284",
+    "domain": "math",
+    "term": "line of best fit",
+    "ru_translation": "линия наилучшего соответствия",
+    "symbol": null,
+    "en_definition": "a straight line drawn through a scatter plot that best represents the trend of the data",
+    "csca_example": "Draw a line of best fit through the data points on the scatter plot."
+  },
+  {
+    "id": "stem:math:0285",
+    "domain": "math",
+    "term": "random sample",
+    "ru_translation": "случайная выборка",
+    "symbol": null,
+    "en_definition": "a sample chosen from a population in a way that gives every member an equal chance of being selected",
+    "csca_example": "Explain how to select a random sample of 20 students from a school of 500."
+  },
+  {
+    "id": "stem:math:0286",
+    "domain": "math",
+    "term": "population (statistics)",
+    "ru_translation": "генеральная совокупность",
+    "symbol": null,
+    "en_definition": "the entire group of individuals or items being studied in a statistical investigation",
+    "csca_example": "Identify the population being studied in a survey about student commuting habits."
+  },
+  {
+    "id": "stem:math:0287",
+    "domain": "math",
+    "term": "evaluate",
+    "ru_translation": "вычислить",
+    "symbol": null,
+    "en_definition": "to work out the numerical value of an expression",
+    "csca_example": "Evaluate the expression 3x² - 2x + 1 when x = 4."
+  },
+  {
+    "id": "stem:math:0288",
+    "domain": "math",
+    "term": "state",
+    "ru_translation": "указать / назвать",
+    "symbol": null,
+    "en_definition": "to write down a fact, value, or result directly without needing to show working",
+    "csca_example": "State the value of the y-intercept shown on the graph."
+  },
+  {
+    "id": "stem:math:0289",
+    "domain": "math",
+    "term": "verify",
+    "ru_translation": "проверить (доказать выполнение)",
+    "symbol": null,
+    "en_definition": "to check that a given statement or solution is correct by substitution or calculation",
+    "csca_example": "Verify that x = 3 is a solution to the equation 2x + 1 = 7."
+  },
+  {
+    "id": "stem:math:0290",
+    "domain": "math",
+    "term": "hence",
+    "ru_translation": "следовательно",
+    "symbol": null,
+    "en_definition": "a word used to show that the next step must use a previous result",
+    "csca_example": "Hence, or otherwise, find the value of x in the equation."
+  },
+  {
+    "id": "stem:math:0291",
+    "domain": "math",
+    "term": "show that",
+    "ru_translation": "показать, что",
+    "symbol": null,
+    "en_definition": "an instruction to prove a given statement is true using logical steps or calculation",
+    "csca_example": "Show that the sum of two consecutive odd numbers is always even."
+  },
+  {
+    "id": "stem:math:0292",
+    "domain": "math",
+    "term": "prove",
+    "ru_translation": "доказать",
+    "symbol": null,
+    "en_definition": "to establish the truth of a mathematical statement using a logical chain of reasoning",
+    "csca_example": "Prove that the angles in a triangle sum to 180°."
+  },
+  {
+    "id": "stem:math:0293",
+    "domain": "math",
+    "term": "deduce",
+    "ru_translation": "вывести (заключить)",
+    "symbol": null,
+    "en_definition": "to reach a conclusion using earlier results without repeating the full working",
+    "csca_example": "Deduce the value of cos(60°) from the given identity."
+  },
+  {
+    "id": "stem:math:0294",
+    "domain": "math",
+    "term": "determine",
+    "ru_translation": "определить",
+    "symbol": null,
+    "en_definition": "to find a specific value, quantity, or property through calculation or reasoning",
+    "csca_example": "Determine whether the function f(x) = x² is even, odd, or neither."
+  },
+  {
+    "id": "stem:math:0295",
+    "domain": "math",
+    "term": "justify",
+    "ru_translation": "обосновать",
+    "symbol": null,
+    "en_definition": "to give a valid reason or explanation supporting an answer or conclusion",
+    "csca_example": "Justify your answer using the properties of parallel lines."
+  },
+  {
+    "id": "stem:math:0296",
+    "domain": "math",
+    "term": "with respect to",
+    "ru_translation": "по отношению к (переменной)",
+    "symbol": null,
+    "en_definition": "a phrase specifying which variable is being used as the basis of a calculation, especially in differentiation",
+    "csca_example": "Differentiate y = x³ + 2x with respect to x."
+  },
+  {
+    "id": "stem:math:0297",
+    "domain": "math",
+    "term": "correct to",
+    "ru_translation": "с точностью до",
+    "symbol": null,
+    "en_definition": "a phrase specifying the level of precision required for a rounded answer",
+    "csca_example": "Give your answer correct to two decimal places."
+  },
+  {
+    "id": "stem:math:0298",
+    "domain": "math",
+    "term": "leave your answer in terms of",
+    "ru_translation": "оставьте ответ в виде выражения через",
+    "symbol": null,
+    "en_definition": "an instruction to give an exact answer using a symbol such as π rather than a decimal approximation",
+    "csca_example": "Leave your answer in terms of π for the area of the circle."
+  },
+  {
+    "id": "stem:math:0299",
+    "domain": "math",
+    "term": "write down",
+    "ru_translation": "запишите",
+    "symbol": null,
+    "en_definition": "an instruction to state an answer directly, usually without needing detailed working",
+    "csca_example": "Write down the coordinates of the turning point of the graph."
+  },
+  {
+    "id": "stem:math:0300",
+    "domain": "math",
+    "term": "hence find",
+    "ru_translation": "следовательно, найдите",
+    "symbol": null,
+    "en_definition": "an instruction to use a previously found result in order to calculate a further answer",
+    "csca_example": "Hence find the roots of the equation using the factorized form from the previous part."
+  }
+]

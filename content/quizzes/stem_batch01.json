@@ -1,0 +1,134 @@
+[
+  {
+    "id": "quiz:stem:0001",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the bottom number of a fraction called?",
+    "options": ["numerator", "denominator", "dividend", "divisor"],
+    "answer": "denominator",
+    "explanation": "In a fraction like 3/4, the denominator is the number below the line. It shows how many equal parts the whole is divided into.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0002",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Which word means скорость с направлением?",
+    "options": ["speed", "velocity", "acceleration", "momentum"],
+    "answer": "velocity",
+    "explanation": "Velocity is speed in a particular direction. Unlike speed, velocity is a vector quantity that includes direction information.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0003",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "In 'solve for x', what does 'for' mean here?",
+    "options": ["because of", "in favor of", "in order to find", "during"],
+    "answer": "in order to find",
+    "explanation": "'Solve for x' means to find the value of x that makes the equation true. The word 'for' indicates the goal or purpose.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0004",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the top number of a fraction called?",
+    "options": ["numerator", "denominator", "quotient", "remainder"],
+    "answer": "numerator",
+    "explanation": "In the fraction 3/4, the numerator is 3. It shows how many equal parts are being considered.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0005",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Which term describes a number that cannot be divided by 2?",
+    "options": ["even", "odd", "prime", "composite"],
+    "answer": "odd",
+    "explanation": "Odd numbers cannot be divided evenly by 2. Examples are 1, 3, 5, 7, and 9.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0006",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What does 'coefficient' mean in the expression 3x?",
+    "options": ["the variable", "the number multiplied by the variable", "the operation", "the result"],
+    "answer": "the number multiplied by the variable",
+    "explanation": "In 3x, the coefficient is 3. It tells you how many times x is being multiplied.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0007",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What is the force that pulls objects toward the Earth called?",
+    "options": ["magnetism", "friction", "gravity", "tension"],
+    "answer": "gravity",
+    "explanation": "Gravity is the force that attracts objects with mass toward each other. On Earth, it pulls objects downward.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0008",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Which term describes how fast something changes its velocity?",
+    "options": ["speed", "distance", "acceleration", "displacement"],
+    "answer": "acceleration",
+    "explanation": "Acceleration is the rate at which velocity changes over time. It can mean speeding up, slowing down, or changing direction.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0009",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "What does 'parallel' mean in geometry?",
+    "options": ["meeting at a point", "at equal distances and never meeting", "at right angles", "curved in the same direction"],
+    "answer": "at equal distances and never meeting",
+    "explanation": "Parallel lines or planes are always the same distance apart and never cross, no matter how far they extend.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0010",
+    "category": "stem",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "In physics, what is 'momentum'?",
+    "options": ["the rate of motion", "mass times velocity", "force divided by distance", "energy stored in motion"],
+    "answer": "mass times velocity",
+    "explanation": "Momentum is calculated by multiplying an object's mass by its velocity. It describes how difficult it is to stop a moving object.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0011",
+    "category": "stem",
+    "level": "NA",
+    "type": "typing",
+    "prompt": "What is the symbol √ read aloud as?",
+    "options": null,
+    "answer": "square root",
+    "explanation": "The symbol √ is called the radical sign or square root symbol. When you see √9, you read it as 'the square root of 9', which equals 3.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:stem:0012",
+    "category": "stem",
+    "level": "NA",
+    "type": "typing",
+    "prompt": "In mathematics, what do we call a number that shows how many times a base is multiplied by itself?",
+    "options": null,
+    "answer": "exponent",
+    "explanation": "An exponent is a small number written above and to the right of a base number. In 2^3, the exponent is 3, meaning 2 is multiplied by itself 3 times.",
+    "passage_id": null
+  }
+]

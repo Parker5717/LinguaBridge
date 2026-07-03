@@ -1,0 +1,252 @@
+[
+  {
+    "id": "hskg:0016",
+    "title": "The softener 一下 after verbs",
+    "pattern": "Verb + 一下",
+    "en_explanation": "Adding 一下 after a verb softens the tone, suggesting a brief or casual action, similar to saying 'just a bit' or 'for a moment'. It makes requests sound more polite and less demanding.",
+    "example_zh": "请等一下。",
+    "example_pinyin": "Qǐng děng yīxià.",
+    "example_en": "Please wait a moment.",
+    "ru_note": "别 добавляет мягкость просьбе — в русском это ближе к 'подожди-ка', но в китайском это грамматическая конструкция."
+  },
+  {
+    "id": "hskg:0017",
+    "title": "Progressive action with 在/正在",
+    "pattern": "Subject + 在/正在 + Verb + Object + (呢)",
+    "en_explanation": "To show an action is happening right now, place 在 or 正在 before the verb; the particle 呢 can be added at the end for emphasis. This is the standard way to express the progressive aspect in Chinese.",
+    "example_zh": "他正在吃饭呢。",
+    "example_pinyin": "Tā zhèngzài chīfàn ne.",
+    "example_en": "He is eating right now.",
+    "ru_note": "Похоже на русский несовершенный вид, но здесь это отдельный маркер перед глаголом, а не форма самого глагола."
+  },
+  {
+    "id": "hskg:0018",
+    "title": "Double 了 for change up to now",
+    "pattern": "Subject + Verb/Adjective + 了 ... + Time Duration + 了",
+    "en_explanation": "When 了 appears both after the verb and at the end of the sentence, it signals that a situation started in the past and is still continuing, often with a sense of change. It highlights that the state persists up to the present moment.",
+    "example_zh": "我学中文两年了。",
+    "example_pinyin": "Wǒ xué Zhōngwén liǎng nián le.",
+    "example_en": "I have been studying Chinese for two years (and counting).",
+    "ru_note": "Похоже на русский 'уже два года как учу' — подчёркивает, что действие продолжается до сих пор."
+  },
+  {
+    "id": "hskg:0019",
+    "title": "Imminent future with 要...了",
+    "pattern": "Subject + 要 + Verb/Situation + 了",
+    "en_explanation": "The pattern 要...了 expresses that something is about to happen very soon. It signals an imminent change or event, similar to saying 'is about to' in English.",
+    "example_zh": "火车要开了。",
+    "example_pinyin": "Huǒchē yào kāi le.",
+    "example_en": "The train is about to leave.",
+    "ru_note": "Соответствует русскому 'вот-вот' — подчёркивает, что событие произойдёт очень скоро."
+  },
+  {
+    "id": "hskg:0020",
+    "title": "Distinguishing 的, 得, 地",
+    "pattern": "Noun-modifier + 的 + Noun | Verb/Adj + 得 + Complement | Adverb-modifier + 地 + Verb",
+    "en_explanation": "All three particles are pronounced 'de' but serve different grammatical roles: 的 links a modifier to a noun, 得 introduces a complement after a verb or adjective, and 地 links an adverbial modifier to a verb. Choosing the right one depends on what follows.",
+    "example_zh": "他跑得很快，高兴地笑了。",
+    "example_pinyin": "Tā pǎo de hěn kuài, gāoxìng de xiào le.",
+    "example_en": "He runs very fast, and laughed happily.",
+    "ru_note": "Все три звучат одинаково 'de', но пишутся разными иероглифами в зависимости от функции — сложность именно в письме."
+  },
+  {
+    "id": "hskg:0021",
+    "title": "Prohibition with 别",
+    "pattern": "别 + Verb + (Object)",
+    "en_explanation": "别 before a verb means 'don't', forming a direct prohibition or negative command. It is often softened by adding 了 at the end of the sentence.",
+    "example_zh": "别担心了。",
+    "example_pinyin": "Bié dānxīn le.",
+    "example_en": "Don't worry.",
+    "ru_note": "Прямой эквивалент русского повелительного отрицания 'не делай' — ставится перед глаголом."
+  },
+  {
+    "id": "hskg:0022",
+    "title": "Cause and effect with 因为...所以",
+    "pattern": "因为 + Reason, 所以 + Result",
+    "en_explanation": "This paired conjunction connects a cause with its result: 因为 introduces the reason, and 所以 introduces the consequence. Either half can sometimes be omitted, but using both makes the logic clearest.",
+    "example_zh": "因为下雨，所以我没去。",
+    "example_pinyin": "Yīnwèi xiàyǔ, suǒyǐ wǒ méi qù.",
+    "example_en": "Because it rained, I didn't go.",
+    "ru_note": "Как русское 'потому что...поэтому', но в китайском принято использовать оба союза вместе."
+  },
+  {
+    "id": "hskg:0023",
+    "title": "Concession with 虽然...但是",
+    "pattern": "虽然 + Clause A, 但是 + Clause B",
+    "en_explanation": "This paired conjunction expresses contrast: 虽然 introduces a fact, and 但是 introduces a surprising or contrasting result despite that fact. It corresponds to 'although...but' in English.",
+    "example_zh": "虽然很累，但是我很开心。",
+    "example_pinyin": "Suīrán hěn lèi, dànshì wǒ hěn kāixīn.",
+    "example_en": "Although I'm tired, I'm very happy.",
+    "ru_note": "Похоже на русское 'хотя...но', и оба союза обычно сохраняются вместе, в отличие от английского."
+  },
+  {
+    "id": "hskg:0024",
+    "title": "Range with 从...到",
+    "pattern": "从 + Start Point + 到 + End Point",
+    "en_explanation": "从...到 marks the beginning and end of a range, whether in time or space, meaning 'from...to'. It works the same way for locations, dates, or times.",
+    "example_zh": "我从九点到十二点上课。",
+    "example_pinyin": "Wǒ cóng jiǔ diǎn dào shí'èr diǎn shàngkè.",
+    "example_en": "I have class from nine to twelve o'clock.",
+    "ru_note": "Работает как русское 'от...до' и для времени, и для места, что упрощает изучение."
+  },
+  {
+    "id": "hskg:0025",
+    "title": "Distance with 离",
+    "pattern": "Place A + 离 + Place B + Distance/Adjective",
+    "en_explanation": "The preposition 离 expresses the distance between two places, meaning 'from' in the sense of spatial separation. It is followed by an adjective like 远 (far) or 近 (near), or a specific distance.",
+    "example_zh": "学校离我家很近。",
+    "example_pinyin": "Xuéxiào lí wǒ jiā hěn jìn.",
+    "example_en": "The school is very close to my home.",
+    "ru_note": "离 обозначает удалённость, похоже на русское 'от' в 'близко от дома', но используется только для расстояния, не для движения."
+  },
+  {
+    "id": "hskg:0026",
+    "title": "Distributive 每 with measure words",
+    "pattern": "每 + Measure Word + Noun + 都 + Verb",
+    "en_explanation": "每 means 'every' and must be paired with a measure word before the noun; the adverb 都 usually follows to mean 'all' or 'each one without exception'. This combination emphasizes universality.",
+    "example_zh": "每个学生都很努力。",
+    "example_pinyin": "Měi ge xuésheng dōu hěn nǔlì.",
+    "example_en": "Every student works hard.",
+    "ru_note": "每 требует счётного слова, как и обычные числительные, а 都 обязательно подтверждает 'все без исключения'."
+  },
+  {
+    "id": "hskg:0027",
+    "title": "Choice questions with 还是",
+    "pattern": "Option A + 还是 + Option B?",
+    "en_explanation": "还是 is used inside a question to mean 'or', offering a choice between two alternatives that the listener must pick from. It differs from 或者, which is used for 'or' in statements, not questions.",
+    "example_zh": "你要茶还是咖啡？",
+    "example_pinyin": "Nǐ yào chá háishi kāfēi?",
+    "example_en": "Do you want tea or coffee?",
+    "ru_note": "还是 используется только в вопросах выбора, аналог русского 'или' в вопросе 'чай или кофе?'."
+  },
+  {
+    "id": "hskg:0028",
+    "title": "Statement 'or' with 或者",
+    "pattern": "Option A + 或者 + Option B",
+    "en_explanation": "或者 also means 'or', but it is used in statements rather than questions, presenting alternatives without asking the listener to choose. It cannot replace 还是 in a question.",
+    "example_zh": "你可以喝茶或者咖啡。",
+    "example_pinyin": "Nǐ kěyǐ hē chá huòzhě kāfēi.",
+    "example_en": "You can drink tea or coffee.",
+    "ru_note": "或者 подходит только для утверждений, а не вопросов — русское 'или' не делает такого различия."
+  },
+  {
+    "id": "hskg:0029",
+    "title": "Sequence with 先...再",
+    "pattern": "先 + Action A, 再 + Action B",
+    "en_explanation": "先...再 expresses the order of two actions, meaning 'first...then'. It clarifies that Action A must happen before Action B in a planned sequence.",
+    "example_zh": "我先吃饭，再学习。",
+    "example_pinyin": "Wǒ xiān chīfàn, zài xuéxí.",
+    "example_en": "I'll eat first, then study.",
+    "ru_note": "Прямой аналог русского 'сначала...потом' для описания последовательности действий."
+  },
+  {
+    "id": "hskg:0030",
+    "title": "有点儿 vs 一点儿",
+    "pattern": "有点儿 + Adjective (negative) | Adjective + 一点儿 (comparison)",
+    "en_explanation": "有点儿 comes before an adjective and usually expresses a slightly negative feeling, meaning 'a bit too'. 一点儿 comes after an adjective, often in comparisons, meaning 'a little' or 'slightly'.",
+    "example_zh": "这件衣服有点儿贵，那件便宜一点儿。",
+    "example_pinyin": "Zhè jiàn yīfu yǒudiǎnr guì, nà jiàn piányi yīdiǎnr.",
+    "example_en": "This piece of clothing is a bit too expensive, that one is a little cheaper.",
+    "ru_note": "有点儿 обычно про недовольство ('слишком'), а 一点儿 — про небольшую разницу, часто в сравнении."
+  },
+  {
+    "id": "hskg:0031",
+    "title": "Verb reduplication V一V",
+    "pattern": "Verb + 一 + Verb",
+    "en_explanation": "Repeating a verb with 一 in between, such as 看一看, softens the action and suggests trying it briefly or casually, similar in feeling to 一下. It is common with single-syllable action verbs.",
+    "example_zh": "你尝一尝这个菜。",
+    "example_pinyin": "Nǐ cháng yī cháng zhège cài.",
+    "example_en": "Try tasting this dish.",
+    "ru_note": "Повтор глагола смягчает просьбу, похоже на русское 'попробуй-ка' — придаёт лёгкость и непринуждённость."
+  },
+  {
+    "id": "hskg:0032",
+    "title": "Emphasis with 是...的",
+    "pattern": "Subject + 是 + Detail + Verb + 的",
+    "en_explanation": "The 是...的 construction emphasizes specific details of a past action already known to have happened, such as the time, place, or manner. It does not question whether the action occurred, only highlights how, when, or where.",
+    "example_zh": "我是昨天来的。",
+    "example_pinyin": "Wǒ shì zuótiān lái de.",
+    "example_en": "It was yesterday that I came.",
+    "ru_note": "Выделяет обстоятельство уже известного действия, похоже на русское 'именно вчера я и приехал'."
+  },
+  {
+    "id": "hskg:0033",
+    "title": "Topic-comment sentence order",
+    "pattern": "Topic + Comment (Subject + Verb + Object)",
+    "en_explanation": "Chinese frequently places the topic of a sentence first, even if it is not the grammatical subject, and then comments on it afterward. This lets speakers highlight what the sentence is about before describing it.",
+    "example_zh": "这本书我看过了。",
+    "example_pinyin": "Zhè běn shū wǒ kànguo le.",
+    "example_en": "This book, I have already read (it).",
+    "ru_note": "Похоже на русский вынос темы в начало 'эту книгу я уже читал' — тема ставится перед комментарием."
+  },
+  {
+    "id": "hskg:0034",
+    "title": "Placement of 都 and 也",
+    "pattern": "Subject + 都/也 + Verb Phrase",
+    "en_explanation": "Adverbs like 都 (all) and 也 (also) must be placed directly before the verb, never before the subject. When both appear together, 也 usually comes before 都 in the sentence.",
+    "example_zh": "我们也都喜欢中文。",
+    "example_pinyin": "Wǒmen yě dōu xǐhuan Zhōngwén.",
+    "example_en": "We all also like Chinese.",
+    "ru_note": "都 и 也 всегда стоят перед глаголом, а не перед подлежащим — это отличается от гибкого русского порядка."
+  },
+  {
+    "id": "hskg:0035",
+    "title": "怎么 vs 怎么样",
+    "pattern": "怎么 + Verb? | Subject/Situation + 怎么样?",
+    "en_explanation": "怎么 asks 'how' before a verb, inquiring about the method or reason for doing something. 怎么样 asks for an opinion or evaluation about something, similar to 'how is it?' or 'how about?'.",
+    "example_zh": "这个字怎么写？这部电影怎么样？",
+    "example_pinyin": "Zhège zì zěnme xiě? Zhè bù diànyǐng zěnmeyàng?",
+    "example_en": "How do you write this character? How is this movie?",
+    "ru_note": "怎么 спрашивает о способе действия, а 怎么样 — о мнении или оценке, как русское 'как это?' в смысле 'как тебе?'."
+  },
+  {
+    "id": "hskg:0036",
+    "title": "Degree questions with 多 + adjective",
+    "pattern": "多 + Adjective?",
+    "en_explanation": "多 before an adjective forms a question about degree or measurement, such as age, height, or distance, meaning 'how...'. It is commonly used with adjectives like 大, 高, and 远.",
+    "example_zh": "你今年多大？",
+    "example_pinyin": "Nǐ jīnnián duō dà?",
+    "example_en": "How old are you this year?",
+    "ru_note": "多 + прилагательное соответствует русским вопросам вроде 'насколько большой' или 'сколько тебе лет'."
+  },
+  {
+    "id": "hskg:0037",
+    "title": "会 vs 能 vs 可以 in context",
+    "pattern": "Subject + 会/能/可以 + Verb + Object",
+    "en_explanation": "会 refers to a learned skill, 能 refers to physical or circumstantial ability, and 可以 refers to permission or what is allowed. Choosing correctly depends on whether you mean skill, capability, or permission.",
+    "example_zh": "我能来，但是今天不可以迟到。",
+    "example_pinyin": "Wǒ néng lái, dànshì jīntiān bù kěyǐ chídào.",
+    "example_en": "I can come, but today I'm not allowed to be late.",
+    "ru_note": "Три оттенка 'мочь' — навык, возможность и разрешение — в русском часто передаются одним словом 'могу'."
+  },
+  {
+    "id": "hskg:0038",
+    "title": "给 as a preposition meaning 'to/for'",
+    "pattern": "Subject + 给 + Person + Verb + Object",
+    "en_explanation": "给 before a person indicates who benefits from or receives the action, meaning 'to' or 'for' that person. It is placed before the verb, unlike English where 'to' often comes after.",
+    "example_zh": "我给妈妈打电话。",
+    "example_pinyin": "Wǒ gěi māma dǎ diànhuà.",
+    "example_en": "I call my mom (call to my mom).",
+    "ru_note": "给 ставится перед глаголом и означает 'для/кому', похоже на русский дательный падеж 'маме'."
+  },
+  {
+    "id": "hskg:0039",
+    "title": "Contrast of speed with 就 and 才",
+    "pattern": "Subject + 就/才 + Verb + Object",
+    "en_explanation": "就 suggests that something happens quickly, early, or easily, while 才 suggests that something happens slowly, late, or only under certain conditions. The choice reflects the speaker's attitude toward the timing.",
+    "example_zh": "他六点就到了，我八点才到。",
+    "example_pinyin": "Tā liù diǎn jiù dào le, wǒ bā diǎn cái dào.",
+    "example_en": "He arrived at six already, but I didn't arrive until eight.",
+    "ru_note": "就 передаёт 'уже так рано/быстро', а 才 — 'только теперь, поздно' — тонкое различие в оценке времени."
+  },
+  {
+    "id": "hskg:0040",
+    "title": "Resultative complements 完 and 好",
+    "pattern": "Verb + 完/好 + (Object)",
+    "en_explanation": "Adding 完 or 好 right after a verb shows that the action was completed successfully. 完 emphasizes finishing an activity entirely, while 好 emphasizes that the result is now ready or properly done.",
+    "example_zh": "我写完了作业，准备好了。",
+    "example_pinyin": "Wǒ xiěwán le zuòyè, zhǔnbèi hǎo le.",
+    "example_en": "I finished writing my homework, I'm ready.",
+    "ru_note": "完 и 好 после глагола показывают завершённость результата, похоже на русские приставки 'до-' и 'с-' (дописал, сготовил)."
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "quiz:csca:0001",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "The length of a rectangle exceeds its width by 5 meters. If the width is 8 meters, what is the length?",
+    "options": ["3 meters", "5 meters", "13 meters", "40 meters"],
+    "answer": "13 meters",
+    "explanation": "'Exceeds by 5' means 'is 5 more than'. So length = 8 + 5 = 13.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0002",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "A ball is initially at rest at the top of a ramp. If it rolls down and comes to a stop after traveling 20 meters, how far did it travel?",
+    "options": ["0 meters", "10 meters", "20 meters", "40 meters"],
+    "answer": "20 meters",
+    "explanation": "'Initially at rest' means it starts still. 'Comes to a stop after traveling 20 meters' means it moved 20 meters total.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0003",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "One number is three times as large as another. If the smaller number is 4, what is the larger number?",
+    "options": ["1", "7", "12", "16"],
+    "answer": "12",
+    "explanation": "'Three times as large as' means multiply by 3. So 4 × 3 = 12.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0004",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "The temperature today differs from yesterday's temperature by 6 degrees Celsius. If yesterday was 15°C, what could today's temperature be?",
+    "options": ["9°C only", "21°C only", "either 9°C or 21°C", "6°C"],
+    "answer": "either 9°C or 21°C",
+    "explanation": "'Differs by 6' means the absolute difference is 6, so it could be 6 higher (21°C) or 6 lower (9°C).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0005",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "A car travels at a rate of 60 kilometers per hour. How far does it travel in 2 hours?",
+    "options": ["30 kilometers", "60 kilometers", "120 kilometers", "180 kilometers"],
+    "answer": "120 kilometers",
+    "explanation": "'At a rate of 60 per hour' means 60 km in each hour. In 2 hours: 60 × 2 = 120 km.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0006",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "The volume of a cube is increased by a factor of 8. If the original volume was 5 cubic meters, what is the new volume?",
+    "options": ["13 cubic meters", "40 cubic meters", "45 cubic meters", "5 cubic meters"],
+    "answer": "40 cubic meters",
+    "explanation": "'Increased by a factor of 8' means multiply by 8. So 5 × 8 = 40 cubic meters.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0007",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Three consecutive integers add up to 18. Which of the following is the smallest integer?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5",
+    "explanation": "'Consecutive integers' means one after another (like 5, 6, 7). Their sum: 5 + 6 + 7 = 18. The smallest is 5.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0008",
+    "category": "csca",
+    "level": "NA",
+    "type": "mcq",
+    "prompt": "Object A is twice as fast as Object B. If Object B travels at 5 meters per second, what is the speed of Object A?",
+    "options": ["2.5 m/s", "5 m/s", "7 m/s", "10 m/s"],
+    "answer": "10 m/s",
+    "explanation": "'Twice as fast' means multiply speed by 2. So 5 × 2 = 10 m/s.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0009",
+    "category": "csca",
+    "level": "NA",
+    "type": "typing",
+    "prompt": "The remainder when 17 is divided by 5 is what?",
+    "options": null,
+    "answer": "2",
+    "explanation": "When 17 is divided by 5, we get 3 remainder 2 (because 5 × 3 = 15, and 17 - 15 = 2).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0010",
+    "category": "csca",
+    "level": "NA",
+    "type": "typing",
+    "prompt": "A number is at most 10. Which of the following must be true: is it less than 10 or less than or equal to 10?",
+    "options": null,
+    "answer": "less than or equal to 10",
+    "explanation": "'At most 10' means 'not more than 10', so the number can be 10 or anything smaller, i.e., ≤ 10.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0011",
+    "category": "csca",
+    "level": "NA",
+    "type": "typing",
+    "prompt": "If a value is expressed in terms of x and y, write the number of variables: x, y, or z?",
+    "options": null,
+    "answer": "2",
+    "explanation": "'In terms of x and y' means the expression uses x and y as variables. That is 2 variables.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:csca:0012",
+    "category": "csca",
+    "level": "NA",
+    "type": "typing",
+    "prompt": "A sphere's radius is increased by a factor of 2. If we express the new radius in terms of the original radius r, what is it?",
+    "options": null,
+    "answer": "2r",
+    "explanation": "'Increased by a factor of 2' means multiply by 2. In terms of r, the new radius is 2r.",
+    "passage_id": null
+  }
+]

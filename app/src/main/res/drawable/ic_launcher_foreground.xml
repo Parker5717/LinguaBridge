@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Skipping-rope owl, adapted from the user's reference image:
+     round purple owl, spread wings holding a cream rope that loops overhead. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+  <group
+      android:scaleX="0.93"
+      android:scaleY="0.93"
+      android:pivotX="54"
+      android:pivotY="54">
+
+    <!-- Rope: arcs from the wing tips up and over, with a little curl on top -->
+    <path
+        android:pathData="M31,55 C24,42 28,28 42,23 C48,21 54,20 55.5,23.5 C56.5,26.5 52.5,28 51.5,25.5 C50.5,23 55,20.5 60,21.5 C74,25 84,42 77,55"
+        android:strokeColor="#F0E2C1"
+        android:strokeWidth="2.6"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <!-- Rope handles -->
+    <path
+        android:pathData="M30.2,51.5 L32,59"
+        android:strokeColor="#8A5A3B"
+        android:strokeWidth="4.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M77.8,51.5 L76,59"
+        android:strokeColor="#8A5A3B"
+        android:strokeWidth="4.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Feet -->
+    <path
+        android:pathData="M47,80 L44.5,86 M47,80 L47,86.5 M47,80 L49.5,86 M61,80 L58.5,86 M61,80 L61,86.5 M61,80 L63.5,86"
+        android:strokeColor="#EEDFB9"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Left wing (spread up-out, dark purple, scalloped edge) -->
+    <path
+        android:pathData="M46,64 C40,66 33,64 30,57 C34,59 36,57 34,52 C38,55 40,53 38,48 C42,51 44,50 43,45 C47,50 48,56 47,61 Z"
+        android:fillColor="#66558C" />
+    <!-- Right wing -->
+    <path
+        android:pathData="M62,64 C68,66 75,64 78,57 C74,59 72,57 74,52 C70,55 68,53 70,48 C66,51 64,50 65,45 C61,50 60,56 61,61 Z"
+        android:fillColor="#66558C" />
+
+    <!-- Body -->
+    <path
+        android:pathData="M54,55 m-16,13 a16,13.5 0 1,0 32,0 a16,13.5 0 1,0 -32,0"
+        android:fillColor="#8B7BAF" />
+    <!-- Belly -->
+    <path
+        android:pathData="M54,60 m-9.5,9.5 a9.5,9 0 1,0 19,0 a9.5,9 0 1,0 -19,0"
+        android:fillColor="#B4A8CC" />
+    <!-- Belly speckles (diamonds) -->
+    <path android:pathData="M54,64 L56,67 L54,70 L52,67 Z" android:fillColor="#8B7BAF" />
+    <path android:pathData="M48.5,68 L50.5,71 L48.5,74 L46.5,71 Z" android:fillColor="#8B7BAF" />
+    <path android:pathData="M59.5,68 L61.5,71 L59.5,74 L57.5,71 Z" android:fillColor="#8B7BAF" />
+
+    <!-- Ear tufts -->
+    <path android:pathData="M42,38 L44,28.5 L50,34.5 Z" android:fillColor="#66558C" />
+    <path android:pathData="M66,38 L64,28.5 L58,34.5 Z" android:fillColor="#66558C" />
+
+    <!-- Head -->
+    <path
+        android:pathData="M54,48 m-17,0 a17,16.5 0 1,0 34,0 a17,16.5 0 1,0 -34,0"
+        android:fillColor="#8B7BAF" />
+    <!-- Face disc -->
+    <path
+        android:pathData="M54,49.5 m-13,0 a13,11 0 1,0 26,0 a13,11 0 1,0 -26,0"
+        android:fillColor="#C9BEDE" />
+
+    <!-- Eyebrows -->
+    <path
+        android:pathData="M42,39 C45,36.5 49,36.5 51.5,38.5 M66,39 C63,36.5 59,36.5 56.5,38.5"
+        android:strokeColor="#66558C"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Eyes -->
+    <path android:pathData="M48.3,48 m-5.4,0 a5.4,5.4 0 1,0 10.8,0 a5.4,5.4 0 1,0 -10.8,0" android:fillColor="#F6F3FB" />
+    <path android:pathData="M59.7,48 m-5.4,0 a5.4,5.4 0 1,0 10.8,0 a5.4,5.4 0 1,0 -10.8,0" android:fillColor="#F6F3FB" />
+    <path android:pathData="M48.6,48.4 m-3.4,0 a3.4,3.4 0 1,0 6.8,0 a3.4,3.4 0 1,0 -6.8,0" android:fillColor="#2E2440" />
+    <path android:pathData="M59.4,48.4 m-3.4,0 a3.4,3.4 0 1,0 6.8,0 a3.4,3.4 0 1,0 -6.8,0" android:fillColor="#2E2440" />
+    <path android:pathData="M49.8,47 m-1.1,0 a1.1,1.1 0 1,0 2.2,0 a1.1,1.1 0 1,0 -2.2,0" android:fillColor="#FFFFFF" />
+    <path android:pathData="M60.6,47 m-1.1,0 a1.1,1.1 0 1,0 2.2,0 a1.1,1.1 0 1,0 -2.2,0" android:fillColor="#FFFFFF" />
+
+    <!-- Beak -->
+    <path android:pathData="M51,54.5 L57,54.5 L54,59.5 Z" android:fillColor="#E8933A" />
+  </group>
+</vector>

@@ -1,0 +1,1057 @@
+[
+  {
+    "id": "dlg:08",
+    "title": "Asking the Teacher About 了",
+    "scenario": "classroom",
+    "level": "B1",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Teacher, can I ask something about the sentence you wrote? I still mix up when to use 了."
+      },
+      {
+        "ord": 2,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Of course. Which sentence?"
+      },
+      {
+        "ord": 3,
+        "speaker": "Teacher",
+        "lang": "zh",
+        "text": "我昨天买了一本书。",
+        "pinyin": "Wǒ zuótiān mǎi le yì běn shū.",
+        "ru_note": "'Вчера я купил книгу' — завершённое действие в прошлом"
+      },
+      {
+        "ord": 4,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "This one. Is 了 here just because it's in the past?"
+      },
+      {
+        "ord": 5,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Not quite — 昨天 already tells us it's the past. 了 is there because the buying is finished, a completed event."
+      },
+      {
+        "ord": 6,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "So if I say 'I bought books every day last week,' would I still use 了?"
+      },
+      {
+        "ord": 7,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Usually not, because that's a repeated, habitual action, not one finished event. 了 fits single completed actions better."
+      },
+      {
+        "ord": 8,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "That helps a lot. One more question — can I drop 了 if the time word is already there?"
+      },
+      {
+        "ord": 9,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Sometimes, in casual speech, but in writing it's safer to keep it when the action is truly completed. Practice with a few more examples for homework."
+      },
+      {
+        "ord": 10,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Will do. Thanks for clearing that up."
+      }
+    ]
+  },
+  {
+    "id": "dlg:09",
+    "title": "The 把 Construction",
+    "scenario": "classroom",
+    "level": "B2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Today's grammar point is the 把 construction. It's used when you do something to an object and change it in a specific way."
+      },
+      {
+        "ord": 2,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "So it's just a different word order for 'I did something to the object'?"
+      },
+      {
+        "ord": 3,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Right. Instead of Subject-Verb-Object, you get Subject-把-Object-Verb, and the verb usually needs something extra after it — a result, a direction, or 了."
+      },
+      {
+        "ord": 4,
+        "speaker": "Teacher",
+        "lang": "zh",
+        "text": "请把门关上。",
+        "pinyin": "Qǐng bǎ mén guānshàng.",
+        "ru_note": "'Пожалуйста, закрой дверь' — конструкция 把 требует результата после глагола"
+      },
+      {
+        "ord": 5,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "'Please close the door.' Why can't I just say 请关门 instead?"
+      },
+      {
+        "ord": 6,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "You can say that too, but 把 emphasizes what happens to the specific door — that it ends up closed. It highlights the result on a known object."
+      },
+      {
+        "ord": 7,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Can I use 把 with any verb?"
+      },
+      {
+        "ord": 8,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "No, only with verbs that can affect or change the object — moving it, breaking it, finishing it. You can't use it with verbs like 'like' or 'see.'"
+      },
+      {
+        "ord": 9,
+        "speaker": "Teacher",
+        "lang": "zh",
+        "text": "他把作业写完了。",
+        "pinyin": "Tā bǎ zuòyè xiěwán le."
+      },
+      {
+        "ord": 10,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "'He finished writing the homework.' I see — 完 shows the result, and 了 shows it's done."
+      },
+      {
+        "ord": 11,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Exactly right. Try turning three sentences from your textbook into the 把 form for next class."
+      },
+      {
+        "ord": 12,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Sure, I'll give it a try tonight."
+      }
+    ]
+  },
+  {
+    "id": "dlg:10",
+    "title": "Fixing a Tone Mistake",
+    "scenario": "classroom",
+    "level": "A2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Student",
+        "lang": "zh",
+        "text": "老师，这个字怎么念？",
+        "pinyin": "Lǎoshī, zhège zì zěnme niàn?",
+        "ru_note": "'Учитель, как читается этот иероглиф?'"
+      },
+      {
+        "ord": 2,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Good question. That word is 睡觉, 'to sleep.' Try saying it."
+      },
+      {
+        "ord": 3,
+        "speaker": "Student",
+        "lang": "zh",
+        "text": "shui jiao",
+        "pinyin": "shuì jiào",
+        "ru_note": "Ученик произносит без чёткого тона — учитель поправит ниже"
+      },
+      {
+        "ord": 4,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Close, but your first syllable came out flat. It should fall sharply — fourth tone, like a short command: shuì."
+      },
+      {
+        "ord": 5,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Like this? Shuì."
+      },
+      {
+        "ord": 6,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Better! Now the second syllable, 觉, is also fourth tone — jiào. Both syllables fall."
+      },
+      {
+        "ord": 7,
+        "speaker": "Student",
+        "lang": "zh",
+        "text": "睡觉",
+        "pinyin": "shuì jiào"
+      },
+      {
+        "ord": 8,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Much clearer. Remember, if the tone is wrong, it can sound like a completely different word, so it's worth the extra practice."
+      },
+      {
+        "ord": 9,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "I understand. I'll practice this word a few more times tonight."
+      },
+      {
+        "ord": 10,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Great attitude. Listening and repeating slowly really helps with tones."
+      }
+    ]
+  },
+  {
+    "id": "dlg:11",
+    "title": "Please Speak More Slowly",
+    "scenario": "classroom",
+    "level": "A2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Sorry, teacher, could you repeat that? You went a bit fast for me."
+      },
+      {
+        "ord": 2,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "No problem at all. I said: open your books to page twenty and look at exercise two."
+      },
+      {
+        "ord": 3,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Page twenty, got it. And which exercise, sorry?"
+      },
+      {
+        "ord": 4,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Exercise two. It's the one with the pictures of family members."
+      },
+      {
+        "ord": 5,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Found it. Could you also say the instructions one more time, more slowly?"
+      },
+      {
+        "ord": 6,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Sure. Look. At. The. Picture. Then. Write. The. Correct. Word."
+      },
+      {
+        "ord": 7,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Perfect, that's much clearer now. Thank you for slowing down."
+      },
+      {
+        "ord": 8,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Anytime — just raise your hand whenever I speak too fast. It happens to every teacher."
+      },
+      {
+        "ord": 9,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "I will. It's a useful phrase to know for other classes too."
+      },
+      {
+        "ord": 10,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "It is. You can also say 'Could you say that again?' or 'One more time, please.'"
+      }
+    ]
+  },
+  {
+    "id": "dlg:12",
+    "title": "Homework Requirements",
+    "scenario": "classroom",
+    "level": "B1",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Before you leave, let's go over this week's homework requirements carefully."
+      },
+      {
+        "ord": 2,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "OK, I'm ready to write it down."
+      },
+      {
+        "ord": 3,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "First, write a short paragraph about your weekend, at least eighty characters, using 了 at least twice."
+      },
+      {
+        "ord": 4,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Eighty characters minimum, understood. Does punctuation count toward that?"
+      },
+      {
+        "ord": 5,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "No, only the characters themselves. Second, record yourself reading the dialogue on page fifteen and send me the audio."
+      },
+      {
+        "ord": 6,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Should I send it through the class group or email?"
+      },
+      {
+        "ord": 7,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "The class group is fine, just tag me so I don't miss it."
+      },
+      {
+        "ord": 8,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Got it. Is there a deadline for the recording too?"
+      },
+      {
+        "ord": 9,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Same as the paragraph — Monday morning, before class. Late submissions lose participation points."
+      },
+      {
+        "ord": 10,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Understood, I'll finish both over the weekend."
+      },
+      {
+        "ord": 11,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Great. If you're unsure about a sentence, it's fine to ask in the group chat too."
+      },
+      {
+        "ord": 12,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Thanks, that's reassuring. Have a good weekend, teacher."
+      }
+    ]
+  },
+  {
+    "id": "dlg:13",
+    "title": "Lost Student Card",
+    "scenario": "campus",
+    "level": "A2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Excuse me, I think I lost my library card. Can I get a new one?"
+      },
+      {
+        "ord": 2,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "Sure, that happens often. When did you last see it?"
+      },
+      {
+        "ord": 3,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Maybe two days ago, in the reading room. I checked my bag many times."
+      },
+      {
+        "ord": 4,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "OK, I'll cancel the old card first, so no one else can use it. Can I have your student ID number?"
+      },
+      {
+        "ord": 5,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Yes, it's on my student ID card here."
+      },
+      {
+        "ord": 6,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "Thanks. There's a small replacement fee, ten yuan. Is that OK?"
+      },
+      {
+        "ord": 7,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "That's fine. Can I pay with my phone?"
+      },
+      {
+        "ord": 8,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "Yes, just scan the code at the counter. I'll print your new card while you pay."
+      },
+      {
+        "ord": 9,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Done. How long until the new card works?"
+      },
+      {
+        "ord": 10,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "It's active right away. Here you go — try it at the gate before you leave, just to be sure."
+      },
+      {
+        "ord": 11,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Will do. Thank you for the quick help."
+      },
+      {
+        "ord": 12,
+        "speaker": "Librarian",
+        "lang": "en",
+        "text": "No problem. Try to keep it in the same pocket every time — that helps a lot of students."
+      }
+    ]
+  },
+  {
+    "id": "dlg:14",
+    "title": "Join Our Study Group",
+    "scenario": "campus",
+    "level": "A2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Hey Li Wei, do you have a minute? I wanted to ask you something."
+      },
+      {
+        "ord": 2,
+        "speaker": "Li Wei",
+        "lang": "en",
+        "text": "Sure, what's up?"
+      },
+      {
+        "ord": 3,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "A few of us are starting a study group for the grammar exam. Would you like to join?"
+      },
+      {
+        "ord": 4,
+        "speaker": "Li Wei",
+        "lang": "en",
+        "text": "That sounds great, I've been struggling with 了 and 过. When do you meet?"
+      },
+      {
+        "ord": 5,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Tuesdays and Thursdays, seven o'clock, in the library study room."
+      },
+      {
+        "ord": 6,
+        "speaker": "Li Wei",
+        "lang": "en",
+        "text": "I have a class until seven on Tuesdays. Could I just come on Thursdays?"
+      },
+      {
+        "ord": 7,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Of course, come whenever you can. It's not mandatory every time."
+      },
+      {
+        "ord": 8,
+        "speaker": "Li Wei",
+        "lang": "en",
+        "text": "Perfect. Should I bring anything?"
+      },
+      {
+        "ord": 9,
+        "speaker": "Anna",
+        "lang": "en",
+        "text": "Just your notes and maybe some practice questions if you find good ones."
+      },
+      {
+        "ord": 10,
+        "speaker": "Li Wei",
+        "lang": "en",
+        "text": "I'll do that. Thanks for inviting me, I really need the extra practice."
+      }
+    ]
+  },
+  {
+    "id": "dlg:15",
+    "title": "International Office: Visa Registration",
+    "scenario": "campus",
+    "level": "B2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Officer",
+        "lang": "en",
+        "text": "Good morning. How can I help you today?"
+      },
+      {
+        "ord": 2,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Good morning. I just moved into the dorm and I was told I need to register my residence within twenty-four hours."
+      },
+      {
+        "ord": 3,
+        "speaker": "Officer",
+        "lang": "en",
+        "text": "That's right. Since you live in the dormitory, the university handles that for you automatically, but I still need your passport and visa page to confirm."
+      },
+      {
+        "ord": 4,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Here's my passport. I'm on an X1 student visa."
+      },
+      {
+        "ord": 5,
+        "speaker": "Officer",
+        "lang": "en",
+        "text": "Thank you. I also see your visa expires in about five months — you'll need a residence permit before then, not just the visa."
+      },
+      {
+        "ord": 6,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Sorry, what's the difference between the visa and the residence permit?",
+        "ru_note": "residence permit — вид на жительство (для учёбы, оформляется после приезда)"
+      },
+      {
+        "ord": 7,
+        "speaker": "Officer",
+        "lang": "en",
+        "text": "The visa got you into the country. The residence permit lets you stay legally for the length of your program — usually a full academic year."
+      },
+      {
+        "ord": 8,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "I see. What documents do I need for the residence permit application?"
+      },
+      {
+        "ord": 9,
+        "speaker": "Officer",
+        "lang": "en",
+        "text": "Your passport, the admission letter, the physical exam report, and this registration form. We'll also need two passport photos."
+      },
+      {
+        "ord": 10,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Where do I get the physical exam done?"
+      },
+      {
+        "ord": 11,
+        "speaker": "Officer",
+        "lang": "en",
+        "text": "At the international travel health center downtown. I'll give you the address and a letter of introduction."
+      },
+      {
+        "ord": 12,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Thank you. How long does the whole process usually take?"
+      },
+      {
+        "ord": 13,
+        "speaker": "Officer",
+        "lang": "en",
+        "text": "About two to three weeks once everything is submitted, so please don't leave it until the last moment."
+      },
+      {
+        "ord": 14,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Understood, I'll go to the health center this week and come back with everything."
+      }
+    ]
+  },
+  {
+    "id": "dlg:16",
+    "title": "Buying a SIM Card",
+    "scenario": "daily",
+    "level": "A2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Hi, I'd like to buy a SIM card for my phone, please."
+      },
+      {
+        "ord": 2,
+        "speaker": "Seller",
+        "lang": "en",
+        "text": "Sure. Are you a student? We have a special data plan for students."
+      },
+      {
+        "ord": 3,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Yes, I'm a student. What does the plan include?"
+      },
+      {
+        "ord": 4,
+        "speaker": "Seller",
+        "lang": "en",
+        "text": "Thirty gigabytes of data and two hundred minutes of calls, for fifty-eight yuan a month."
+      },
+      {
+        "ord": 5,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "That sounds good. What do I need to register it?"
+      },
+      {
+        "ord": 6,
+        "speaker": "Seller",
+        "lang": "en",
+        "text": "Just your passport, and I'll take a photo for the real-name registration system."
+      },
+      {
+        "ord": 7,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Here you go. Can I keep my old phone number from my home country too?"
+      },
+      {
+        "ord": 8,
+        "speaker": "Seller",
+        "lang": "en",
+        "text": "This will be a new Chinese number, but your old SIM still works if you switch it back later."
+      },
+      {
+        "ord": 9,
+        "speaker": "Student",
+        "lang": "zh",
+        "text": "多少钱？",
+        "pinyin": "Duōshao qián?",
+        "ru_note": "'Сколько стоит?' — уточняет итоговую цену"
+      },
+      {
+        "ord": 10,
+        "speaker": "Seller",
+        "lang": "en",
+        "text": "Fifty-eight yuan for the first month, plus a twenty-yuan card fee, one time only."
+      },
+      {
+        "ord": 11,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "OK, I'll take it. Can I pay by phone transfer?"
+      },
+      {
+        "ord": 12,
+        "speaker": "Seller",
+        "lang": "en",
+        "text": "Yes, scan this code. Your SIM should be active in about ten minutes."
+      },
+      {
+        "ord": 13,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Great, thank you very much."
+      }
+    ]
+  },
+  {
+    "id": "dlg:17",
+    "title": "At the Campus Clinic",
+    "scenario": "daily",
+    "level": "B1",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Doctor",
+        "lang": "en",
+        "text": "Come in, please. What seems to be the problem today?"
+      },
+      {
+        "ord": 2,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "I've had a sore throat and a headache since yesterday, and I feel a bit tired."
+      },
+      {
+        "ord": 3,
+        "speaker": "Doctor",
+        "lang": "en",
+        "text": "Do you have a fever? Let me check your temperature."
+      },
+      {
+        "ord": 4,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "I think so — I felt hot last night, but I don't have a thermometer."
+      },
+      {
+        "ord": 5,
+        "speaker": "Doctor",
+        "lang": "en",
+        "text": "Thirty-seven point eight. A mild fever. Any coughing or stomach trouble?"
+      },
+      {
+        "ord": 6,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "A little cough, no stomach problems. Is it serious?"
+      },
+      {
+        "ord": 7,
+        "speaker": "Doctor",
+        "lang": "en",
+        "text": "It looks like a common cold. Nothing serious, but let's do a quick throat check to be safe."
+      },
+      {
+        "ord": 8,
+        "speaker": "Doctor",
+        "lang": "zh",
+        "text": "张嘴，啊——",
+        "pinyin": "Zhāng zuǐ, ā——",
+        "ru_note": "'Открой рот, а——' — стандартная фраза врача при осмотре горла"
+      },
+      {
+        "ord": 9,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Like this?"
+      },
+      {
+        "ord": 10,
+        "speaker": "Doctor",
+        "lang": "en",
+        "text": "Good, a bit red but nothing worrying. I'll prescribe some medicine for the fever and throat."
+      },
+      {
+        "ord": 11,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "How should I take it?"
+      },
+      {
+        "ord": 12,
+        "speaker": "Doctor",
+        "lang": "en",
+        "text": "One tablet after breakfast and one after dinner, for three days. Drink plenty of warm water and rest."
+      },
+      {
+        "ord": 13,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Should I come back if it doesn't get better?"
+      },
+      {
+        "ord": 14,
+        "speaker": "Doctor",
+        "lang": "en",
+        "text": "Yes, come back if the fever is still there after three days, or gets worse before that."
+      }
+    ]
+  },
+  {
+    "id": "dlg:18",
+    "title": "Ordering Food for Pickup",
+    "scenario": "daily",
+    "level": "A2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Hi, I placed an order online a few minutes ago — pickup, not delivery."
+      },
+      {
+        "ord": 2,
+        "speaker": "Seller",
+        "lang": "en",
+        "text": "Sure, what's the order number or the name on the order?"
+      },
+      {
+        "ord": 3,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "It should be under my phone number, ending in 6688."
+      },
+      {
+        "ord": 4,
+        "speaker": "Seller",
+        "lang": "en",
+        "text": "One moment. Ah yes — noodles with beef and an iced tea, correct?"
+      },
+      {
+        "ord": 5,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Yes, that's mine. Is it ready?"
+      },
+      {
+        "ord": 6,
+        "speaker": "Seller",
+        "lang": "en",
+        "text": "Almost, it needs about three more minutes. Would you like extra chili on the side?"
+      },
+      {
+        "ord": 7,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "No thanks, it's already spicy enough for me."
+      },
+      {
+        "ord": 8,
+        "speaker": "Seller",
+        "lang": "en",
+        "text": "Got it. Do you need chopsticks and a spoon, or do you have your own?"
+      },
+      {
+        "ord": 9,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Chopsticks and a spoon, please."
+      },
+      {
+        "ord": 10,
+        "speaker": "Seller",
+        "lang": "en",
+        "text": "Here you are — noodles, iced tea, chopsticks, spoon. Enjoy your meal!"
+      },
+      {
+        "ord": 11,
+        "speaker": "Student",
+        "lang": "zh",
+        "text": "谢谢，麻烦了。",
+        "pinyin": "Xièxie, máfan le.",
+        "ru_note": "'Спасибо, извините за беспокойство' — вежливая фраза при получении заказа"
+      }
+    ]
+  },
+  {
+    "id": "dlg:19",
+    "title": "Taking a DiDi to the Station",
+    "scenario": "daily",
+    "level": "B1",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Driver",
+        "lang": "en",
+        "text": "Hi, are you the one who ordered a car to the train station?"
+      },
+      {
+        "ord": 2,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Yes, that's me. Thanks for coming."
+      },
+      {
+        "ord": 3,
+        "speaker": "Driver",
+        "lang": "en",
+        "text": "No problem, hop in. Which station — the east one or the south one? The app just says 'train station.'"
+      },
+      {
+        "ord": 4,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "The south station, sorry, I should have typed the full name."
+      },
+      {
+        "ord": 5,
+        "speaker": "Driver",
+        "lang": "en",
+        "text": "No worries, I'll update the route. Traffic looks fine, should take about twenty-five minutes."
+      },
+      {
+        "ord": 6,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Great, my train leaves in an hour, so that should be enough time."
+      },
+      {
+        "ord": 7,
+        "speaker": "Driver",
+        "lang": "en",
+        "text": "Plenty of time. First time taking the train from here?"
+      },
+      {
+        "ord": 8,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Yes, actually. Do I need to arrive very early?"
+      },
+      {
+        "ord": 9,
+        "speaker": "Driver",
+        "lang": "en",
+        "text": "About thirty minutes before departure is fine, but security lines can be long on weekends."
+      },
+      {
+        "ord": 10,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Good to know, thanks. Can you drop me at the north entrance? I saw online that it's less crowded."
+      },
+      {
+        "ord": 11,
+        "speaker": "Driver",
+        "lang": "en",
+        "text": "Sure thing. We're almost there — that'll be twenty-six yuan total."
+      },
+      {
+        "ord": 12,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "It should be paid through the app already, right?"
+      },
+      {
+        "ord": 13,
+        "speaker": "Driver",
+        "lang": "en",
+        "text": "Yes, it's already settled. Here we are — safe travels!"
+      },
+      {
+        "ord": 14,
+        "speaker": "Student",
+        "lang": "zh",
+        "text": "谢谢师傅！",
+        "pinyin": "Xièxie shīfu!",
+        "ru_note": "'Спасибо, мастер!' — вежливое обращение к водителю такси"
+      }
+    ]
+  },
+  {
+    "id": "dlg:20",
+    "title": "Grammar Exam Review",
+    "scenario": "classroom",
+    "level": "B2",
+    "lines": [
+      {
+        "ord": 1,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Let's review a few mistakes from your last exam before we move on to new material."
+      },
+      {
+        "ord": 2,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "OK, I think I got the 把 sentence wrong. Can we look at that one?"
+      },
+      {
+        "ord": 3,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Sure. You wrote 我把书看了 for 'I read the book.' Can anyone spot the issue?"
+      },
+      {
+        "ord": 4,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "I'm not sure — I thought 了 was enough to show it's finished."
+      },
+      {
+        "ord": 5,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "The verb needs a stronger result complement with 把, not just 了 alone. 看完 — 'finished reading' — works much better here."
+      },
+      {
+        "ord": 6,
+        "speaker": "Teacher",
+        "lang": "zh",
+        "text": "我把书看完了。",
+        "pinyin": "Wǒ bǎ shū kànwán le.",
+        "ru_note": "'Я дочитал книгу' — правильный вариант с результативным дополнением"
+      },
+      {
+        "ord": 7,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "I see, so plain 了 without a result complement doesn't sound complete in a 把 sentence."
+      },
+      {
+        "ord": 8,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Exactly. Now let's look at question two — the measure word mistake most of you made."
+      },
+      {
+        "ord": 9,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "That was the one about two tickets, right? I wrote 两个票 instead of 两张票."
+      },
+      {
+        "ord": 10,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Right, tickets are flat, so they take 张, not the general 个. Small mistake, but it stands out to a native speaker."
+      },
+      {
+        "ord": 11,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "Got it. Is there a list of common measure-word mistakes we could review before the next test?"
+      },
+      {
+        "ord": 12,
+        "speaker": "Teacher",
+        "lang": "en",
+        "text": "Good idea, I'll put together a short handout and share it with the class this week."
+      },
+      {
+        "ord": 13,
+        "speaker": "Student",
+        "lang": "en",
+        "text": "That would help a lot, thank you."
+      }
+    ]
+  }
+]

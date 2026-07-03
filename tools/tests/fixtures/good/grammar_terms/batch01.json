@@ -1,0 +1,11 @@
+[
+  {
+    "id": "gram:0001",
+    "term": "measure word",
+    "en_explanation": "A special word that goes between a number and a noun in Chinese sentences.",
+    "ru_translation": "счётное слово",
+    "zh_example": "三本书",
+    "zh_example_pinyin": "sān běn shū",
+    "zh_example_en": "three books"
+  }
+]

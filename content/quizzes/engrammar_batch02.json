@@ -1,0 +1,200 @@
+[
+  {
+    "id": "quiz:engrammar:0013",
+    "category": "engrammar",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "There is ___ apple on the table.",
+    "options": ["a", "an", "the", "some"],
+    "answer": "an",
+    "explanation": "Use 'an' before a word that starts with a vowel sound, such as 'apple'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0014",
+    "category": "engrammar",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "We usually go ___ school by bus.",
+    "options": ["in", "on", "to", "at"],
+    "answer": "to",
+    "explanation": "'Go to school' is the correct preposition for movement toward a place.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0015",
+    "category": "engrammar",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "Find the error: 'She don't like fish.'",
+    "options": ["She", "don't", "like", "fish"],
+    "answer": "don't",
+    "explanation": "With third person singular 'she', the negative form should be 'doesn't', not 'don't'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0016",
+    "category": "engrammar",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "Look! It ___ outside. Take an umbrella.",
+    "options": ["rains", "is raining", "rain", "rained"],
+    "answer": "is raining",
+    "explanation": "Present continuous is used for an action happening right now, signaled by 'Look!'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0017",
+    "category": "engrammar",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "The letter ___ by the secretary this morning.",
+    "options": ["wrote", "was written", "is writing", "has write"],
+    "answer": "was written",
+    "explanation": "Passive voice ('was written') is needed because the letter receives the action rather than doing it.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0018",
+    "category": "engrammar",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "If it rains tomorrow, we ___ the picnic.",
+    "options": ["cancel", "will cancel", "would cancel", "canceled"],
+    "answer": "will cancel",
+    "explanation": "This is a first conditional (real future possibility): if + present simple, will + base verb.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0019",
+    "category": "engrammar",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "Find the error: 'I have seen that movie yesterday.'",
+    "options": ["I", "have seen", "that movie", "yesterday"],
+    "answer": "have seen",
+    "explanation": "Present perfect cannot be used with a finished time expression like 'yesterday'; it should be past simple 'saw'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0020",
+    "category": "engrammar",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "He said that he ___ tired the day before.",
+    "options": ["is", "was", "has been", "will be"],
+    "answer": "was",
+    "explanation": "In reported speech, present simple 'is' shifts back to past simple 'was' when the reporting verb is in the past.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0021",
+    "category": "engrammar",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "By next June, she ___ here for ten years.",
+    "options": ["will work", "will have worked", "works", "worked"],
+    "answer": "will have worked",
+    "explanation": "Future perfect describes an action that will be completed before a specific point in the future.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0022",
+    "category": "engrammar",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "This is the book ___ I told you about.",
+    "options": ["who", "which", "whose", "where"],
+    "answer": "which",
+    "explanation": "'Which' is the correct relative pronoun for referring back to a thing, here 'the book'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0023",
+    "category": "engrammar",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "If I ___ harder at school, I would have a better job now.",
+    "options": ["studied", "had studied", "study", "would study"],
+    "answer": "had studied",
+    "explanation": "This is a mixed conditional: past perfect in the if-clause describes an unreal past condition affecting the present result.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0024",
+    "category": "engrammar",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Find the error: 'The report must finished by Friday.'",
+    "options": ["The report", "must finished", "by", "Friday"],
+    "answer": "must finished",
+    "explanation": "Passive modal constructions require 'be' plus the past participle: 'must be finished', not 'must finished'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0025",
+    "category": "engrammar",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Not only ___ late, but he also forgot the documents.",
+    "options": ["he was", "was he", "he is", "is he"],
+    "answer": "was he",
+    "explanation": "After the negative adverbial 'Not only' at the start of a sentence, subject-auxiliary inversion is required.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0026",
+    "category": "engrammar",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "She suggested that he ___ the contract before signing.",
+    "options": ["reads", "read", "reading", "will read"],
+    "answer": "read",
+    "explanation": "After verbs like 'suggest', the subjunctive base form is used regardless of subject: 'that he read', not 'reads'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0027",
+    "category": "engrammar",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Find the error: 'The project, that was delayed twice, finally launched.'",
+    "options": ["The project", "that", "was delayed twice", "finally launched"],
+    "answer": "that",
+    "explanation": "Non-defining relative clauses set off by commas require 'which', not 'that', to refer to things.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0028",
+    "category": "engrammar",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "He apologized ___ arriving late to the meeting.",
+    "options": ["to", "for", "about", "of"],
+    "answer": "for",
+    "explanation": "'Apologize for' is the correct fixed preposition combination when explaining the reason for an apology.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0029",
+    "category": "engrammar",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Had I known about the traffic, I ___ earlier.",
+    "options": ["would leave", "would have left", "left", "will leave"],
+    "answer": "would have left",
+    "explanation": "This is an inverted third conditional (formal alternative to 'If I had known'), requiring 'would have + past participle' in the main clause.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:engrammar:0030",
+    "category": "engrammar",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Find the error: 'By the time we arrived, the film already started.'",
+    "options": ["By the time", "we arrived", "the film", "already started"],
+    "answer": "already started",
+    "explanation": "The action before another past action needs past perfect: 'had already started', not simple past.",
+    "passage_id": null
+  }
+]

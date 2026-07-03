@@ -1,0 +1,255 @@
+[
+  {
+    "id": "quiz:listening:0013",
+    "category": "listening",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "Why is the second floor of the canteen closed today?",
+    "options": ["For cleaning", "For a meeting", "For repairs"],
+    "answer": "For cleaning",
+    "explanation": "The announcement says, \"Today the second floor is closed for cleaning.\"",
+    "passage_id": "pass:a2:03"
+  },
+  {
+    "id": "quiz:listening:0014",
+    "category": "listening",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "When will the second floor open again?",
+    "options": ["Tomorrow morning at seven", "Tonight at eight", "Next week"],
+    "answer": "Tomorrow morning at seven",
+    "explanation": "The announcement states, \"The second floor will open again tomorrow morning at seven.\"",
+    "passage_id": "pass:a2:03"
+  },
+  {
+    "id": "quiz:listening:0015",
+    "category": "listening",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "When is the test now, after the change?",
+    "options": ["Friday", "Next Monday", "Next Friday"],
+    "answer": "Next Monday",
+    "explanation": "The teacher says, \"Our test on Friday moves to next Monday instead.\"",
+    "passage_id": "pass:a2:04"
+  },
+  {
+    "id": "quiz:listening:0016",
+    "category": "listening",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "What should students NOT bring into the test room?",
+    "options": ["A pencil", "Their phone", "Their student card"],
+    "answer": "Their phone",
+    "explanation": "The teacher says, \"Do not bring your phone into the room.\"",
+    "passage_id": "pass:a2:04"
+  },
+  {
+    "id": "quiz:listening:0017",
+    "category": "listening",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "What time does the campus bookshop open?",
+    "options": ["Seven in the morning", "Eight in the morning", "Eight at night"],
+    "answer": "Eight in the morning",
+    "explanation": "The speaker says the bookshop is \"open every day from eight in the morning to eight at night.\"",
+    "passage_id": "pass:a2:05"
+  },
+  {
+    "id": "quiz:listening:0018",
+    "category": "listening",
+    "level": "A2",
+    "type": "mcq",
+    "prompt": "What is cheaper today only?",
+    "options": ["Textbooks", "Notebooks", "Pens"],
+    "answer": "Notebooks",
+    "explanation": "The announcement says, \"Today only, all notebooks are cheaper.\"",
+    "passage_id": "pass:a2:05"
+  },
+  {
+    "id": "quiz:listening:0019",
+    "category": "listening",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "Why should students arrive ten minutes early to the lab session?",
+    "options": [
+      "To distribute safety goggles before the experiment",
+      "To find the new classroom",
+      "To hand in their lab notebooks",
+      "To meet the new teacher"
+    ],
+    "answer": "To distribute safety goggles before the experiment",
+    "explanation": "The speaker explains, \"we need to distribute safety goggles before the experiment begins.\"",
+    "passage_id": "pass:b1:03"
+  },
+  {
+    "id": "quiz:listening:0020",
+    "category": "listening",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "Why will the session take place in a different room?",
+    "options": [
+      "Because the usual lab is being repaired",
+      "Because there are too many students",
+      "Because it is a special event",
+      "Because the school changed schedules"
+    ],
+    "answer": "Because the usual lab is being repaired",
+    "explanation": "The speaker says the session moves to room 215 \"since our regular room is being repaired.\"",
+    "passage_id": "pass:b1:03"
+  },
+  {
+    "id": "quiz:listening:0021",
+    "category": "listening",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "When will the water supply be interrupted?",
+    "options": [
+      "Saturday morning between eight and eleven",
+      "Sunday all day",
+      "Every morning this week",
+      "Friday night"
+    ],
+    "answer": "Saturday morning between eight and eleven",
+    "explanation": "The announcement says the water supply \"will be temporarily interrupted on Saturday morning between eight and eleven.\"",
+    "passage_id": "pass:b1:04"
+  },
+  {
+    "id": "quiz:listening:0022",
+    "category": "listening",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "What else will be closed during the repair hours?",
+    "options": [
+      "The laundry room",
+      "The canteen",
+      "The main gate",
+      "The library"
+    ],
+    "answer": "The laundry room",
+    "explanation": "The announcement states, \"The laundry room will also be closed during these hours.\"",
+    "passage_id": "pass:b1:04"
+  },
+  {
+    "id": "quiz:listening:0023",
+    "category": "listening",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "How many students will be in each project group?",
+    "options": ["Four", "Three", "Five"],
+    "answer": "Four",
+    "explanation": "The speaker says, \"Each group will consist of four students.\"",
+    "passage_id": "pass:b1:05"
+  },
+  {
+    "id": "quiz:listening:0024",
+    "category": "listening",
+    "level": "B1",
+    "type": "mcq",
+    "prompt": "How will students find out which group they are in?",
+    "options": [
+      "By checking the noticeboard outside the office",
+      "By receiving a personal email",
+      "By asking classmates",
+      "By checking the school website"
+    ],
+    "answer": "By checking the noticeboard outside the office",
+    "explanation": "The speaker says groups \"will be posted on the noticeboard outside my office\" and asks students to check there rather than emailing.",
+    "passage_id": "pass:b1:05"
+  },
+  {
+    "id": "quiz:listening:0025",
+    "category": "listening",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "By how much has the final project deadline been extended?",
+    "options": [
+      "One week",
+      "Two weeks",
+      "Three days",
+      "It has not been extended"
+    ],
+    "answer": "One week",
+    "explanation": "The speaker says the department \"agreed to extend the submission date by exactly one week, moving it from the tenth to the seventeenth.\"",
+    "passage_id": "pass:b2:03"
+  },
+  {
+    "id": "quiz:listening:0026",
+    "category": "listening",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Does the extension apply to the oral presentations?",
+    "options": [
+      "No, they stay on the original date",
+      "Yes, they are also extended by a week",
+      "Yes, but only for some students",
+      "The presentations were cancelled"
+    ],
+    "answer": "No, they stay on the original date",
+    "explanation": "The speaker clarifies the extension \"applies only to the written report; the oral presentations will still take place on the originally scheduled date.\"",
+    "passage_id": "pass:b2:03"
+  },
+  {
+    "id": "quiz:listening:0027",
+    "category": "listening",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Until what time will the library stay open during the examination period?",
+    "options": [
+      "One in the morning",
+      "Midnight",
+      "Ten at night",
+      "All night, twenty-four hours"
+    ],
+    "answer": "One in the morning",
+    "explanation": "The speaker says the library will remain \"open until one in the morning to accommodate increased demand.\"",
+    "passage_id": "pass:b2:04"
+  },
+  {
+    "id": "quiz:listening:0028",
+    "category": "listening",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Who is given priority for entry once the library reaches maximum occupancy?",
+    "options": [
+      "Students who reserve a seat in advance online",
+      "Students who arrive first each day",
+      "Graduate students only",
+      "Students studying in groups"
+    ],
+    "answer": "Students who reserve a seat in advance online",
+    "explanation": "The speaker says \"priority will be given to students who reserve a seat in advance through the online booking system.\"",
+    "passage_id": "pass:b2:04"
+  },
+  {
+    "id": "quiz:listening:0029",
+    "category": "listening",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "According to the speaker, what does 'accuracy' refer to?",
+    "options": [
+      "How closely a measured value approaches the true value",
+      "How consistently repeated measurements agree with each other",
+      "How quickly a measurement can be taken",
+      "How expensive the measuring equipment is"
+    ],
+    "answer": "How closely a measured value approaches the true value",
+    "explanation": "The speaker defines accuracy as referring \"to how closely a measured value approaches the true, accepted value.\"",
+    "passage_id": "pass:b2:05"
+  },
+  {
+    "id": "quiz:listening:0030",
+    "category": "listening",
+    "level": "B2",
+    "type": "mcq",
+    "prompt": "Is it possible for measurements to be precise but not accurate?",
+    "options": [
+      "Yes, precise measurements can still be consistently wrong",
+      "No, precision and accuracy always match",
+      "No, precise measurements are always accurate",
+      "Only if the equipment is broken"
+    ],
+    "answer": "Yes, precise measurements can still be consistently wrong",
+    "explanation": "The speaker says it is possible \"for a set of measurements to be highly precise yet consistently inaccurate.\"",
+    "passage_id": "pass:b2:05"
+  }
+]

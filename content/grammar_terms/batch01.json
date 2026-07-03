@@ -1,0 +1,542 @@
+[
+  {
+    "id": "gram:0001",
+    "term": "measure word",
+    "en_explanation": "A special word that goes between a number and a noun in Chinese. You must use the correct measure word for each type of object, like 'three books' needs 本 (běn).",
+    "ru_translation": "счётное слово",
+    "zh_example": "三本书",
+    "zh_example_pinyin": "sān běn shū",
+    "zh_example_en": "three books"
+  },
+  {
+    "id": "gram:0002",
+    "term": "classifier",
+    "en_explanation": "Another name for measure word. It classifies and counts nouns by grouping them into categories based on their shape or type.",
+    "ru_translation": "классификатор",
+    "zh_example": "两只猫",
+    "zh_example_pinyin": "liǎng zhī māo",
+    "zh_example_en": "two cats"
+  },
+  {
+    "id": "gram:0003",
+    "term": "tone",
+    "en_explanation": "The rise and fall of your voice pitch on a syllable in Chinese. There are four main tones, plus a neutral tone. Changing the tone changes the word's meaning completely.",
+    "ru_translation": "тон",
+    "zh_example": "妈麻马骂吗",
+    "zh_example_pinyin": "mā má mǎ mà ma",
+    "zh_example_en": "mother, hemp, horse, scold, question particle"
+  },
+  {
+    "id": "gram:0004",
+    "term": "tone sandhi",
+    "en_explanation": "When two tones come together, one tone changes to help you speak more naturally. For example, two third tones together become second tone then third tone.",
+    "ru_translation": "ассимиляция тонов",
+    "zh_example": "你好",
+    "zh_example_pinyin": "nǐ hǎo",
+    "zh_example_en": "hello (two third tones, first becomes second)"
+  },
+  {
+    "id": "gram:0005",
+    "term": "neutral tone",
+    "en_explanation": "A very light tone with no pitch change. It is less emphasized and sounds like you are simply saying the sound without worrying about going up or down.",
+    "ru_translation": "нейтральный тон",
+    "zh_example": "妈妈",
+    "zh_example_pinyin": "māma",
+    "zh_example_en": "mother"
+  },
+  {
+    "id": "gram:0006",
+    "term": "pinyin",
+    "en_explanation": "The Romanization system for Chinese that uses Latin alphabet letters to show how to pronounce Chinese words. It includes tone marks above the vowels.",
+    "ru_translation": "пиньинь",
+    "zh_example": "北京",
+    "zh_example_pinyin": "běi jīng",
+    "zh_example_en": "Beijing"
+  },
+  {
+    "id": "gram:0007",
+    "term": "character",
+    "en_explanation": "A single Chinese written symbol. Unlike letters in English, one character usually represents one complete syllable or morpheme with its own meaning.",
+    "ru_translation": "иероглиф",
+    "zh_example": "木",
+    "zh_example_pinyin": "mù",
+    "zh_example_en": "wood"
+  },
+  {
+    "id": "gram:0008",
+    "term": "radical",
+    "en_explanation": "The main building block of a Chinese character that gives you a clue about the word's meaning. Characters are organized in dictionaries by their radical.",
+    "ru_translation": "ключ",
+    "zh_example": "木",
+    "zh_example_pinyin": "mù",
+    "zh_example_en": "wood radical"
+  },
+  {
+    "id": "gram:0009",
+    "term": "stroke order",
+    "en_explanation": "The correct sequence of pen strokes to write a Chinese character. Following the proper stroke order makes your handwriting look correct and helps you learn characters better.",
+    "ru_translation": "порядок черт",
+    "zh_example": "木",
+    "zh_example_pinyin": "mù",
+    "zh_example_en": "wood (written in four strokes)"
+  },
+  {
+    "id": "gram:0010",
+    "term": "simplified character",
+    "en_explanation": "A modern Chinese character with fewer strokes, used mainly in mainland China and Singapore. These characters are easier to write than traditional ones.",
+    "ru_translation": "упрощённый иероглиф",
+    "zh_example": "爱",
+    "zh_example_pinyin": "ài",
+    "zh_example_en": "love (simplified)"
+  },
+  {
+    "id": "gram:0011",
+    "term": "traditional character",
+    "en_explanation": "The older, more complex form of Chinese characters with more strokes. These are mainly used in Taiwan, Hong Kong, and Chinese diaspora communities.",
+    "ru_translation": "традиционный иероглиф",
+    "zh_example": "愛",
+    "zh_example_pinyin": "ài",
+    "zh_example_en": "love (traditional)"
+  },
+  {
+    "id": "gram:0012",
+    "term": "monosyllabic",
+    "en_explanation": "A word made of only one syllable or character. Most basic nouns and verbs in Chinese are monosyllabic, like 书 (book) or 走 (go).",
+    "ru_translation": "односложный",
+    "zh_example": "书",
+    "zh_example_pinyin": "shū",
+    "zh_example_en": "book"
+  },
+  {
+    "id": "gram:0013",
+    "term": "disyllabic",
+    "en_explanation": "A word made of two syllables or characters. Modern Chinese uses many disyllabic words instead of monosyllabic ones, like 学生 (student).",
+    "ru_translation": "двусложный",
+    "zh_example": "学生",
+    "zh_example_pinyin": "xuéshēng",
+    "zh_example_en": "student"
+  },
+  {
+    "id": "gram:0014",
+    "term": "aspect particle 了",
+    "en_explanation": "The particle 了 shows that an action is finished or completed. It does not give time, so you can use it with past, present, or future situations.",
+    "ru_translation": "частица вида 了",
+    "zh_example": "我吃了饭。",
+    "zh_example_pinyin": "wǒ chīle fàn.",
+    "zh_example_en": "I have eaten rice."
+  },
+  {
+    "id": "gram:0015",
+    "term": "aspect particle 过",
+    "en_explanation": "The particle 过 shows that you have done something at least one time before. It emphasizes your experience with the action, not when it happened.",
+    "ru_translation": "частица вида 过",
+    "zh_example": "我去过中国。",
+    "zh_example_pinyin": "wǒ qùguo zhōngguó.",
+    "zh_example_en": "I have been to China."
+  },
+  {
+    "id": "gram:0016",
+    "term": "aspect particle 着",
+    "en_explanation": "The particle 着 shows that an action is happening right now or in progress. It describes a continuing state or action at a specific time.",
+    "ru_translation": "частица вида 着",
+    "zh_example": "他坐着。",
+    "zh_example_pinyin": "tā zuòzhe.",
+    "zh_example_en": "He is sitting."
+  },
+  {
+    "id": "gram:0017",
+    "term": "progressive aspect",
+    "en_explanation": "The verb form that shows an action happening right now, at this moment. In Chinese, you make this with 正在, 在, or 着.",
+    "ru_translation": "длительный вид",
+    "zh_example": "我正在读书。",
+    "zh_example_pinyin": "wǒ zhèngzài dúshū.",
+    "zh_example_en": "I am reading right now."
+  },
+  {
+    "id": "gram:0018",
+    "term": "experiential aspect",
+    "en_explanation": "The verb form showing that you have had an experience with something before. In Chinese, you use 过 to mark this.",
+    "ru_translation": "экспериентивный вид",
+    "zh_example": "我看过这部电影。",
+    "zh_example_pinyin": "wǒ kànguo zhè bù diànyǐng.",
+    "zh_example_en": "I have watched this movie before."
+  },
+  {
+    "id": "gram:0019",
+    "term": "sentence-final particle 吗",
+    "en_explanation": "The particle 吗 goes at the end of a statement to turn it into a yes-no question. It is the most common way to ask questions in Chinese.",
+    "ru_translation": "частица 吗",
+    "zh_example": "你是学生吗？",
+    "zh_example_pinyin": "Nǐ shì xuésheng ma?",
+    "zh_example_en": "Are you a student?"
+  },
+  {
+    "id": "gram:0020",
+    "term": "sentence-final particle 呢",
+    "en_explanation": "The particle 呢 goes at the end to ask a question or show a contrasting situation. You use it when comparing or asking about something different.",
+    "ru_translation": "частица 呢",
+    "zh_example": "你呢？",
+    "zh_example_pinyin": "nǐ ne?",
+    "zh_example_en": "And you?"
+  },
+  {
+    "id": "gram:0021",
+    "term": "sentence-final particle 吧",
+    "en_explanation": "The particle 吧 at the end softens a statement or suggests something. It can mean 'let's', 'I suppose', or 'what do you think?'",
+    "ru_translation": "частица 吧",
+    "zh_example": "我们去吧。",
+    "zh_example_pinyin": "wǒmen qù ba.",
+    "zh_example_en": "Let's go."
+  },
+  {
+    "id": "gram:0022",
+    "term": "modal particle",
+    "en_explanation": "A small word at the end of a sentence that changes the mood or feeling. It doesn't change the basic meaning, but makes the sentence sound softer or more certain.",
+    "ru_translation": "модальная частица",
+    "zh_example": "这很好呀。",
+    "zh_example_pinyin": "zhè hěn hǎo ya.",
+    "zh_example_en": "This is really nice!"
+  },
+  {
+    "id": "gram:0023",
+    "term": "auxiliary verb",
+    "en_explanation": "A verb that comes before the main verb to show ability, permission, or necessity. Examples are 能 (can), 会 (know how), 应该 (should), 要 (need to).",
+    "ru_translation": "вспомогательный глагол",
+    "zh_example": "我能游泳。",
+    "zh_example_pinyin": "wǒ néng yóuyǒng.",
+    "zh_example_en": "I can swim."
+  },
+  {
+    "id": "gram:0024",
+    "term": "complement of result",
+    "en_explanation": "A word that comes after a verb to show the result or outcome of an action. It tells you what happened after the verb, like 做好 (do well) or 吃完 (finish eating).",
+    "ru_translation": "дополнение результата",
+    "zh_example": "我做好了。",
+    "zh_example_pinyin": "wǒ zuòhǎole.",
+    "zh_example_en": "I have done it well."
+  },
+  {
+    "id": "gram:0025",
+    "term": "complement of direction",
+    "en_explanation": "A word that comes after a verb to show direction or position. It tells where something goes or where an action happens, like 进去 (go in) or 走出来 (come out).",
+    "ru_translation": "дополнение направления",
+    "zh_example": "他进去了。",
+    "zh_example_pinyin": "tā jìnqu le.",
+    "zh_example_en": "He went in."
+  },
+  {
+    "id": "gram:0026",
+    "term": "resultative",
+    "en_explanation": "A verb construction where the result of the action is directly shown in the verb phrase. It combines the main verb and a result word together, like 吃完 (finish eating).",
+    "ru_translation": "результативная конструкция",
+    "zh_example": "我吃完饭了。",
+    "zh_example_pinyin": "wǒ chīwán fàn le.",
+    "zh_example_en": "I finished eating rice."
+  },
+  {
+    "id": "gram:0027",
+    "term": "topic-comment structure",
+    "en_explanation": "A sentence structure where you first state the topic (what you are talking about), then give a comment about it. Chinese uses this more than English.",
+    "ru_translation": "структура тема-ремарка",
+    "zh_example": "这本书，我很喜欢。",
+    "zh_example_pinyin": "zhè běn shū, wǒ hěn xǐhuān.",
+    "zh_example_en": "This book, I like it very much."
+  },
+  {
+    "id": "gram:0028",
+    "term": "serial verb construction",
+    "en_explanation": "A sentence with two or more verbs in a row that show related or sequential actions. Each verb has its own object sometimes, like 买一本书给她 (buy a book for her).",
+    "ru_translation": "последовательная глагольная конструкция",
+    "zh_example": "我去买书。",
+    "zh_example_pinyin": "wǒ qù mǎi shū.",
+    "zh_example_en": "I go to buy books."
+  },
+  {
+    "id": "gram:0029",
+    "term": "reduplication",
+    "en_explanation": "When you repeat a word or part of a word twice. This can show a continuous action, an adjective that is softer, or create a new meaning.",
+    "ru_translation": "редупликация",
+    "zh_example": "慢慢地走",
+    "zh_example_pinyin": "mànman de zǒu",
+    "zh_example_en": "walk slowly"
+  },
+  {
+    "id": "gram:0030",
+    "term": "structural particle 的",
+    "en_explanation": "The particle 的 shows possession or describes a noun. It connects an adjective or possession word to the noun it modifies, like 红的书 (red book).",
+    "ru_translation": "структурная частица 的",
+    "zh_example": "我的书",
+    "zh_example_pinyin": "wǒ de shū",
+    "zh_example_en": "my book"
+  },
+  {
+    "id": "gram:0031",
+    "term": "interrogative pronoun",
+    "en_explanation": "A question word that asks for information. Examples are 什么 (what), 谁 (who), 哪里 (where), 为什么 (why), 怎样 (how).",
+    "ru_translation": "вопросительное местоимение",
+    "zh_example": "你叫什么名字？",
+    "zh_example_pinyin": "nǐ jiào shénme míngzi?",
+    "zh_example_en": "What is your name?"
+  },
+  {
+    "id": "gram:0032",
+    "term": "word order",
+    "en_explanation": "The sequence or arrangement of words in a sentence. Chinese word order is quite strict and different from English, like subject-verb-object-location.",
+    "ru_translation": "порядок слов",
+    "zh_example": "我在学校读书。",
+    "zh_example_pinyin": "wǒ zài xuéxiào dúshū.",
+    "zh_example_en": "I read at school."
+  },
+  {
+    "id": "gram:0033",
+    "term": "initial",
+    "en_explanation": "The first consonant sound or group of sounds at the start of a syllable in Chinese. Examples are b, p, m, f, d, t, n, l, g, k, h.",
+    "ru_translation": "инициаль",
+    "zh_example": "妈",
+    "zh_example_pinyin": "mā",
+    "zh_example_en": "mother (m is the initial)"
+  },
+  {
+    "id": "gram:0034",
+    "term": "final",
+    "en_explanation": "The vowel sound or vowel plus consonant sound that comes after the initial consonant in a syllable. Examples are a, an, ang, o, ong, e, en, eng, i, in, ing.",
+    "ru_translation": "финаль",
+    "zh_example": "妈",
+    "zh_example_pinyin": "mā",
+    "zh_example_en": "mother (ā is the final)"
+  },
+  {
+    "id": "gram:0035",
+    "term": "syllable",
+    "en_explanation": "A sound unit in language that usually has one vowel. In Chinese, one syllable equals one character, and each syllable has an initial, a final, and a tone.",
+    "ru_translation": "слог",
+    "zh_example": "妈妈",
+    "zh_example_pinyin": "mā ma",
+    "zh_example_en": "mother (two syllables)"
+  },
+  {
+    "id": "gram:0036",
+    "term": "noun",
+    "en_explanation": "A word that names a person, place, thing, or idea. In Chinese, nouns do not change form for singular or plural like in English.",
+    "ru_translation": "имя существительное",
+    "zh_example": "学生",
+    "zh_example_pinyin": "xuéshēng",
+    "zh_example_en": "student"
+  },
+  {
+    "id": "gram:0037",
+    "term": "verb",
+    "en_explanation": "A word that shows an action or a state of being. Examples are 吃 (eat), 走 (walk), 是 (be), 有 (have). Verbs in Chinese do not change form for person or tense.",
+    "ru_translation": "глагол",
+    "zh_example": "吃",
+    "zh_example_pinyin": "chī",
+    "zh_example_en": "eat"
+  },
+  {
+    "id": "gram:0038",
+    "term": "adjective",
+    "en_explanation": "A word that describes or modifies a noun. In Chinese, adjectives usually come right before the noun and can sometimes act like verbs, like 很漂亮 (very pretty).",
+    "ru_translation": "имя прилагательное",
+    "zh_example": "红的",
+    "zh_example_pinyin": "hóng de",
+    "zh_example_en": "red"
+  },
+  {
+    "id": "gram:0039",
+    "term": "adverb",
+    "en_explanation": "A word that modifies or describes a verb, adjective, or another adverb. It often shows how, when, where, or to what degree something happens, like 很 (very) or 快 (quickly).",
+    "ru_translation": "наречие",
+    "zh_example": "很快",
+    "zh_example_pinyin": "hěn kuài",
+    "zh_example_en": "very quick"
+  },
+  {
+    "id": "gram:0040",
+    "term": "subject",
+    "en_explanation": "The noun or pronoun at the beginning of a sentence that does the action or is being described. The subject usually comes before the verb in English and Chinese.",
+    "ru_translation": "подлежащее",
+    "zh_example": "我",
+    "zh_example_pinyin": "wǒ",
+    "zh_example_en": "I (subject in many sentences)"
+  },
+  {
+    "id": "gram:0041",
+    "term": "predicate",
+    "en_explanation": "The verb or verb phrase in a sentence that shows what the subject does or its state. It tells what is happening or the quality of the subject.",
+    "ru_translation": "сказуемое",
+    "zh_example": "喜欢",
+    "zh_example_pinyin": "xǐhuān",
+    "zh_example_en": "like (predicate in '我喜欢你')"
+  },
+  {
+    "id": "gram:0042",
+    "term": "object",
+    "en_explanation": "The noun or pronoun that receives the action of the verb. The object usually comes after the verb in English and Chinese, like 书 in 我读书 (I read books).",
+    "ru_translation": "дополнение",
+    "zh_example": "书",
+    "zh_example_pinyin": "shū",
+    "zh_example_en": "books (object in '我读书')"
+  },
+  {
+    "id": "gram:0043",
+    "term": "direct object",
+    "en_explanation": "The main noun that receives the action directly. It answers the question 'what' or 'whom'. In 我爱你, 你 is the direct object.",
+    "ru_translation": "прямое дополнение",
+    "zh_example": "你",
+    "zh_example_pinyin": "nǐ",
+    "zh_example_en": "you (direct object in '我爱你')"
+  },
+  {
+    "id": "gram:0044",
+    "term": "indirect object",
+    "en_explanation": "The noun that receives the result of the action indirectly. It answers the question 'to whom' or 'for whom', like 她 in 我给她一本书 (I give her a book).",
+    "ru_translation": "косвенное дополнение",
+    "zh_example": "她",
+    "zh_example_pinyin": "tā",
+    "zh_example_en": "her (indirect object in '我给她书')"
+  },
+  {
+    "id": "gram:0045",
+    "term": "attribute",
+    "en_explanation": "A word or phrase that describes or modifies a noun, coming before it. In Chinese, adjectives and possessives are attributes, connected by 的.",
+    "ru_translation": "определение",
+    "zh_example": "红的",
+    "zh_example_pinyin": "hóng de",
+    "zh_example_en": "red (attribute in '红的书')"
+  },
+  {
+    "id": "gram:0046",
+    "term": "attributive",
+    "en_explanation": "Any word or phrase that works like an adjective to describe another word. In Chinese, attributives come before the noun they modify.",
+    "ru_translation": "атрибутивный",
+    "zh_example": "新的朋友",
+    "zh_example_pinyin": "xīn de péngyou",
+    "zh_example_en": "new friend"
+  },
+  {
+    "id": "gram:0047",
+    "term": "adverbial",
+    "en_explanation": "A word or phrase that modifies a verb, adjective, or sentence by giving information about how, when, where, or why. In Chinese, adverbials come before the verb.",
+    "ru_translation": "обстоятельство",
+    "zh_example": "在学校",
+    "zh_example_pinyin": "zài xuéxiào",
+    "zh_example_en": "at school (adverbial in '我在学校读书')"
+  },
+  {
+    "id": "gram:0048",
+    "term": "complement",
+    "en_explanation": "A word or phrase that comes after a verb to complete its meaning or show its result, manner, or direction. It is different from an object because it adds to the verb, not the subject.",
+    "ru_translation": "комплемент",
+    "zh_example": "很高兴",
+    "zh_example_pinyin": "hěn gāoxìng",
+    "zh_example_en": "very happy (complement in '我很高兴')"
+  },
+  {
+    "id": "gram:0049",
+    "term": "clause",
+    "en_explanation": "A group of words with a subject and verb that can stand alone or depend on another clause. Chinese sentences often have multiple clauses joined together.",
+    "ru_translation": "придаточное предложение",
+    "zh_example": "当我到家的时候，妈妈在做饭。",
+    "zh_example_pinyin": "dāng wǒ dàojiā de shíhou, māma zài zuòfàn.",
+    "zh_example_en": "When I arrived home, mother was cooking."
+  },
+  {
+    "id": "gram:0050",
+    "term": "phrase",
+    "en_explanation": "A group of words that work together but do not have a complete subject and verb. Phrases can modify nouns, verbs, or adjectives.",
+    "ru_translation": "словосочетание",
+    "zh_example": "一本有趣的书",
+    "zh_example_pinyin": "yī běn yǒuqù de shū",
+    "zh_example_en": "an interesting book"
+  },
+  {
+    "id": "gram:0051",
+    "term": "sentence",
+    "en_explanation": "A complete unit of language that has a subject and a predicate and can stand alone. A sentence expresses a complete thought or idea.",
+    "ru_translation": "предложение",
+    "zh_example": "我喜欢学中文。",
+    "zh_example_pinyin": "wǒ xǐhuān xué zhōngwén.",
+    "zh_example_en": "I like learning Chinese."
+  },
+  {
+    "id": "gram:0052",
+    "term": "particle",
+    "en_explanation": "A small word that does not change form and has a grammar or emotion function. Particles often come at the end of a sentence to change its mood.",
+    "ru_translation": "частица",
+    "zh_example": "你好吗？",
+    "zh_example_pinyin": "Nǐ hǎo ma?",
+    "zh_example_en": "How are you? (吗 is a question particle)"
+  },
+  {
+    "id": "gram:0053",
+    "term": "preposition",
+    "en_explanation": "A small word that shows the relationship between a noun and other words in a sentence, like position, direction, or time. Examples are 在 (at), 从 (from), 到 (to).",
+    "ru_translation": "предлог",
+    "zh_example": "在家里",
+    "zh_example_pinyin": "zài jiālǐ",
+    "zh_example_en": "at home"
+  },
+  {
+    "id": "gram:0054",
+    "term": "conjunction",
+    "en_explanation": "A word that connects words, phrases, or clauses together. Examples are 和 (and), 或 (or), 但是 (but), 因为 (because).",
+    "ru_translation": "союз",
+    "zh_example": "我和你",
+    "zh_example_pinyin": "wǒ hé nǐ",
+    "zh_example_en": "me and you"
+  },
+  {
+    "id": "gram:0055",
+    "term": "pronoun",
+    "en_explanation": "A word that replaces a noun to avoid repeating it. Examples are 我 (I), 你 (you), 他 (he), 她 (she), 它 (it), 我们 (we), 他们 (they).",
+    "ru_translation": "местоимение",
+    "zh_example": "他是我的朋友。",
+    "zh_example_pinyin": "Tā shì wǒ de péngyou.",
+    "zh_example_en": "He is my friend."
+  },
+  {
+    "id": "gram:0056",
+    "term": "subject-predicate",
+    "en_explanation": "A structure where the subject and its predicate relationship forms the core of a sentence or clause. This is the basic sentence pattern in Chinese.",
+    "ru_translation": "подлежащее-сказуемое",
+    "zh_example": "她是老师。",
+    "zh_example_pinyin": "tā shì lǎoshī.",
+    "zh_example_en": "She is a teacher."
+  },
+  {
+    "id": "gram:0057",
+    "term": "quantifier",
+    "en_explanation": "A word that shows quantity or amount before a noun. It can be a number like 三 (three) or a quantity word like 很多 (many), 一些 (some).",
+    "ru_translation": "квантификатор",
+    "zh_example": "很多书",
+    "zh_example_pinyin": "hěnduō shū",
+    "zh_example_en": "many books"
+  },
+  {
+    "id": "gram:0058",
+    "term": "negative marker",
+    "en_explanation": "A word that makes a sentence negative or denies something. In Chinese, 不 (no/not) is the main negative marker for most verbs and adjectives.",
+    "ru_translation": "отрицательный маркер",
+    "zh_example": "我不喜欢。",
+    "zh_example_pinyin": "wǒ búxǐhuān.",
+    "zh_example_en": "I don't like it."
+  },
+  {
+    "id": "gram:0059",
+    "term": "copula",
+    "en_explanation": "A verb that links a subject to a noun, adjective, or other description. In Chinese, 是 (be) is the main copula, used to show identity or class.",
+    "ru_translation": "связка",
+    "zh_example": "我是学生。",
+    "zh_example_pinyin": "wǒ shì xuéshēng.",
+    "zh_example_en": "I am a student."
+  },
+  {
+    "id": "gram:0060",
+    "term": "morpheme",
+    "en_explanation": "The smallest unit of language that has meaning. In Chinese, most morphemes are single characters, and words can be made of one or more morphemes.",
+    "ru_translation": "морфема",
+    "zh_example": "学生",
+    "zh_example_pinyin": "xuéshēng",
+    "zh_example_en": "student (two morphemes: 学 + 生)"
+  }
+]

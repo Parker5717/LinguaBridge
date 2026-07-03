@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Listening passages batch",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "level", "text"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^pass:(a2|b1|b2):[0-9]{2}$" },
+      "level": { "enum": ["A2", "B1", "B2"] },
+      "text": { "type": "string", "minLength": 100, "maxLength": 900 }
+    }
+  }
+}

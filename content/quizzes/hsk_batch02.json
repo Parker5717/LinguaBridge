@@ -1,0 +1,200 @@
+[
+  {
+    "id": "quiz:hsk:0013",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "What does 老师 (lǎoshī) mean?",
+    "options": ["student", "teacher", "doctor", "friend"],
+    "answer": "teacher",
+    "explanation": "老师 is the common word for 'teacher', combining 老 (a respectful prefix) and 师 (master or instructor).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0014",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "Which pinyin matches the hanzi 水?",
+    "options": ["shuǐ", "shù", "huǒ", "huà"],
+    "answer": "shuǐ",
+    "explanation": "水 (water) is pronounced 'shuǐ' with a third tone.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0015",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "Choose the correct measure word: 一___猫 (one cat)",
+    "options": ["个 (gè)", "只 (zhī)", "本 (běn)", "张 (zhāng)"],
+    "answer": "只 (zhī)",
+    "explanation": "只 is the measure word used for many animals, including cats, birds, and dogs.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0016",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "What does 大 (dà) mean?",
+    "options": ["small", "big", "tall", "short"],
+    "answer": "big",
+    "explanation": "大 is a basic adjective meaning 'big' or 'large', the opposite of 小 (small).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0017",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "Read this simple sentence and answer: 他是我的朋友。Who is 他?",
+    "options": ["my teacher", "my friend", "my father", "my classmate"],
+    "answer": "my friend",
+    "explanation": "他是我的朋友 means 'He is my friend', where 朋友 (péngyou) means 'friend'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0018",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "Which pinyin matches the hanzi 天?",
+    "options": ["tiān", "tián", "diàn", "diǎn"],
+    "answer": "tiān",
+    "explanation": "天 (day/sky) is pronounced 'tiān' with a first tone.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0019",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "What does 小 (xiǎo) mean?",
+    "options": ["big", "small", "old", "new"],
+    "answer": "small",
+    "explanation": "小 is a basic adjective meaning 'small' or 'little', the opposite of 大 (big).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0020",
+    "category": "hsk",
+    "level": "HSK1",
+    "type": "mcq",
+    "prompt": "Choose the correct measure word: 两___水 (two glasses of water)",
+    "options": ["杯 (bēi)", "个 (gè)", "本 (běn)", "只 (zhī)"],
+    "answer": "杯 (bēi)",
+    "explanation": "杯 is the measure word for cups or glasses of liquid, so 'two glasses of water' is 两杯水.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0021",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "What does 今天 (jīntiān) mean?",
+    "options": ["yesterday", "today", "tomorrow", "every day"],
+    "answer": "today",
+    "explanation": "今天 combines 今 (present/now) and 天 (day), meaning 'today'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0022",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "Which pinyin matches the hanzi 学校?",
+    "options": ["xuéxiào", "xuéshēng", "lǎoshī", "xuéxí"],
+    "answer": "xuéxiào",
+    "explanation": "学校 (school) is pronounced 'xuéxiào'; 学生 (xuéshēng) means 'student' and is a different word.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0023",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "Read this simple sentence and answer: 我明天要去北京。When will the speaker go to Beijing?",
+    "options": ["today", "yesterday", "tomorrow", "next year"],
+    "answer": "tomorrow",
+    "explanation": "明天 (míngtiān) means 'tomorrow', so the sentence says 'I will go to Beijing tomorrow'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0024",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "What does 高兴 (gāoxìng) mean?",
+    "options": ["happy", "tired", "angry", "busy"],
+    "answer": "happy",
+    "explanation": "高兴 is a common adjective meaning 'happy' or 'glad', often used in greetings like 很高兴认识你 (nice to meet you).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0025",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "Choose the correct measure word: 一___衣服 (one piece of clothing)",
+    "options": ["件 (jiàn)", "个 (gè)", "本 (běn)", "只 (zhī)"],
+    "answer": "件 (jiàn)",
+    "explanation": "件 is the measure word used for items of clothing and certain matters or affairs.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0026",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "Which pinyin matches the hanzi 喜欢?",
+    "options": ["xǐhuan", "xǐhuān", "xǐhuàn", "xuéxí"],
+    "answer": "xǐhuan",
+    "explanation": "喜欢 (to like) is pronounced 'xǐhuan', with the second syllable in neutral tone.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0027",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "Read this simple sentence and answer: 她在图书馆看书。Where is she?",
+    "options": ["at school", "at the library", "at home", "at the restaurant"],
+    "answer": "at the library",
+    "explanation": "图书馆 (túshūguǎn) means 'library', so the sentence says 'She is reading a book at the library'.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0028",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "What does 便宜 (piányi) mean?",
+    "options": ["expensive", "cheap", "beautiful", "delicious"],
+    "answer": "cheap",
+    "explanation": "便宜 is a common adjective meaning 'cheap' or 'inexpensive', the opposite of 贵 (expensive).",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0029",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "Choose the correct measure word: 三___老师 (three teachers)",
+    "options": ["位 (wèi)", "只 (zhī)", "张 (zhāng)", "杯 (bēi)"],
+    "answer": "位 (wèi)",
+    "explanation": "位 is a polite measure word for people, especially used for showing respect, as with teachers or guests.",
+    "passage_id": null
+  },
+  {
+    "id": "quiz:hsk:0030",
+    "category": "hsk",
+    "level": "HSK2",
+    "type": "mcq",
+    "prompt": "Read this simple sentence and answer: 因为下雨，所以我们没有去公园。Why didn't they go to the park?",
+    "options": ["they were tired", "it was raining", "the park was closed", "they had no time"],
+    "answer": "it was raining",
+    "explanation": "因为...所以... means 'because...so...'; 下雨 means 'it rains/rained', giving the reason they did not go to the park.",
+    "passage_id": null
+  }
+]

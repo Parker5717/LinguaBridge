@@ -1,0 +1,632 @@
+[
+  {
+    "id": "stem:phys:0001",
+    "domain": "physics",
+    "term": "velocity",
+    "ru_translation": "скорость",
+    "symbol": "v, m/s",
+    "en_definition": "The rate of change of position of an object in a particular direction.",
+    "csca_example": "The particle moves with a constant velocity of 5 m/s along the x-axis."
+  },
+  {
+    "id": "stem:phys:0002",
+    "domain": "physics",
+    "term": "acceleration",
+    "ru_translation": "ускорение",
+    "symbol": "a, m/s²",
+    "en_definition": "The rate of change of velocity with respect to time.",
+    "csca_example": "A car undergoes uniform acceleration of 2 m/s² starting from rest."
+  },
+  {
+    "id": "stem:phys:0003",
+    "domain": "physics",
+    "term": "displacement",
+    "ru_translation": "перемещение",
+    "symbol": "s, m",
+    "en_definition": "The change in position of an object, a vector quantity with magnitude and direction.",
+    "csca_example": "The displacement of the object after 4 seconds is 32 meters to the north."
+  },
+  {
+    "id": "stem:phys:0004",
+    "domain": "physics",
+    "term": "distance",
+    "ru_translation": "расстояние",
+    "symbol": "d, m",
+    "en_definition": "The total length of the path traveled by an object, a scalar quantity.",
+    "csca_example": "The runner covers a distance of 400 meters in the race."
+  },
+  {
+    "id": "stem:phys:0005",
+    "domain": "physics",
+    "term": "kinematics",
+    "ru_translation": "кинематика",
+    "symbol": null,
+    "en_definition": "The branch of mechanics that describes motion without considering forces.",
+    "csca_example": "In kinematics problems, we analyze the motion equations for uniformly accelerated motion."
+  },
+  {
+    "id": "stem:phys:0006",
+    "domain": "physics",
+    "term": "initial velocity",
+    "ru_translation": "начальная скорость",
+    "symbol": "v₀, m/s",
+    "en_definition": "The velocity of an object at the beginning of the time interval being analyzed.",
+    "csca_example": "A projectile is launched with an initial velocity of 20 m/s at an angle of 45 degrees."
+  },
+  {
+    "id": "stem:phys:0007",
+    "domain": "physics",
+    "term": "final velocity",
+    "ru_translation": "конечная скорость",
+    "symbol": "v, m/s",
+    "en_definition": "The velocity of an object at the end of the time interval being analyzed.",
+    "csca_example": "Calculate the final velocity of the object after traveling for 5 seconds."
+  },
+  {
+    "id": "stem:phys:0008",
+    "domain": "physics",
+    "term": "free fall",
+    "ru_translation": "свободное падение",
+    "symbol": "g, m/s²",
+    "en_definition": "Motion of an object under the influence of gravitational force only, without air resistance.",
+    "csca_example": "An object in free fall near Earth's surface experiences a constant acceleration of 10 m/s²."
+  },
+  {
+    "id": "stem:phys:0009",
+    "domain": "physics",
+    "term": "uniform motion",
+    "ru_translation": "равномерное движение",
+    "symbol": null,
+    "en_definition": "Motion at constant velocity, where acceleration equals zero.",
+    "csca_example": "A train moves at uniform motion along a straight track at 50 m/s."
+  },
+  {
+    "id": "stem:phys:0010",
+    "domain": "physics",
+    "term": "uniformly accelerated motion",
+    "ru_translation": "равноускоренное движение",
+    "symbol": null,
+    "en_definition": "Motion with constant acceleration, where velocity changes linearly with time.",
+    "csca_example": "The body undergoes uniformly accelerated motion with an acceleration of 3 m/s²."
+  },
+  {
+    "id": "stem:phys:0011",
+    "domain": "physics",
+    "term": "initially at rest",
+    "ru_translation": "начально в покое",
+    "symbol": null,
+    "en_definition": "Starting condition where the initial velocity is zero at the beginning of motion.",
+    "csca_example": "A block is initially at rest on a horizontal surface and then pushed with a force."
+  },
+  {
+    "id": "stem:phys:0012",
+    "domain": "physics",
+    "term": "projectile motion",
+    "ru_translation": "движение тела под углом",
+    "symbol": null,
+    "en_definition": "Motion of an object launched into the air under the influence of gravity only.",
+    "csca_example": "A ball is thrown horizontally from a height, exhibiting projectile motion."
+  },
+  {
+    "id": "stem:phys:0013",
+    "domain": "physics",
+    "term": "force",
+    "ru_translation": "сила",
+    "symbol": "F, N",
+    "en_definition": "A vector quantity that causes an object to accelerate or change direction.",
+    "csca_example": "A force of 10 N is applied horizontally to a block on a smooth surface."
+  },
+  {
+    "id": "stem:phys:0014",
+    "domain": "physics",
+    "term": "mass",
+    "ru_translation": "масса",
+    "symbol": "m, kg",
+    "en_definition": "A measure of the amount of matter in an object and its resistance to acceleration.",
+    "csca_example": "An object with a mass of 5 kg is subjected to a force of 20 N."
+  },
+  {
+    "id": "stem:phys:0015",
+    "domain": "physics",
+    "term": "weight",
+    "ru_translation": "вес",
+    "symbol": "W, N",
+    "en_definition": "The force exerted on an object due to gravity, equal to mass times gravitational acceleration.",
+    "csca_example": "The weight of a 10 kg object on Earth is approximately 100 N."
+  },
+  {
+    "id": "stem:phys:0016",
+    "domain": "physics",
+    "term": "Newton's first law",
+    "ru_translation": "первый закон Ньютона",
+    "symbol": null,
+    "en_definition": "An object at rest remains at rest and an object in motion remains in motion unless acted upon by a net force.",
+    "csca_example": "According to Newton's first law, the object continues moving at constant velocity on a frictionless surface."
+  },
+  {
+    "id": "stem:phys:0017",
+    "domain": "physics",
+    "term": "Newton's second law",
+    "ru_translation": "второй закон Ньютона",
+    "symbol": "F = ma",
+    "en_definition": "The net force on an object equals its mass multiplied by its acceleration.",
+    "csca_example": "By Newton's second law, the acceleration of the object is calculated as force divided by mass."
+  },
+  {
+    "id": "stem:phys:0018",
+    "domain": "physics",
+    "term": "Newton's third law",
+    "ru_translation": "третий закон Ньютона",
+    "symbol": null,
+    "en_definition": "For every action force, there is an equal and opposite reaction force.",
+    "csca_example": "Newton's third law states that when a ball hits a wall, the wall exerts an equal force on the ball."
+  },
+  {
+    "id": "stem:phys:0019",
+    "domain": "physics",
+    "term": "friction force",
+    "ru_translation": "сила трения",
+    "symbol": "f, N",
+    "en_definition": "A force that opposes the relative motion between two surfaces in contact.",
+    "csca_example": "The friction force between the block and the surface is 15 N."
+  },
+  {
+    "id": "stem:phys:0020",
+    "domain": "physics",
+    "term": "normal force",
+    "ru_translation": "сила нормальной реакции",
+    "symbol": "N, N",
+    "en_definition": "The perpendicular contact force exerted by a surface on an object.",
+    "csca_example": "The normal force acting on the book resting on the table equals its weight."
+  },
+  {
+    "id": "stem:phys:0021",
+    "domain": "physics",
+    "term": "frictionless surface",
+    "ru_translation": "поверхность без трения",
+    "symbol": null,
+    "en_definition": "An idealized surface with no friction, allowing objects to slide without resistance.",
+    "csca_example": "A block slides down a frictionless surface with only gravity acting on it."
+  },
+  {
+    "id": "stem:phys:0022",
+    "domain": "physics",
+    "term": "tension",
+    "ru_translation": "натяжение",
+    "symbol": "T, N",
+    "en_definition": "The force transmitted through a rope, cable, or string when it is pulled at both ends.",
+    "csca_example": "The tension in the rope is equal to the weight of the suspended object."
+  },
+  {
+    "id": "stem:phys:0023",
+    "domain": "physics",
+    "term": "gravitational force",
+    "ru_translation": "сила гравитации",
+    "symbol": "Fg, N",
+    "en_definition": "The attractive force exerted between two masses, given by Newton's law of universal gravitation.",
+    "csca_example": "The gravitational force between the Earth and an object determines the object's weight."
+  },
+  {
+    "id": "stem:phys:0024",
+    "domain": "physics",
+    "term": "elastic force",
+    "ru_translation": "упругая сила",
+    "symbol": "Fe, N",
+    "en_definition": "The restoring force exerted by a deformed elastic object, described by Hooke's law.",
+    "csca_example": "The elastic force in a compressed spring is proportional to the compression distance."
+  },
+  {
+    "id": "stem:phys:0025",
+    "domain": "physics",
+    "term": "work",
+    "ru_translation": "работа",
+    "symbol": "W, J",
+    "en_definition": "The energy transferred by a force acting on an object as it moves in the direction of the force.",
+    "csca_example": "The work done by the force on the object is calculated as force times displacement."
+  },
+  {
+    "id": "stem:phys:0026",
+    "domain": "physics",
+    "term": "kinetic energy",
+    "ru_translation": "кинетическая энергия",
+    "symbol": "Ek, J",
+    "en_definition": "The energy possessed by an object due to its motion, equal to one-half mass times velocity squared.",
+    "csca_example": "The kinetic energy of the moving car increases as its velocity increases."
+  },
+  {
+    "id": "stem:phys:0027",
+    "domain": "physics",
+    "term": "potential energy",
+    "ru_translation": "потенциальная энергия",
+    "symbol": "Ep, J",
+    "en_definition": "The energy possessed by an object due to its position or state, relative to a reference point.",
+    "csca_example": "The potential energy of an object at height h above the ground is mgh."
+  },
+  {
+    "id": "stem:phys:0028",
+    "domain": "physics",
+    "term": "power",
+    "ru_translation": "мощность",
+    "symbol": "P, W",
+    "en_definition": "The rate at which work is done or energy is transferred, measured in watts.",
+    "csca_example": "The power delivered by the engine is 5000 watts during the acceleration phase."
+  },
+  {
+    "id": "stem:phys:0029",
+    "domain": "physics",
+    "term": "energy conservation",
+    "ru_translation": "закон сохранения энергии",
+    "symbol": null,
+    "en_definition": "The principle that the total energy of an isolated system remains constant over time.",
+    "csca_example": "By energy conservation, the sum of kinetic and potential energy remains constant in a pendulum."
+  },
+  {
+    "id": "stem:phys:0030",
+    "domain": "physics",
+    "term": "momentum",
+    "ru_translation": "импульс",
+    "symbol": "p, kg·m/s",
+    "en_definition": "The product of an object's mass and velocity, a vector quantity representing the amount of motion.",
+    "csca_example": "The momentum of the moving object changes when a force acts on it."
+  },
+  {
+    "id": "stem:phys:0031",
+    "domain": "physics",
+    "term": "temperature",
+    "ru_translation": "температура",
+    "symbol": "T, K",
+    "en_definition": "A measure of the average kinetic energy of particles in a substance.",
+    "csca_example": "The temperature of the gas increases when heat is supplied to it."
+  },
+  {
+    "id": "stem:phys:0032",
+    "domain": "physics",
+    "term": "heat",
+    "ru_translation": "теплота",
+    "symbol": "Q, J",
+    "en_definition": "The transfer of thermal energy between objects at different temperatures.",
+    "csca_example": "Heat flows from the hot water to the cold water until thermal equilibrium is reached."
+  },
+  {
+    "id": "stem:phys:0033",
+    "domain": "physics",
+    "term": "specific heat capacity",
+    "ru_translation": "удельная теплоёмкость",
+    "symbol": "c, J/(kg·K)",
+    "en_definition": "The amount of heat required to raise the temperature of one kilogram of a substance by one kelvin.",
+    "csca_example": "Water has a high specific heat capacity, making it useful as a coolant."
+  },
+  {
+    "id": "stem:phys:0034",
+    "domain": "physics",
+    "term": "thermal equilibrium",
+    "ru_translation": "тепловое равновесие",
+    "symbol": null,
+    "en_definition": "A state where two or more objects have the same temperature and no net heat flows between them.",
+    "csca_example": "The system reaches thermal equilibrium when the temperature of all objects becomes equal."
+  },
+  {
+    "id": "stem:phys:0035",
+    "domain": "physics",
+    "term": "internal energy",
+    "ru_translation": "внутренняя энергия",
+    "symbol": "U, J",
+    "en_definition": "The total energy associated with the random motion of particles within a substance.",
+    "csca_example": "The internal energy of an ideal gas depends only on its absolute temperature."
+  },
+  {
+    "id": "stem:phys:0036",
+    "domain": "physics",
+    "term": "thermodynamics",
+    "ru_translation": "термодинамика",
+    "symbol": null,
+    "en_definition": "The study of heat, work, and the properties of systems in thermal equilibrium.",
+    "csca_example": "Thermodynamics explains why heat flows from hot objects to cold objects."
+  },
+  {
+    "id": "stem:phys:0037",
+    "domain": "physics",
+    "term": "pressure",
+    "ru_translation": "давление",
+    "symbol": "P, Pa",
+    "en_definition": "The force exerted per unit area, measured in pascals or atmospheres.",
+    "csca_example": "The pressure of the gas in the container increases as the volume decreases."
+  },
+  {
+    "id": "stem:phys:0038",
+    "domain": "physics",
+    "term": "density",
+    "ru_translation": "плотность",
+    "symbol": "ρ, kg/m³",
+    "en_definition": "The mass per unit volume of a substance, a characteristic property of materials.",
+    "csca_example": "The density of water is approximately 1000 kg/m³ at room temperature."
+  },
+  {
+    "id": "stem:phys:0039",
+    "domain": "physics",
+    "term": "ideal gas",
+    "ru_translation": "идеальный газ",
+    "symbol": null,
+    "en_definition": "A theoretical gas composed of particles with no intermolecular forces, following the ideal gas law.",
+    "csca_example": "For an ideal gas, PV equals nRT, where n is the number of moles."
+  },
+  {
+    "id": "stem:phys:0040",
+    "domain": "physics",
+    "term": "molecule",
+    "ru_translation": "молекула",
+    "symbol": null,
+    "en_definition": "The smallest unit of a substance that retains the chemical properties of that substance.",
+    "csca_example": "A water molecule consists of one oxygen atom bonded to two hydrogen atoms."
+  },
+  {
+    "id": "stem:phys:0041",
+    "domain": "physics",
+    "term": "electric charge",
+    "ru_translation": "электрический заряд",
+    "symbol": "q, C",
+    "en_definition": "A fundamental property of matter that causes electromagnetic interactions.",
+    "csca_example": "An electron carries a negative electric charge of 1.6 × 10⁻¹⁹ coulombs."
+  },
+  {
+    "id": "stem:phys:0042",
+    "domain": "physics",
+    "term": "electric field",
+    "ru_translation": "электрическое поле",
+    "symbol": "E, N/C",
+    "en_definition": "The space around a charged object where electric forces are exerted on other charges.",
+    "csca_example": "The electric field around a positive charge points away from the charge."
+  },
+  {
+    "id": "stem:phys:0043",
+    "domain": "physics",
+    "term": "electric potential",
+    "ru_translation": "электрический потенциал",
+    "symbol": "V, V",
+    "en_definition": "The amount of work per unit charge required to move a charge against the electric field.",
+    "csca_example": "The electric potential difference between two points is measured in volts."
+  },
+  {
+    "id": "stem:phys:0044",
+    "domain": "physics",
+    "term": "voltage",
+    "ru_translation": "напряжение",
+    "symbol": "U, V",
+    "en_definition": "The potential difference between two points in an electrical circuit.",
+    "csca_example": "The voltage across the resistor is 12 volts when a current of 2 amperes flows through it."
+  },
+  {
+    "id": "stem:phys:0045",
+    "domain": "physics",
+    "term": "current",
+    "ru_translation": "ток",
+    "symbol": "I, A",
+    "en_definition": "The flow of electric charge through a conductor, measured in amperes.",
+    "csca_example": "A current of 3 amperes flows through the wire connected to the battery."
+  },
+  {
+    "id": "stem:phys:0046",
+    "domain": "physics",
+    "term": "resistance",
+    "ru_translation": "сопротивление",
+    "symbol": "R, Ω",
+    "en_definition": "The opposition to the flow of electric current through a conductor, measured in ohms.",
+    "csca_example": "Ohm's law states that the resistance of a conductor is the voltage divided by the current."
+  },
+  {
+    "id": "stem:phys:0047",
+    "domain": "physics",
+    "term": "circuit",
+    "ru_translation": "цепь",
+    "symbol": null,
+    "en_definition": "A closed path through which electric current flows, consisting of a power source and resistive elements.",
+    "csca_example": "In a series circuit, the current is the same at all points along the path."
+  },
+  {
+    "id": "stem:phys:0048",
+    "domain": "physics",
+    "term": "series circuit",
+    "ru_translation": "последовательная цепь",
+    "symbol": null,
+    "en_definition": "An electrical circuit where components are connected one after another in a single path.",
+    "csca_example": "In a series circuit, if one bulb burns out, the entire circuit stops working."
+  },
+  {
+    "id": "stem:phys:0049",
+    "domain": "physics",
+    "term": "parallel circuit",
+    "ru_translation": "параллельная цепь",
+    "symbol": null,
+    "en_definition": "An electrical circuit where components are connected along multiple paths, each with its own voltage.",
+    "csca_example": "In a parallel circuit, each branch has the same voltage but may have different currents."
+  },
+  {
+    "id": "stem:phys:0050",
+    "domain": "physics",
+    "term": "capacitor",
+    "ru_translation": "конденсатор",
+    "symbol": "C, F",
+    "en_definition": "A device that stores electrical energy in an electric field between two conducting plates.",
+    "csca_example": "The capacitor in the circuit is charged to a voltage of 100 volts."
+  },
+  {
+    "id": "stem:phys:0051",
+    "domain": "physics",
+    "term": "inductor",
+    "ru_translation": "катушка индуктивности",
+    "symbol": "L, H",
+    "en_definition": "A device that stores electrical energy in a magnetic field created by current flow.",
+    "csca_example": "The inductor resists changes in the current flowing through the circuit."
+  },
+  {
+    "id": "stem:phys:0052",
+    "domain": "physics",
+    "term": "magnetic field",
+    "ru_translation": "магнитное поле",
+    "symbol": "B, T",
+    "en_definition": "The space around a magnet or current-carrying conductor where magnetic forces are exerted.",
+    "csca_example": "The magnetic field around a straight wire is circular and strengthens closer to the wire."
+  },
+  {
+    "id": "stem:phys:0053",
+    "domain": "physics",
+    "term": "electromagnetic induction",
+    "ru_translation": "электромагнитная индукция",
+    "symbol": null,
+    "en_definition": "The process by which a changing magnetic field induces an electric current in a conductor.",
+    "csca_example": "Electromagnetic induction occurs when a magnet is moved through a coil of wire."
+  },
+  {
+    "id": "stem:phys:0054",
+    "domain": "physics",
+    "term": "wavelength",
+    "ru_translation": "длина волны",
+    "symbol": "λ, m",
+    "en_definition": "The distance between consecutive crests or troughs in a wave.",
+    "csca_example": "The wavelength of visible light ranges from about 400 to 700 nanometers."
+  },
+  {
+    "id": "stem:phys:0055",
+    "domain": "physics",
+    "term": "frequency",
+    "ru_translation": "частота",
+    "symbol": "f, Hz",
+    "en_definition": "The number of complete oscillations or cycles per unit time of a periodic phenomenon.",
+    "csca_example": "The frequency of the alternating current is 50 hertz in European power systems."
+  },
+  {
+    "id": "stem:phys:0056",
+    "domain": "physics",
+    "term": "wave speed",
+    "ru_translation": "скорость волны",
+    "symbol": "v, m/s",
+    "en_definition": "The speed at which a wave travels through a medium, related to wavelength and frequency.",
+    "csca_example": "The wave speed is equal to the wavelength multiplied by the frequency."
+  },
+  {
+    "id": "stem:phys:0057",
+    "domain": "physics",
+    "term": "amplitude",
+    "ru_translation": "амплитуда",
+    "symbol": "A, m",
+    "en_definition": "The maximum displacement of a particle from its equilibrium position in an oscillating wave.",
+    "csca_example": "The amplitude of the sound wave determines its perceived loudness."
+  },
+  {
+    "id": "stem:phys:0058",
+    "domain": "physics",
+    "term": "period",
+    "ru_translation": "период",
+    "symbol": "T, s",
+    "en_definition": "The time required for one complete oscillation or cycle of a periodic motion.",
+    "csca_example": "The period of a simple pendulum depends on its length and gravitational acceleration."
+  },
+  {
+    "id": "stem:phys:0059",
+    "domain": "physics",
+    "term": "sound wave",
+    "ru_translation": "звуковая волна",
+    "symbol": null,
+    "en_definition": "A longitudinal mechanical wave that propagates through a medium by compression and rarefaction.",
+    "csca_example": "Sound waves travel slower through air than through water or solids."
+  },
+  {
+    "id": "stem:phys:0060",
+    "domain": "physics",
+    "term": "light",
+    "ru_translation": "свет",
+    "symbol": null,
+    "en_definition": "Electromagnetic radiation visible to the human eye, traveling at a speed of 3 × 10⁸ m/s.",
+    "csca_example": "Light refracts when passing from one medium to another with a different refractive index."
+  },
+  {
+    "id": "stem:phys:0061",
+    "domain": "physics",
+    "term": "reflection",
+    "ru_translation": "отражение",
+    "symbol": null,
+    "en_definition": "The bouncing back of light or sound waves when they hit a surface.",
+    "csca_example": "A mirror reflects light at the same angle as the incident light ray."
+  },
+  {
+    "id": "stem:phys:0062",
+    "domain": "physics",
+    "term": "refraction",
+    "ru_translation": "преломление",
+    "symbol": null,
+    "en_definition": "The bending of light or other waves when they pass from one medium to another.",
+    "csca_example": "Refraction causes objects underwater to appear closer to the surface than they actually are."
+  },
+  {
+    "id": "stem:phys:0063",
+    "domain": "physics",
+    "term": "lens",
+    "ru_translation": "линза",
+    "symbol": null,
+    "en_definition": "A curved optical element that focuses or diverges light to form images.",
+    "csca_example": "A convex lens converges parallel light rays to a single focal point."
+  },
+  {
+    "id": "stem:phys:0064",
+    "domain": "physics",
+    "term": "mirror",
+    "ru_translation": "зеркало",
+    "symbol": null,
+    "en_definition": "A smooth surface that reflects light, producing images of objects in front of it.",
+    "csca_example": "A concave mirror forms a magnified real image when the object is placed between the mirror and focal point."
+  },
+  {
+    "id": "stem:phys:0065",
+    "domain": "physics",
+    "term": "diffraction",
+    "ru_translation": "дифракция",
+    "symbol": null,
+    "en_definition": "The bending of waves around obstacles or through small openings.",
+    "csca_example": "Light diffracts when passing through a narrow slit, creating a diffraction pattern."
+  },
+  {
+    "id": "stem:phys:0066",
+    "domain": "physics",
+    "term": "interference",
+    "ru_translation": "интерференция",
+    "symbol": null,
+    "en_definition": "The combination of two or more waves resulting in a pattern of constructive or destructive superposition.",
+    "csca_example": "Interference between light waves from two slits creates bright and dark bands on a screen."
+  },
+  {
+    "id": "stem:phys:0067",
+    "domain": "physics",
+    "term": "neglect air resistance",
+    "ru_translation": "пренебречь сопротивлением воздуха",
+    "symbol": null,
+    "en_definition": "An assumption in physics problems that air friction forces are insignificant and can be ignored.",
+    "csca_example": "Neglect air resistance and calculate the time for the ball to reach the ground."
+  },
+  {
+    "id": "stem:phys:0068",
+    "domain": "physics",
+    "term": "smooth surface",
+    "ru_translation": "гладкая поверхность",
+    "symbol": null,
+    "en_definition": "A surface without friction or with negligible friction, allowing frictionless motion.",
+    "csca_example": "A block slides down a smooth surface without friction acting upon it."
+  },
+  {
+    "id": "stem:phys:0069",
+    "domain": "physics",
+    "term": "center of mass",
+    "ru_translation": "центр масс",
+    "symbol": null,
+    "en_definition": "The point in an object or system where the total mass can be considered to be concentrated.",
+    "csca_example": "The center of mass of a uniform sphere is located at its geometric center."
+  },
+  {
+    "id": "stem:phys:0070",
+    "domain": "physics",
+    "term": "collision",
+    "ru_translation": "столкновение",
+    "symbol": null,
+    "en_definition": "An event in which two or more objects come into contact and exert forces on each other.",
+    "csca_example": "In an elastic collision, both momentum and kinetic energy are conserved."
+  }
+]

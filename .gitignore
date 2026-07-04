@@ -13,3 +13,8 @@ tools/**/__pycache__/
 captures/
 .externalNativeBuild/
 .cxx/
+
+# Release signing: never commit the keystore or its credentials.
+*.jks
+*.keystore
+keystore.properties

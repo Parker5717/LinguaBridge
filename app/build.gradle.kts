@@ -1,3 +1,5 @@
+import java.util.Properties
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -5,6 +7,14 @@ plugins {
     alias(libs.plugins.kotlin.serialization)
     alias(libs.plugins.ksp)
     alias(libs.plugins.room)
+}
+
+// Release signing lives in a gitignored keystore.properties (never the keystore
+// itself, never credentials, in version control). Absent locally, release
+// builds fall back to unsigned output rather than failing the build.
+val keystoreProperties = Properties().apply {
+    val file = rootProject.file("keystore.properties")
+    if (file.exists()) file.inputStream().use { load(it) }
 }
 
 android {
@@ -16,7 +26,18 @@ android {
         minSdk = 29
         targetSdk = 35
         versionCode = 1
-        versionName = "0.1.0"
+        versionName = "1.0.0"
+    }
+
+    signingConfigs {
+        if (keystoreProperties.containsKey("storeFile")) {
+            create("release") {
+                storeFile = file(keystoreProperties.getProperty("storeFile"))
+                storePassword = keystoreProperties.getProperty("storePassword")
+                keyAlias = keystoreProperties.getProperty("keyAlias")
+                keyPassword = keystoreProperties.getProperty("keyPassword")
+            }
+        }
     }
 
     buildTypes {
@@ -27,6 +48,7 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+            signingConfigs.findByName("release")?.let { signingConfig = it }
         }
     }
 

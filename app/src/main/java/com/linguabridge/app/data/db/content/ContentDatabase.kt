@@ -19,7 +19,7 @@ import androidx.room.RoomDatabase
         ListeningPassageEntity::class,
         CardEntity::class
     ],
-    version = 2,
+    version = 3,
     exportSchema = true
 )
 abstract class ContentDatabase : RoomDatabase() {

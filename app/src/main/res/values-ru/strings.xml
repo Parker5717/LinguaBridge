@@ -59,9 +59,9 @@
     <!-- Decks -->
     <string name="decks_title">Колоды</string>
     <string name="today_browse_decks">Просмотр колод</string>
-    <string name="deck_en_ru">Английский → русский</string>
-    <string name="deck_def_en">Определение → английское слово</string>
-    <string name="deck_zh_en">Китайский → английский</string>
+    <string name="deck_en_ru">Английские слова</string>
+    <string name="deck_def_en">Определение → слово (B2)</string>
+    <string name="deck_zh_en">Китайские слова (HSK)</string>
     <string name="deck_gram_term">Грамматические термины</string>
     <string name="deck_stem_en">Термины STEM</string>
 
@@ -74,6 +74,10 @@
     <string name="library_level_b2">B2</string>
     <string name="library_no_texts">На этом уровне пока нет текстов</string>
     <string name="library_no_dialogues">Диалогов пока нет</string>
+    <string name="library_tab_grammar">Грамматика</string>
+    <string name="library_hsk_hint">HSK 1–2</string>
+    <string name="hskgrammar_title">Грамматика китайского</string>
+    <string name="hskgrammar_empty">Грамматических тем пока нет</string>
 
     <!-- Reader -->
     <string name="reader_word_not_found">Нет в словаре</string>
@@ -245,4 +249,5 @@
     <string name="wordgame_backspace">Стереть</string>
     <string name="wordgame_loading">Загрузка списка слов…</string>
     <string name="wordgame_unavailable">В словаре пока недостаточно слов из 5 букв</string>
+    <string name="wordgame_invalid_word">Такого слова нет в списке</string>
 </resources>

@@ -28,6 +28,7 @@ import androidx.navigation.navArgument
 import com.linguabridge.app.ui.decks.DecksScreen
 import com.linguabridge.app.ui.dictionary.DictionaryScreen
 import com.linguabridge.app.ui.library.DialogueScreen
+import com.linguabridge.app.ui.library.HskGrammarScreen
 import com.linguabridge.app.ui.library.LibraryScreen
 import com.linguabridge.app.ui.library.ReaderScreen
 import com.linguabridge.app.ui.navigation.TopDestination
@@ -96,7 +97,13 @@ fun LinguaBridgeRoot() {
                 LibraryScreen(
                     onOpenText = { textId -> navController.navigate("reader/$textId") },
                     onOpenDialogue = { dialogueId -> navController.navigate("dialogue/$dialogueId") },
+                    onOpenHskGrammar = { navController.navigate("hskgrammar") },
                 )
+            }
+            composable("hskgrammar") {
+                SubScreen(stringResource(R.string.hskgrammar_title), { navController.popBackStack() }) {
+                    HskGrammarScreen()
+                }
             }
             composable(
                 route = "reader/{textId}",
@@ -131,15 +138,13 @@ fun LinguaBridgeRoot() {
                     WordGameScreen()
                 }
             }
+            // Dictation/listening/quiz/placement ship their own top bars, so
+            // they are NOT wrapped in SubScreen (that would double the bar).
             composable("dictation") {
-                SubScreen(stringResource(R.string.practice_dictation_title), { navController.popBackStack() }) {
-                    DictationScreen(onBack = { navController.popBackStack() })
-                }
+                DictationScreen(onBack = { navController.popBackStack() })
             }
             composable("listening") {
-                SubScreen(stringResource(R.string.practice_listening_title), { navController.popBackStack() }) {
-                    ListeningScreen(onBack = { navController.popBackStack() })
-                }
+                ListeningScreen(onBack = { navController.popBackStack() })
             }
             composable("quizzes") {
                 SubScreen(stringResource(R.string.quiz_list_title), { navController.popBackStack() }) {
@@ -154,14 +159,10 @@ fun LinguaBridgeRoot() {
                 arguments = listOf(navArgument("category") { type = NavType.StringType }),
             ) { backStackEntry ->
                 val category = backStackEntry.arguments?.getString("category").orEmpty()
-                SubScreen(stringResource(R.string.quiz_list_title), { navController.popBackStack() }) {
-                    QuizSessionScreen(category = category, onBack = { navController.popBackStack() })
-                }
+                QuizSessionScreen(category = category, onBack = { navController.popBackStack() })
             }
             composable("placement") {
-                SubScreen(stringResource(R.string.quiz_placement_title), { navController.popBackStack() }) {
-                    PlacementScreen(onBack = { navController.popBackStack() })
-                }
+                PlacementScreen(onBack = { navController.popBackStack() })
             }
             composable(TopDestination.Stats.route) {
                 StatsScreen()

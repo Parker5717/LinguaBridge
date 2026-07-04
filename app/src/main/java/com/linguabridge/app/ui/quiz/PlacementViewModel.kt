@@ -9,7 +9,9 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
 
-private const val PASS_THRESHOLD = 3
+/** A level counts as passed when this share of its questions is correct.
+ *  (A share, not an absolute count: the pool grew from 4 to 10 per level.) */
+private const val PASS_SHARE = 0.6
 
 sealed interface PlacementUiState {
     data object Intro : PlacementUiState
@@ -66,12 +68,15 @@ class PlacementViewModel(private val quizRepository: QuizRepository) : ViewModel
     }
 
     private fun estimateLevel(): String {
-        val a2 = correctByLevel["A2"] ?: 0
-        val b1 = correctByLevel["B1"] ?: 0
-        val b2 = correctByLevel["B2"] ?: 0
-        if (a2 < PASS_THRESHOLD) return "PRE_A2"
-        if (b1 < PASS_THRESHOLD) return "A2"
-        if (b2 < PASS_THRESHOLD) return "B1"
+        fun passed(level: String): Boolean {
+            val total = questions.count { it.question.level == level }
+            if (total == 0) return false
+            val needed = kotlin.math.ceil(total * PASS_SHARE).toInt()
+            return (correctByLevel[level] ?: 0) >= needed
+        }
+        if (!passed("A2")) return "PRE_A2"
+        if (!passed("B1")) return "A2"
+        if (!passed("B2")) return "B1"
         return "B2"
     }
 

@@ -40,7 +40,8 @@ object WordNotifications {
                 context,
                 Notifications.CHANNEL_WORDS,
                 id = NOTIFICATION_ID,
-                title = context.getString(R.string.notif_word_title, card.front),
+                // Chinese card fronts are "hanzi\npinyin" — keep the title on one line.
+                title = context.getString(R.string.notif_word_title, card.front.replace('\n', ' ')),
                 body = listOfNotNull(translation, card.example).joinToString("\n"),
             )
         }

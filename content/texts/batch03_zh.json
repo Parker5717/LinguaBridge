@@ -1,0 +1,65 @@
+[
+  {
+    "id": "text:zh:01",
+    "level": "ZH",
+    "title": "My First Day",
+    "topic": "everyday",
+    "body": "我叫安娜。我是学生。\nWǒ jiào Ānnà. Wǒ shì xuésheng.\nMy name is Anna. I am a student.\n\n我在大连学习。我今天很高兴。\nWǒ zài Dàlián xuéxí. Wǒ jīntiān hěn gāoxìng.\nI study in Dalian. I am very happy today.\n\n这是我的同学。他叫马克。\nZhè shì wǒ de tóngxué. Tā jiào Mǎkè.\nThis is my classmate. His name is Mark.\n\n他也是学生。他是我的朋友。\nTā yě shì xuésheng. Tā shì wǒ de péngyou.\nHe is also a student. He is my friend.\n\n我们的老师很好。她姓王。\nWǒmen de lǎoshī hěn hǎo. Tā xìng Wáng.\nOur teacher is very nice. Her family name is Wang.\n\n今天是我第一天上课。我很高兴认识你。\nJīntiān shì wǒ dì-yī tiān shàngkè. Wǒ hěn gāoxìng rènshi nǐ.\nToday is my first day of class. I am glad to meet you."
+  },
+  {
+    "id": "text:zh:02",
+    "level": "ZH",
+    "title": "In the Canteen",
+    "topic": "everyday",
+    "body": "现在是中午。我很饿。\nXiànzài shì zhōngwǔ. Wǒ hěn è.\nIt is noon now. I am very hungry.\n\n我和朋友去食堂吃饭。\nWǒ hé péngyou qù shítáng chīfàn.\nMy friend and I go to the canteen to eat.\n\n食堂里有很多人。\nShítáng lǐ yǒu hěn duō rén.\nThere are many people in the canteen.\n\n我要一碗米饭和一个鸡蛋。\nWǒ yào yì wǎn mǐfàn hé yí ge jīdàn.\nI want a bowl of rice and an egg.\n\n我朋友要面条和青菜。\nWǒ péngyou yào miàntiáo hé qīngcài.\nMy friend wants noodles and vegetables.\n\n饭很好吃，也不贵。\nFàn hěn hǎochī, yě bú guì.\nThe food is delicious and not expensive.\n\n我们坐下慢慢吃。\nWǒmen zuòxià mànmàn chī.\nWe sit down and eat slowly."
+  },
+  {
+    "id": "text:zh:03",
+    "level": "ZH",
+    "title": "Buying Fruit",
+    "topic": "everyday",
+    "body": "星期六，我去水果店买水果。\nXīngqīliù, wǒ qù shuǐguǒdiàn mǎi shuǐguǒ.\nOn Saturday, I go to the fruit shop to buy fruit.\n\n店里有苹果、香蕉和西瓜。\nDiàn lǐ yǒu píngguǒ, xiāngjiāo hé xīguā.\nThe shop has apples, bananas, and watermelon.\n\n我问：\"苹果多少钱一斤？\"\nWǒ wèn: \"Píngguǒ duōshao qián yì jīn?\"\nI ask: \"How much is a jin of apples?\"\n\n老板说：\"三块钱一斤。\"\nLǎobǎn shuō: \"Sān kuài qián yì jīn.\"\nThe owner says: \"Three yuan per jin.\"\n\n我买了两斤苹果和三个香蕉。\nWǒ mǎi le liǎng jīn píngguǒ hé sān ge xiāngjiāo.\nI bought two jin of apples and three bananas.\n\n我用手机付钱，很方便。\nWǒ yòng shǒujī fùqián, hěn fāngbiàn.\nI paid with my phone; it was very convenient.\n\n水果又新鲜又便宜，我很满意。\nShuǐguǒ yòu xīnxiān yòu piányi, wǒ hěn mǎnyì.\nThe fruit is both fresh and cheap; I am very satisfied."
+  },
+  {
+    "id": "text:zh:04",
+    "level": "ZH",
+    "title": "Asking the Way",
+    "topic": "campus",
+    "body": "我在学校，可是我找不到图书馆。\nWǒ zài xuéxiào, kěshì wǒ zhǎo bu dào túshūguǎn.\nI am at school, but I cannot find the library.\n\n我问一个学生：\"请问，图书馆在哪儿？\"\nWǒ wèn yí ge xuésheng: \"Qǐngwèn, túshūguǎn zài nǎr?\"\nI ask a student: \"Excuse me, where is the library?\"\n\n她说：\"图书馆在食堂的后面。\"\nTā shuō: \"Túshūguǎn zài shítáng de hòumiàn.\"\nShe says: \"The library is behind the canteen.\"\n\n她说：\"往前走，然后往右拐。\"\nTā shuō: \"Wǎng qián zǒu, ránhòu wǎng yòu guǎi.\"\nShe says: \"Go straight, then turn right.\"\n\n我说：\"谢谢你！\"她说：\"不客气。\"\nWǒ shuō: \"Xièxie nǐ!\" Tā shuō: \"Bú kèqi.\"\nI say: \"Thank you!\" She says: \"You're welcome.\"\n\n我走了五分钟，就到了图书馆。\nWǒ zǒu le wǔ fēnzhōng, jiù dào le túshūguǎn.\nI walked for five minutes and arrived at the library.\n\n图书馆很大，也很安静。\nTúshūguǎn hěn dà, yě hěn ānjìng.\nThe library is big and quiet."
+  },
+  {
+    "id": "text:zh:05",
+    "level": "ZH",
+    "title": "My Weekend",
+    "topic": "everyday",
+    "body": "这个周末，我不上课。\nZhège zhōumò, wǒ bú shàngkè.\nThis weekend, I do not have class.\n\n星期六早上，我在宿舍睡懒觉。\nXīngqīliù zǎoshang, wǒ zài sùshè shuì lǎnjiào.\nOn Saturday morning, I sleep in at the dorm.\n\n中午，我和同学去公园散步。\nZhōngwǔ, wǒ hé tóngxué qù gōngyuán sànbù.\nAt noon, my classmates and I go for a walk in the park.\n\n公园里有很多花，也有很多人。\nGōngyuán lǐ yǒu hěn duō huā, yě yǒu hěn duō rén.\nThe park has many flowers and many people.\n\n下午，我在图书馆看书，写作业。\nXiàwǔ, wǒ zài túshūguǎn kàn shū, xiě zuòyè.\nIn the afternoon, I read books and do homework in the library.\n\n晚上，我们一起看电影。\nWǎnshang, wǒmen yìqǐ kàn diànyǐng.\nIn the evening, we watch a movie together.\n\n这个周末很轻松，也很开心。\nZhège zhōumò hěn qīngsōng, yě hěn kāixīn.\nThis weekend is relaxing and happy."
+  },
+  {
+    "id": "text:zh:06",
+    "level": "ZH",
+    "title": "Calling a Friend",
+    "topic": "everyday",
+    "body": "晚上，我给我的朋友打电话。\nWǎnshang, wǒ gěi wǒ de péngyou dǎ diànhuà.\nIn the evening, I call my friend.\n\n她问：\"喂，你好吗？\"\nTā wèn: \"Wéi, nǐ hǎo ma?\"\nShe asks: \"Hello, how are you?\"\n\n我说：\"我很好，谢谢。你呢？\"\nWǒ shuō: \"Wǒ hěn hǎo, xièxie. Nǐ ne?\"\nI say: \"I am fine, thanks. And you?\"\n\n她说：\"我也很好。你今天忙不忙？\"\nTā shuō: \"Wǒ yě hěn hǎo. Nǐ jīntiān máng bu máng?\"\nShe says: \"I am fine too. Are you busy today?\"\n\n我说：\"不太忙。你想不想明天一起吃饭？\"\nWǒ shuō: \"Bú tài máng. Nǐ xiǎng bu xiǎng míngtiān yìqǐ chīfàn?\"\nI say: \"Not too busy. Do you want to have a meal together tomorrow?\"\n\n她说：\"好啊！几点见面？\"\nTā shuō: \"Hǎo a! Jǐ diǎn jiànmiàn?\"\nShe says: \"Sure! What time shall we meet?\"\n\n我说：\"中午十二点，在食堂门口。\"\nWǒ shuō: \"Zhōngwǔ shí'èr diǎn, zài shítáng ménkǒu.\"\nI say: \"At twelve noon, at the canteen entrance.\""
+  },
+  {
+    "id": "text:zh:07",
+    "level": "ZH",
+    "title": "At the Library",
+    "topic": "campus",
+    "body": "下午，我去图书馆看书。\nXiàwǔ, wǒ qù túshūguǎn kàn shū.\nIn the afternoon, I go to the library to read.\n\n图书馆里很安静，学生也很多。\nTúshūguǎn lǐ hěn ānjìng, xuésheng yě hěn duō.\nThe library is quiet, and there are many students.\n\n我找了一本英语书和一本汉语书。\nWǒ zhǎo le yì běn Yīngyǔ shū hé yì běn Hànyǔ shū.\nI found an English book and a Chinese book.\n\n我坐在窗户旁边，开始学习。\nWǒ zuò zài chuānghu pángbiān, kāishǐ xuéxí.\nI sit next to the window and start studying.\n\n三个小时以后，我很累，就去喝咖啡。\nSān ge xiǎoshí yǐhòu, wǒ hěn lèi, jiù qù hē kāfēi.\nAfter three hours, I am tired, so I go to drink coffee.\n\n晚上八点，图书馆关门。\nWǎnshang bā diǎn, túshūguǎn guānmén.\nAt eight in the evening, the library closes.\n\n我借了两本书，明天还要来。\nWǒ jiè le liǎng běn shū, míngtiān hái yào lái.\nI borrowed two books, and I will come again tomorrow."
+  },
+  {
+    "id": "text:zh:08",
+    "level": "ZH",
+    "title": "Talking About the Weather",
+    "topic": "everyday",
+    "body": "今天天气怎么样？\nJīntiān tiānqì zěnmeyàng?\nHow is the weather today?\n\n今天天气很好，也很暖和。\nJīntiān tiānqì hěn hǎo, yě hěn nuǎnhuo.\nThe weather is nice and warm today.\n\n昨天下雨了，非常冷。\nZuótiān xiàyǔ le, fēicháng lěng.\nIt rained yesterday, and it was very cold.\n\n我朋友说：\"明天可能会刮风。\"\nWǒ péngyou shuō: \"Míngtiān kěnéng huì guāfēng.\"\nMy friend says: \"It might be windy tomorrow.\"\n\n我不喜欢下雨天，我喜欢晴天。\nWǒ bù xǐhuan xiàyǔtiān, wǒ xǐhuan qíngtiān.\nI don't like rainy days; I like sunny days.\n\n晴天的时候，我常常去公园跑步。\nQíngtiān de shíhou, wǒ chángcháng qù gōngyuán pǎobù.\nOn sunny days, I often go to the park to run.\n\n冬天很冷，夏天很热，我最喜欢春天。\nDōngtiān hěn lěng, xiàtiān hěn rè, wǒ zuì xǐhuan chūntiān.\nWinter is cold and summer is hot; I like spring the best."
+  },
+  {
+    "id": "text:zh:09",
+    "level": "ZH",
+    "title": "Taking the Metro",
+    "topic": "campus",
+    "body": "今天我要去市中心，我坐地铁去。\nJīntiān wǒ yào qù shìzhōngxīn, wǒ zuò dìtiě qù.\nToday I want to go downtown, so I take the metro.\n\n地铁站离学校不远，走路十分钟。\nDìtiě zhàn lí xuéxiào bù yuǎn, zǒulù shí fēnzhōng.\nThe metro station is not far from school, a ten-minute walk.\n\n我用手机买票，很快也很方便。\nWǒ yòng shǒujī mǎi piào, hěn kuài yě hěn fāngbiàn.\nI buy a ticket with my phone; it's fast and convenient.\n\n地铁里人很多，可是车很快。\nDìtiě lǐ rén hěn duō, kěshì chē hěn kuài.\nThere are many people on the metro, but the train is fast.\n\n我坐了四站，就到了市中心。\nWǒ zuò le sì zhàn, jiù dào le shìzhōngxīn.\nI rode for four stops and arrived downtown.\n\n下车以后，我和朋友一起逛商店。\nXiàchē yǐhòu, wǒ hé péngyou yìqǐ guàng shāngdiàn.\nAfter getting off, my friend and I go shopping together.\n\n坐地铁又便宜又快，我很喜欢。\nZuò dìtiě yòu piányi yòu kuài, wǒ hěn xǐhuan.\nTaking the metro is cheap and fast; I like it a lot."
+  }
+]

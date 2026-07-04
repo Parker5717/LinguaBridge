@@ -61,9 +61,9 @@
     <!-- Decks -->
     <string name="decks_title">Decks</string>
     <string name="today_browse_decks">Browse decks</string>
-    <string name="deck_en_ru">English → Russian</string>
-    <string name="deck_def_en">Definition → English word</string>
-    <string name="deck_zh_en">Chinese → English</string>
+    <string name="deck_en_ru">English words</string>
+    <string name="deck_def_en">Definition → word (B2)</string>
+    <string name="deck_zh_en">Chinese words (HSK)</string>
     <string name="deck_gram_term">Grammar terms</string>
     <string name="deck_stem_en">STEM terms</string>
 
@@ -76,6 +76,10 @@
     <string name="library_level_b2">B2</string>
     <string name="library_no_texts">No texts at this level yet</string>
     <string name="library_no_dialogues">No dialogues yet</string>
+    <string name="library_tab_grammar">Grammar</string>
+    <string name="library_hsk_hint">HSK 1–2</string>
+    <string name="hskgrammar_title">Chinese grammar</string>
+    <string name="hskgrammar_empty">No grammar points yet</string>
 
     <!-- Reader -->
     <string name="reader_word_not_found">Not in dictionary</string>
@@ -248,4 +252,5 @@
     <string name="wordgame_backspace">Backspace</string>
     <string name="wordgame_loading">Loading word pool…</string>
     <string name="wordgame_unavailable">Not enough 5-letter words in the dictionary yet</string>
+    <string name="wordgame_invalid_word">Not in word list</string>
 </resources>

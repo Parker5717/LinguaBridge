@@ -84,6 +84,7 @@ fun ReaderScreen(textId: String, onBack: () -> Unit) {
 
                 is ReaderUiState.Ready -> ReaderBody(
                     body = s.text.body,
+                    level = s.text.level,
                     restoredItem = s.restoredItem,
                     onWordTapped = viewModel::onWordTapped,
                     onSavePosition = viewModel::saveReadPosition,
@@ -104,6 +105,7 @@ fun ReaderScreen(textId: String, onBack: () -> Unit) {
 @Composable
 private fun ReaderBody(
     body: String,
+    level: String,
     restoredItem: Int,
     onWordTapped: (String) -> Unit,
     onSavePosition: (Int) -> Unit,
@@ -112,6 +114,7 @@ private fun ReaderBody(
     val listState = rememberLazyListState(
         initialFirstVisibleItemIndex = restoredItem.coerceIn(0, (paragraphs.size - 1).coerceAtLeast(0)),
     )
+    val isChinese = level == "ZH"
 
     DisposableEffect(Unit) {
         onDispose { onSavePosition(listState.firstVisibleItemIndex) }
@@ -124,7 +127,11 @@ private fun ReaderBody(
         verticalArrangement = Arrangement.spacedBy(16.dp),
     ) {
         items(paragraphs.size) { index ->
-            ParagraphView(paragraphs[index], onWordTapped)
+            if (isChinese) {
+                ChineseParagraphView(paragraphs[index])
+            } else {
+                ParagraphView(paragraphs[index], onWordTapped)
+            }
         }
     }
 }
@@ -143,6 +150,29 @@ private fun ParagraphView(paragraph: String, onWordTapped: (String) -> Unit) {
                 style = MaterialTheme.typography.bodyLarge,
                 modifier = Modifier.clickable { onWordTapped(word) },
             )
+        }
+    }
+}
+
+/**
+ * Chinese reading texts are stored as blocks of three lines (hanzi, pinyin,
+ * English), one block per paragraph. Word-tap lookup only makes sense for
+ * English vocab, so Chinese paragraphs render as plain, non-tappable text.
+ */
+@Composable
+private fun ChineseParagraphView(paragraph: String) {
+    val lines = remember(paragraph) { paragraph.split("\n").filter { it.isNotBlank() } }
+    Column(verticalArrangement = Arrangement.spacedBy(2.dp)) {
+        lines.forEachIndexed { index, line ->
+            when (index) {
+                0 -> Text(line, style = MaterialTheme.typography.titleMedium)
+                1 -> Text(
+                    line,
+                    style = MaterialTheme.typography.bodyMedium,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+                else -> Text(line, style = MaterialTheme.typography.bodySmall)
+            }
         }
     }
 }

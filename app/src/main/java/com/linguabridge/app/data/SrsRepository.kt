@@ -72,10 +72,13 @@ class SrsRepository(
             .flatMap { dao.dueByDeck(it, now, reviewAllowance) }
             .sortedBy { it.dueAt }
             .take(reviewAllowance)
+        // Selection is by added_at (deck order, bumped words first), but the
+        // session order is shuffled so it can't be memorised.
         val fresh = activeDecks
             .flatMap { dao.newCardsByDeck(it, newAllowance) }
             .sortedBy { it.addedAt }
             .take(newAllowance)
+            .shuffled()
         return attachContent(due + fresh)
     }
 

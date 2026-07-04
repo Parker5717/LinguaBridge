@@ -6,17 +6,61 @@
   "items": {
     "type": "object",
     "additionalProperties": false,
-    "required": ["id", "hanzi", "pinyin", "en_meaning", "ru_meaning", "hsk_level", "example_zh", "example_pinyin", "example_en"],
+    "required": [
+      "id",
+      "hanzi",
+      "pinyin",
+      "en_meaning",
+      "ru_meaning",
+      "hsk_level",
+      "example_zh",
+      "example_pinyin",
+      "example_en"
+    ],
     "properties": {
-      "id": { "type": "string", "pattern": "^hsk:[0-9]{4}$" },
-      "hanzi": { "type": "string", "minLength": 1, "maxLength": 8 },
-      "pinyin": { "type": "string", "minLength": 1 },
-      "en_meaning": { "type": "string", "minLength": 1 },
-      "ru_meaning": { "type": "string", "minLength": 1 },
-      "hsk_level": { "enum": [1, 2] },
-      "example_zh": { "type": "string", "minLength": 2 },
-      "example_pinyin": { "type": "string", "minLength": 2 },
-      "example_en": { "type": "string", "minLength": 3 }
+      "id": {
+        "type": "string",
+        "pattern": "^hsk:[0-9]{4}$"
+      },
+      "hanzi": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 8
+      },
+      "pinyin": {
+        "type": "string",
+        "minLength": 1
+      },
+      "en_meaning": {
+        "type": "string",
+        "minLength": 1
+      },
+      "ru_meaning": {
+        "type": "string",
+        "minLength": 1
+      },
+      "hsk_level": {
+        "enum": [
+          1,
+          2
+        ]
+      },
+      "example_zh": {
+        "type": "string",
+        "minLength": 2
+      },
+      "example_pinyin": {
+        "type": "string",
+        "minLength": 2
+      },
+      "example_en": {
+        "type": "string",
+        "minLength": 3
+      },
+      "mnemonic_ru": {
+        "type": "string",
+        "minLength": 5
+      }
     }
   }
 }

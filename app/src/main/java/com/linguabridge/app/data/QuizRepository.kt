@@ -17,6 +17,10 @@ val QUIZ_CATEGORIES = listOf("vocab", "engrammar", "gramterm", "stem", "hsk", "c
 
 private val PLACEMENT_LEVEL_ORDER = listOf("A2", "B1", "B2")
 
+/** Questions per quiz session — a random slice of the 30-question pool, so
+ *  "try again" serves a different mix instead of a memorisable sequence. */
+private const val SESSION_SIZE = 12
+
 /**
  * Backs Phase 5: category quizzes, the level placement test, and CSCA
  * exam-prep mode. Delegates session bookkeeping to [PracticeRepository].
@@ -27,10 +31,12 @@ class QuizRepository(
     private val practiceRepository: PracticeRepository,
 ) {
 
-    /** Questions for [category], shuffled; mcq options are shuffled too. */
+    /** A quiz session: [SESSION_SIZE] random questions from the category pool;
+     *  mcq options are shuffled too. */
     suspend fun questions(category: String): List<QuizItem> =
         contentDb.quizDao().byCategory(category)
             .shuffled()
+            .take(SESSION_SIZE)
             .map { toQuizItem(it, shuffleOptions = true) }
 
     /** Placement questions ordered A2 → B1 → B2 (shuffled within each level). */

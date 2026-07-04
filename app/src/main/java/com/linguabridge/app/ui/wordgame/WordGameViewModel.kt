@@ -1,8 +1,10 @@
 package com.linguabridge.app.ui.wordgame
 
+import android.app.Application
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
+import com.linguabridge.app.R
 import com.linguabridge.app.data.LibraryRepository
 import com.linguabridge.app.data.SettingsRepository
 import com.linguabridge.app.data.db.content.VocabEntity
@@ -12,11 +14,13 @@ import com.linguabridge.app.domain.wordgame.keyboardState
 import com.linguabridge.app.domain.wordgame.scoreGuess
 import java.time.LocalDate
 import java.time.ZoneId
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 const val WORD_LENGTH = 5
 const val MAX_GUESSES = 6
@@ -36,6 +40,8 @@ data class WordGameUiState(
     val currentInput: String = "",
     val status: GameStatus = GameStatus.PLAYING,
     val invalidGuessMessage: Boolean = false,
+    /** True when a well-formed 5-letter guess was rejected for not being a recognized word. Transient, cleared on next input change. */
+    val invalidWordMessage: Boolean = false,
     /** True if today's daily game was already completed before this screen opened. */
     val dailyAlreadyPlayed: Boolean = false,
     val addedToDeck: Boolean = false,
@@ -55,6 +61,7 @@ data class WordGameUiState(
  * - Practice: a random word from the pool, freely replayable.
  */
 class WordGameViewModel(
+    private val application: Application,
     private val libraryRepository: LibraryRepository,
     private val settingsRepository: SettingsRepository,
 ) : ViewModel() {
@@ -63,6 +70,12 @@ class WordGameViewModel(
     val uiState: StateFlow<WordGameUiState> = _uiState.asStateFlow()
 
     private var pool: List<VocabEntity> = emptyList()
+
+    /** Extra accepted 5-letter guesses beyond the vocab pool, loaded lazily from `res/raw/wordle_valid.txt`. */
+    private var validGuessWords: Set<String>? = null
+
+    /** Guards against double-submits while [isAcceptedGuess] is checking (first call loads the dictionary file). */
+    private var checkingGuess = false
 
     init {
         viewModelScope.launch {
@@ -139,34 +152,85 @@ class WordGameViewModel(
 
     fun onInputChange(text: String) {
         val filtered = text.lowercase().filter { it in 'a'..'z' }.take(WORD_LENGTH)
-        _uiState.value = _uiState.value.copy(currentInput = filtered, invalidGuessMessage = false)
+        _uiState.value = _uiState.value.copy(
+            currentInput = filtered,
+            invalidGuessMessage = false,
+            invalidWordMessage = false,
+        )
     }
 
     fun onKeyPress(c: Char) {
         val state = _uiState.value
         if (state.status != GameStatus.PLAYING || state.currentInput.length >= WORD_LENGTH) return
-        _uiState.value = state.copy(currentInput = state.currentInput + c, invalidGuessMessage = false)
+        _uiState.value = state.copy(
+            currentInput = state.currentInput + c,
+            invalidGuessMessage = false,
+            invalidWordMessage = false,
+        )
     }
 
     fun onBackspace() {
         val state = _uiState.value
         if (state.status != GameStatus.PLAYING || state.currentInput.isEmpty()) return
-        _uiState.value = state.copy(currentInput = state.currentInput.dropLast(1), invalidGuessMessage = false)
+        _uiState.value = state.copy(
+            currentInput = state.currentInput.dropLast(1),
+            invalidGuessMessage = false,
+            invalidWordMessage = false,
+        )
+    }
+
+    /** Loads (and caches) the bundled dictionary of accepted 5-letter guesses from `res/raw/wordle_valid.txt`. */
+    private suspend fun loadValidGuessWords(): Set<String> {
+        validGuessWords?.let { return it }
+        val loaded = withContext(Dispatchers.IO) {
+            application.resources.openRawResource(R.raw.wordle_valid).bufferedReader().useLines { lines ->
+                lines.map { it.trim().lowercase() }.filter { it.length == WORD_LENGTH }.toSet()
+            }
+        }
+        validGuessWords = loaded
+        return loaded
     }
 
     /**
-     * Submits the current input as a guess. Any 5-letter a-z word is accepted
-     * — the bundled vocab pool is small, so restricting guesses to "known"
-     * words would make plausible real-word guesses feel arbitrarily rejected.
+     * A guess is accepted if it's one of the pool's headwords (so the secret
+     * word itself is always guessable) or appears in the bundled dictionary
+     * of common 5-letter English words.
+     */
+    private suspend fun isAcceptedGuess(guess: String): Boolean {
+        if (pool.any { it.headword == guess }) return true
+        return guess in loadValidGuessWords()
+    }
+
+    /**
+     * Submits the current input as a guess. Malformed input (wrong length or
+     * non a-z characters) and well-formed guesses that aren't real words
+     * (checked against the vocab pool + bundled dictionary) are both rejected
+     * without consuming an attempt.
      */
     fun submitGuess() {
         val state = _uiState.value
-        if (state.status != GameStatus.PLAYING) return
+        if (state.status != GameStatus.PLAYING || checkingGuess) return
         val guess = state.currentInput
         if (guess.length != WORD_LENGTH || guess.any { it !in 'a'..'z' }) {
             _uiState.value = state.copy(invalidGuessMessage = true)
             return
         }
+
+        checkingGuess = true
+        viewModelScope.launch {
+            val accepted = isAcceptedGuess(guess)
+            checkingGuess = false
+            if (!accepted) {
+                _uiState.value = _uiState.value.copy(invalidWordMessage = true)
+                return@launch
+            }
+            commitGuess(guess)
+        }
+    }
+
+    private fun commitGuess(guess: String) {
+        val state = _uiState.value
+        if (state.status != GameStatus.PLAYING) return
 
         val newGuesses = state.guesses + guess
         val won = guess == state.secret
@@ -182,6 +246,7 @@ class WordGameViewModel(
             currentInput = "",
             status = newStatus,
             invalidGuessMessage = false,
+            invalidWordMessage = false,
         )
 
         if (state.mode == WordGameMode.DAILY && newStatus != GameStatus.PLAYING) {
@@ -204,11 +269,12 @@ class WordGameViewModel(
     }
 
     class Factory(
+        private val application: Application,
         private val libraryRepository: LibraryRepository,
         private val settingsRepository: SettingsRepository,
     ) : ViewModelProvider.Factory {
         @Suppress("UNCHECKED_CAST")
         override fun <T : ViewModel> create(modelClass: Class<T>): T =
-            WordGameViewModel(libraryRepository, settingsRepository) as T
+            WordGameViewModel(application, libraryRepository, settingsRepository) as T
     }
 }

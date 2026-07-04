@@ -40,6 +40,8 @@ data class Exercise(
     val fullBack: String,
     /** Example sentence for the feedback banner (already blanked for CLOZE). */
     val example: String?,
+    /** Typed answer is pinyin: compare ignoring tone marks. */
+    val answerIsPinyin: Boolean = false,
 )
 
 enum class AnswerVerdict { CORRECT, TYPO, WRONG }
@@ -52,6 +54,15 @@ fun checkTypedAnswer(expected: String, given: String): AnswerVerdict {
     if (e.isEmpty() || g.isEmpty()) return AnswerVerdict.WRONG
     return if (levenshtein(e, g) <= 1) AnswerVerdict.TYPO else AnswerVerdict.WRONG
 }
+
+/** Pinyin check: tone marks and spaces are optional ("shíjiān" == "shijian"). */
+fun checkPinyinAnswer(expected: String, given: String): AnswerVerdict =
+    checkTypedAnswer(normalizePinyin(expected), normalizePinyin(given))
+
+private fun normalizePinyin(s: String): String =
+    java.text.Normalizer.normalize(s.trim().lowercase(), java.text.Normalizer.Form.NFD)
+        .replace(Regex("\\p{Mn}+"), "")
+        .replace(" ", "")
 
 private fun levenshtein(a: String, b: String): Int {
     if (a == b) return 0

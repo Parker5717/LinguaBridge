@@ -8,8 +8,8 @@
     "additionalProperties": false,
     "required": ["id", "level", "title", "topic", "body"],
     "properties": {
-      "id": { "type": "string", "pattern": "^text:(a2|b1|b2):[0-9]{2}$" },
-      "level": { "enum": ["A2", "B1", "B2"] },
+      "id": { "type": "string", "pattern": "^text:(a2|b1|b2|zh):[0-9]{2}$" },
+      "level": { "enum": ["A2", "B1", "B2", "ZH"] },
       "title": { "type": "string", "minLength": 3 },
       "topic": { "enum": ["everyday", "campus", "stem"] },
       "body": { "type": "string", "minLength": 300 }

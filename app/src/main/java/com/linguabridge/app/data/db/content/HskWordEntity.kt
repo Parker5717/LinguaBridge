@@ -21,5 +21,8 @@ data class HskWordEntity(
     @ColumnInfo(name = "example_pinyin")
     val examplePinyin: String,
     @ColumnInfo(name = "example_en")
-    val exampleEn: String
+    val exampleEn: String,
+    /** Russian memory association for the characters (visual/etymological). */
+    @ColumnInfo(name = "mnemonic_ru")
+    val mnemonicRu: String?
 )

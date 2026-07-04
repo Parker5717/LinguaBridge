@@ -13,6 +13,7 @@ import com.linguabridge.app.domain.exercise.ExerciseFactory
 import com.linguabridge.app.domain.exercise.ExerciseKind
 import com.linguabridge.app.domain.dictation.DiffToken
 import com.linguabridge.app.domain.dictation.diffWords
+import com.linguabridge.app.domain.exercise.checkPinyinAnswer
 import com.linguabridge.app.domain.exercise.checkTypedAnswer
 import com.linguabridge.app.domain.srs.Rating
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -98,7 +99,11 @@ class ReviewViewModel(
         if (s !is ReviewUiState.Studying || s.feedback != null) return
         when (s.exercise.kind) {
             ExerciseKind.TYPE_ANSWER, ExerciseKind.CLOZE ->
-                showFeedback(s, checkTypedAnswer(s.exercise.answer, text))
+                showFeedback(
+                    s,
+                    if (s.exercise.answerIsPinyin) checkPinyinAnswer(s.exercise.answer, text)
+                    else checkTypedAnswer(s.exercise.answer, text),
+                )
             ExerciseKind.SENTENCE_TRANSLATE ->
                 showFeedback(s, checkSentence(s.exercise.answer, text))
             else -> return
@@ -152,7 +157,12 @@ class ReviewViewModel(
             done++
             if (countCorrect) correct++
             if (updated.dueAt <= now + REQUEUE_LOOKAHEAD_MS) {
-                queue.addLast(exercise.card.copy(state = updated))
+                // Random slot (but not immediately next) so the return of a
+                // repeated card cannot be anticipated.
+                val slot =
+                    if (queue.size <= 2) queue.size
+                    else (2..queue.size).random()
+                queue.add(slot, exercise.card.copy(state = updated))
             }
             presentNext()
         }

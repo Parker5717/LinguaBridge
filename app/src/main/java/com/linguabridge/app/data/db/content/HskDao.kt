@@ -12,6 +12,9 @@ interface HskDao {
     @Query("SELECT * FROM hsk_grammar")
     suspend fun grammarPoints(): List<HskGrammarEntity>
 
+    @Query("SELECT * FROM hsk_grammar ORDER BY id")
+    suspend fun allGrammar(): List<HskGrammarEntity>
+
     @Query("SELECT COUNT(*) FROM hsk_word")
     suspend fun wordCount(): Int
 

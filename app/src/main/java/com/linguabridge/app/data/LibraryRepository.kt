@@ -3,6 +3,7 @@ package com.linguabridge.app.data
 import com.linguabridge.app.data.db.content.ContentDatabase
 import com.linguabridge.app.data.db.content.DialogueEntity
 import com.linguabridge.app.data.db.content.DialogueLineEntity
+import com.linguabridge.app.data.db.content.HskGrammarEntity
 import com.linguabridge.app.data.db.content.ReadingTextEntity
 import com.linguabridge.app.data.db.content.VocabEntity
 import com.linguabridge.app.data.db.user.ReadPositionEntity
@@ -27,6 +28,8 @@ class LibraryRepository(
 
     suspend fun dialogueLines(id: String): List<DialogueLineEntity> = contentDb.dialogueDao().linesFor(id)
 
+    suspend fun hskGrammar(): List<HskGrammarEntity> = contentDb.hskDao().allGrammar()
+
     /**
      * Candidate pool for the word game: 5-letter vocab headwords, lowercased
      * and restricted to plain ASCII a-z (the DB query already strips spaces,
@@ -37,6 +40,9 @@ class LibraryRepository(
         contentDb.vocabDao().fiveLetterWords()
             .map { it.copy(headword = it.headword.lowercase()) }
             .filter { entry -> entry.headword.all { it in 'a'..'z' } }
+            // Stable order: SQL result order is unspecified, but the daily
+            // word must be identical on every launch and device.
+            .sortedBy { it.headword }
 
     /**
      * Normalizes [raw] (lowercase, strip leading/trailing non-letters) and tries an

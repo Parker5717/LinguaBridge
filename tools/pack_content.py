@@ -601,13 +601,15 @@ def _insert_hsk_words(cur: sqlite3.Cursor, bundle: ContentBundle) -> dict[str, i
         (
             d["id"], d["hanzi"], d["pinyin"], d["en_meaning"], d["ru_meaning"],
             d["hsk_level"], d["example_zh"], d["example_pinyin"], d["example_en"],
+            d.get("mnemonic_ru"),
         )
         for item in bundle.hsk_words
         for d in [item.data]
     ]
     cur.executemany(
         "INSERT INTO hsk_word (id, hanzi, pinyin, en_meaning, ru_meaning, "
-        "hsk_level, example_zh, example_pinyin, example_en) VALUES (?,?,?,?,?,?,?,?,?)",
+        "hsk_level, example_zh, example_pinyin, example_en, mnemonic_ru) "
+        "VALUES (?,?,?,?,?,?,?,?,?,?)",
         rows,
     )
     return {"hsk_word": len(rows)}
@@ -756,7 +758,7 @@ def _insert_cards(cur: sqlite3.Cursor, bundle: ContentBundle) -> dict[str, Any]:
             "zh_en",
             f"{d['hanzi']}\n{d['pinyin']}",
             f"{d['en_meaning']}\n{d['ru_meaning']}",
-            None,
+            d.get("mnemonic_ru"),
             f"{d['example_zh']}\n{d['example_pinyin']}\n{d['example_en']}",
             "zh",
             d["hanzi"],

@@ -47,14 +47,26 @@ private fun levelLabelRes(level: String): Int = when (level) {
 }
 
 @Composable
-fun LibraryScreen(onOpenText: (String) -> Unit, onOpenDialogue: (String) -> Unit) {
+fun LibraryScreen(
+    onOpenText: (String) -> Unit,
+    onOpenDialogue: (String) -> Unit,
+    onOpenHskGrammar: () -> Unit,
+) {
     val app = LocalContext.current.applicationContext as LinguaBridgeApp
     val viewModel: LibraryViewModel = viewModel(
-        factory = LibraryViewModel.Factory(app.container.libraryRepository)
+        factory = LibraryViewModel.Factory(app.container.libraryRepository, app.container.settingsRepository)
     )
+    val studyLanguage by viewModel.studyLanguage.collectAsStateWithLifecycle(initialValue = "en")
+    val isChinese = studyLanguage == "zh"
 
     var tabIndex by rememberSaveable { mutableIntStateOf(0) }
-    val tabs = listOf(R.string.library_tab_texts, R.string.library_tab_dialogues)
+    val tabs = if (isChinese) {
+        listOf(R.string.library_tab_texts, R.string.library_tab_dialogues, R.string.library_tab_grammar)
+    } else {
+        listOf(R.string.library_tab_texts, R.string.library_tab_dialogues)
+    }
+    // Guard against a stale tab index when switching study language.
+    val safeTabIndex = tabIndex.coerceIn(0, tabs.lastIndex)
 
     Column(Modifier.fillMaxSize()) {
         Text(
@@ -62,40 +74,51 @@ fun LibraryScreen(onOpenText: (String) -> Unit, onOpenDialogue: (String) -> Unit
             style = MaterialTheme.typography.titleLarge,
             modifier = Modifier.padding(16.dp),
         )
-        TabRow(selectedTabIndex = tabIndex) {
+        TabRow(selectedTabIndex = safeTabIndex) {
             tabs.forEachIndexed { index, labelRes ->
                 Tab(
-                    selected = tabIndex == index,
+                    selected = safeTabIndex == index,
                     onClick = { tabIndex = index },
                     text = { Text(stringResource(labelRes)) },
                 )
             }
         }
-        when (tabIndex) {
-            0 -> TextsTab(viewModel, onOpenText)
-            else -> DialoguesTab(viewModel, onOpenDialogue)
+        when (safeTabIndex) {
+            0 -> TextsTab(viewModel, isChinese, onOpenText)
+            1 -> DialoguesTab(viewModel, onOpenDialogue)
+            else -> GrammarTab(onOpenHskGrammar)
         }
     }
 }
 
 @Composable
-private fun TextsTab(viewModel: LibraryViewModel, onOpenText: (String) -> Unit) {
+private fun TextsTab(viewModel: LibraryViewModel, isChinese: Boolean, onOpenText: (String) -> Unit) {
     var level by rememberSaveable { mutableStateOf(LEVELS.first()) }
-    val texts by viewModel.textsForLevel(level).collectAsStateWithLifecycle(initialValue = null)
+    val effectiveLevel = if (isChinese) "ZH" else level
+    val texts by viewModel.textsForLevel(effectiveLevel).collectAsStateWithLifecycle(initialValue = null)
 
     Column(Modifier.fillMaxSize()) {
-        Row(
-            Modifier
-                .fillMaxWidth()
-                .padding(horizontal = 16.dp, vertical = 8.dp),
-            horizontalArrangement = Arrangement.spacedBy(8.dp),
-        ) {
-            LEVELS.forEach { lvl ->
-                FilterChip(
-                    selected = level == lvl,
-                    onClick = { level = lvl },
-                    label = { Text(stringResource(levelLabelRes(lvl))) },
-                )
+        if (isChinese) {
+            Text(
+                stringResource(R.string.library_hsk_hint),
+                style = MaterialTheme.typography.labelMedium,
+                color = MaterialTheme.colorScheme.outline,
+                modifier = Modifier.padding(horizontal = 16.dp, vertical = 8.dp),
+            )
+        } else {
+            Row(
+                Modifier
+                    .fillMaxWidth()
+                    .padding(horizontal = 16.dp, vertical = 8.dp),
+                horizontalArrangement = Arrangement.spacedBy(8.dp),
+            ) {
+                LEVELS.forEach { lvl ->
+                    FilterChip(
+                        selected = level == lvl,
+                        onClick = { level = lvl },
+                        label = { Text(stringResource(levelLabelRes(lvl))) },
+                    )
+                }
             }
         }
 
@@ -120,6 +143,22 @@ private fun TextsTab(viewModel: LibraryViewModel, onOpenText: (String) -> Unit) 
                 items(current, key = { it.id }) { text ->
                     ReadingTextCard(text, onClick = { onOpenText(text.id) })
                 }
+            }
+        }
+    }
+}
+
+@Composable
+private fun GrammarTab(onOpenHskGrammar: () -> Unit) {
+    Column(Modifier.fillMaxSize().padding(16.dp)) {
+        Card(modifier = Modifier.fillMaxWidth(), onClick = onOpenHskGrammar) {
+            Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                Text(stringResource(R.string.hskgrammar_title), style = MaterialTheme.typography.titleMedium)
+                Text(
+                    stringResource(R.string.library_hsk_hint),
+                    style = MaterialTheme.typography.bodyMedium,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
             }
         }
     }

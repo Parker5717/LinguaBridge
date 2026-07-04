@@ -50,6 +50,7 @@ fun WordGameScreen() {
     val app = LocalContext.current.applicationContext as LinguaBridgeApp
     val viewModel: WordGameViewModel = viewModel(
         factory = WordGameViewModel.Factory(
+            app,
             app.container.libraryRepository,
             app.container.settingsRepository,
         )
@@ -110,6 +111,14 @@ private fun WordGameContent(state: WordGameUiState, viewModel: WordGameViewModel
         if (state.invalidGuessMessage) {
             Text(
                 stringResource(R.string.wordgame_invalid_guess),
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.error,
+            )
+        }
+
+        if (state.invalidWordMessage) {
+            Text(
+                stringResource(R.string.wordgame_invalid_word),
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.error,
             )

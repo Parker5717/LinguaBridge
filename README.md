@@ -2,8 +2,21 @@
 
 **English** · [Русский](#linguabridge--по-русски)
 
+[![Download APK](https://img.shields.io/github/v/release/Parker5717/LinguaBridge?label=Download%20APK&style=for-the-badge)](https://github.com/Parker5717/LinguaBridge/releases/latest)
+
 **Fully offline Android app for Russian speakers preparing for an English-taught
 foundation year at a Chinese university.**
+
+<p align="center"><img src="docs/demo.gif" alt="LinguaBridge demo: exercise, feedback, tap-to-translate reader" width="240"></p>
+
+<table>
+<tr>
+<td align="center"><img src="docs/screenshot_2_exercises.png" width="200"><br><sub>SM-2 exercise + feedback</sub></td>
+<td align="center"><img src="docs/screenshot_3_reader.png" width="200"><br><sub>Tap-to-translate reader</sub></td>
+<td align="center"><img src="docs/screenshot_4_dictation.png" width="200"><br><sub>Dictation with word diff</sub></td>
+<td align="center"><img src="docs/screenshot_5_stats.png" width="200"><br><sub>Streak & activity heatmap</sub></td>
+</tr>
+</table>
 
 Built for one very specific journey: native Russian → studying STEM subjects *in
 English* → learning Chinese *through English* — the exact situation of a student
@@ -102,8 +115,21 @@ Code: [MIT](LICENSE). Bundled Lora font: SIL OFL 1.1 (see [LICENSES.md](LICENSES
 
 [English](#linguabridge-) · **Русский**
 
+[![Скачать APK](https://img.shields.io/github/v/release/Parker5717/LinguaBridge?label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20APK&style=for-the-badge)](https://github.com/Parker5717/LinguaBridge/releases/latest)
+
 **Полностью офлайн Android-приложение для русскоязычных студентов, готовящихся
 к учёбе на англоязычной foundation-программе в китайском университете.**
+
+<p align="center"><img src="docs/demo.gif" alt="Демо LinguaBridge: упражнение, обратная связь, тап-перевод в читалке" width="240"></p>
+
+<table>
+<tr>
+<td align="center"><img src="docs/screenshot_2_exercises.png" width="200"><br><sub>Упражнение SM-2 + обратная связь</sub></td>
+<td align="center"><img src="docs/screenshot_3_reader.png" width="200"><br><sub>Читалка с тап-переводом</sub></td>
+<td align="center"><img src="docs/screenshot_4_dictation.png" width="200"><br><sub>Диктант с подсветкой ошибок</sub></td>
+<td align="center"><img src="docs/screenshot_5_stats.png" width="200"><br><sub>Стрик и тепловая карта</sub></td>
+</tr>
+</table>
 
 Сделано под один конкретный путь: родной русский → изучение STEM-предметов *на
 английском* → изучение китайского *через английский* — ровно та ситуация, в

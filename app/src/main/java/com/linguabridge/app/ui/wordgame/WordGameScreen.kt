@@ -225,10 +225,14 @@ private fun Keyboard(state: WordGameUiState, viewModel: WordGameViewModel) {
 @Composable
 private fun KeyboardKey(letter: Char, state: LetterState?, onClick: () -> Unit) {
     val colors = MaterialTheme.colorScheme
+    // ABSENT must read as "ruled out", clearly different from an untouched key.
+    // surfaceVariant and surfaceContainerHigh happen to be the same tone in
+    // this theme, so ABSENT gets outline (a distinctly darker/muted tone in
+    // both light and dark) instead of blending into the untouched keys.
     val (background, contentColor) = when (state) {
         LetterState.CORRECT -> colors.tertiary to colors.onTertiary
         LetterState.PRESENT -> colors.secondary to colors.onSecondary
-        LetterState.ABSENT -> colors.surfaceVariant to colors.onSurfaceVariant
+        LetterState.ABSENT -> colors.outline to colors.onSurface
         null -> colors.surfaceContainerHigh to colors.onSurface
     }
     Surface(

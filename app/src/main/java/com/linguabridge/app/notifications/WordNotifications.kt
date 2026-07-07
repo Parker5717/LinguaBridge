@@ -31,7 +31,10 @@ object WordNotifications {
         val counter = settings.nextWordNotificationCounter()
         val deckType = if (counter % 5 == 4) "zh_en" else "en_ru"
 
-        val state = app.container.userDb.cardStateDao().newCardsByDeck(deckType, 1).firstOrNull()
+        // Only cards not yet bumped to the queue front: picking newCardsByDeck
+        // here would return the card bumped by the PREVIOUS notification
+        // (added_at = 0 sorts first) and repeat the same word every time.
+        val state = app.container.userDb.cardStateDao().nextNotifiableByDeck(deckType)
         val card = state?.let { app.container.contentDb.cardDao().byId(it.cardId) }
         if (card != null) {
             app.container.userDb.cardStateDao().upsert(state.copy(addedAt = 0))

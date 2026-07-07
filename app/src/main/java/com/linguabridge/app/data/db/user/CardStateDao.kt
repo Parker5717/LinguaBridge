@@ -70,6 +70,15 @@ interface CardStateDao {
     )
     suspend fun nextDueByDeck(deckType: String): Long?
 
+    /** Next new card that has NOT been bumped to the queue front yet
+     *  (added_at = 0 marks cards already surfaced via notification or
+     *  add-to-deck), so word notifications never repeat a word. */
+    @Query(
+        "SELECT * FROM card_state WHERE state = 'new' AND added_at > 0 " +
+            "AND card_id LIKE 'card:' || :deckType || ':%' ORDER BY added_at LIMIT 1"
+    )
+    suspend fun nextNotifiableByDeck(deckType: String): CardStateEntity?
+
     @Query("SELECT COUNT(*) FROM card_state WHERE state != 'new' AND due_at <= :now")
     fun countDue(now: Long): Flow<Int>
 
